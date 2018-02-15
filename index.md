@@ -5,6 +5,19 @@ redirect_from: /
 layout: default
 ---
 
+{::options toc_levels="3" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
 # W3C Accessibility Standards Overview
 
 ## Introduction {#intro}
@@ -80,3 +93,5 @@ The following resources support development of accessibility evaluation methods 
 - [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute]( https://www.w3.org/WAI/intro/w3c-process)
 - [Why Standards Harmonization is Essential to Web Accessibility]( https://www.w3.org/WAI/Policy/harmon)
 - [Mobile Accessibility at W3C]( https://www.w3.org/WAI/mobile/)
+
+<br/><br/>
