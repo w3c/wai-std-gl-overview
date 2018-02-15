@@ -22,7 +22,7 @@ layout: default
 
 The World Wide Web Consortium (W3C) develops international Web standards: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets ">CSS</abbr>, and many more. W3C's Web standards are called <dfn>W3C Recommendations</dfn>.
 
-All W3C standards are reviewed for accessibility support.
+All W3C standards are reviewed for accessibility support by the Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group.
 
 The standards and Notes (which are not standards) introduced below are particularly relevant to accessibility.
 
