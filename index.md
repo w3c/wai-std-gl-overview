@@ -1,5 +1,5 @@
 ---
-title: Standards/Guidelines Overview
+title: W3C Accessibility Standards Overview
 permalink: /standards-guidelines/
 redirect_from: /
 layout: default
@@ -17,8 +17,6 @@ layout: default
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
-
-# W3C Accessibility Standards Overview
 
 ## Introduction {#intro}
 
