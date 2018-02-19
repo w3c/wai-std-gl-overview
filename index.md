@@ -31,8 +31,9 @@ The standards and Notes (which are not standards) introduced below are particula
 ### Web Content Accessibility Guidelines (WCAG) {#wcag}
 
 Web "content" generally refers to the information in a web page or web application, including:
-•	natural information such as text, images, and sounds
-•	code or markup that defines structure, presentation, etc.
+
+* natural information such as text, images, and sounds
+* code or markup that defines structure, presentation, etc.
 
 WCAG applies to dynamic content, multimedia, "mobile", etc. WCAG can also be applied to non-web information and communications technologies (ICT), as described in [WCAG2ICT]( https://www.w3.org/WAI/intro/wcag2ict).
 
@@ -92,4 +93,4 @@ The following resources support development of accessibility evaluation methods 
 - [Why Standards Harmonization is Essential to Web Accessibility]( https://www.w3.org/WAI/Policy/harmon)
 - [Mobile Accessibility at W3C]( https://www.w3.org/WAI/mobile/)
 
-![illustration showing the guidelines for the different components, detailed description at http://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-components/specs.png" | prepend: site.github.url }})
+![illustration showing the guidelines for the different components, detailed description at http://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | prepend: site.github.url }})
