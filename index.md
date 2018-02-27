@@ -88,10 +88,11 @@ The following resources support development of accessibility evaluation methods 
 - [Evaluation and Report Language (EARL) Overview](https://www.w3.org/WAI/intro/earl) &mdash; EARL is a machine-readable format for expressing test results.
 
 ## Additional Information {#moreinfo}
-- <strong>[Essential Components of Web Accessibility]( https://www.w3.org/WAI/intro/components) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong>
-- [Referencing and Linking to WAI Guidelines and Technical Documents]( http://www.w3.org/WAI/intro/linking)
-- [How WAI Develops Accessibility Guidelines through the W3C Process:<br/>Milestones and Opportunities to Contribute]( https://www.w3.org/WAI/intro/w3c-process)
-- [Why Standards Harmonization is Essential to Web Accessibility]( https://www.w3.org/WAI/Policy/harmon)
+- <strong>[List of all W3C accessibility-related standards ("Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)</strong><br/>
+- <strong>[Essential Components of Web Accessibility]( https://www.w3.org/WAI/intro/components) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong><br/>
+- [Why Standards Harmonization is Essential to Web Accessibility]( https://www.w3.org/WAI/Policy/harmon)<br/>
 - [Mobile Accessibility at W3C]( https://www.w3.org/WAI/mobile/)
+- [Referencing and Linking to WAI Guidelines and Technical Documents]( http://www.w3.org/WAI/intro/linking)<br/>
+- [How WAI Develops Accessibility Guidelines through the W3C Process:<br/>Milestones and **Opportunities to Contribute**]( https://www.w3.org/WAI/intro/w3c-process)<br/>
 
 ![illustration showing the guidelines for the different components, detailed description at http://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | prepend: site.github.url }})
