@@ -69,10 +69,11 @@ UAAG info:
 ### Accessible Rich Internet Applications (WAI-ARIA) {#aria}
 
 ARIA provides semantics so authors can convey user interface behaviors and structural information to assistive technologies (such as screen readers). The ARIA specification provides an ontology of roles, states, and properties that define accessible user interface elements.
+
 The ARIA suite includes <abbr title="application programming interface">API</abbr> mapping specifications that provide user agent implementation guidance. It also include modules for Graphics and Digital Publishing.
 
 ARIA info:
-- [WAI-ARIA Overview]( https://www.w3.org/WAI/intro/aria) – includes a [list of modules and mappings]( https://www.w3.org/WAI/intro/aria#versions)
+- [WAI-ARIA Overview]( https://www.w3.org/WAI/intro/aria) – includes a [list of modules and API mappings]( https://www.w3.org/WAI/intro/aria#versions)
 - [WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
 - [WAI-ARIA 1.1 Standard](https://www.w3.org/TR/wai-aria-1.1/)
 
