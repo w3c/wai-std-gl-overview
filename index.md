@@ -73,25 +73,26 @@ ARIA provides semantics so authors can convey user interface behaviors and struc
 The ARIA suite includes <abbr title="application programming interface">API</abbr> mapping specifications that provide user agent implementation guidance. It also include modules for Graphics and Digital Publishing.
 
 ARIA info:
-- [WAI-ARIA Overview]( https://www.w3.org/WAI/intro/aria) – includes a [list of modules and API mappings]( https://www.w3.org/WAI/intro/aria#versions)
+- [WAI-ARIA Overview]( https://www.w3.org/WAI/intro/aria) – includes a [list and description of modules and API mappings]( https://www.w3.org/WAI/intro/aria#versions)
 - [WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
 - [WAI-ARIA 1.1 Standard](https://www.w3.org/TR/wai-aria-1.1/)
 
 ### For Audio and Video {#multimedia}
 
-- [WebVTT: The Web Video Text Tracks Format]( https://www.w3.org/TR/webvtt/) is a format for captions, text video descriptions, and other metadata that is time-aligned with audio or video content.
+- [WebVTT: The Web Video Text Tracks Format]( https://www.w3.org/TR/webvtt/) is a format for captions, text video descriptions, and other metadata that is time-aligned with audio or video content.<br/>
 - [Timed Text Markup Language]( https://www.w3.org/TR/ttml2/) is intended to be used for transcoding or exchanging timed text information among legacy distribution content formats for subtitling and captioning.
 
 ### For Evaluation {#eval}
+
 The following resources support development of accessibility evaluation methods and tools:
-- [Accessibility Conformance Testing (ACT) Rules Format Draft]( https://www.w3.org/TR/act-rules-format/) &mdash; ACT Rules Format specifies requirements for writing accessibility test rules. It defines a common format that enables transparency and harmonization of testing methods.
+- [Accessibility Conformance Testing (ACT) Rules Format Draft]( https://www.w3.org/TR/act-rules-format/) &mdash; ACT Rules Format specifies requirements for writing accessibility test rules. It defines a common format that enables transparency and harmonization of testing methods.<br/>
 - [Evaluation and Report Language (EARL) Overview](https://www.w3.org/WAI/intro/earl) &mdash; EARL is a machine-readable format for expressing test results.
 
 ## Additional Information {#moreinfo}
 - <strong>[List of all W3C accessibility-related standards ("Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)</strong><br/>
 - <strong>[Essential Components of Web Accessibility]( https://www.w3.org/WAI/intro/components) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong><br/>
 - [Why Standards Harmonization is Essential to Web Accessibility]( https://www.w3.org/WAI/Policy/harmon)<br/>
-- [Mobile Accessibility at W3C]( https://www.w3.org/WAI/mobile/)
+- [Mobile Accessibility at W3C]( https://www.w3.org/WAI/mobile/)<br/>
 - [Referencing and Linking to WAI Guidelines and Technical Documents]( http://www.w3.org/WAI/intro/linking)<br/>
 - [How WAI Develops Accessibility Guidelines through the W3C Process:<br/>Milestones and **Opportunities to Contribute**]( https://www.w3.org/WAI/intro/w3c-process)<br/>
 
