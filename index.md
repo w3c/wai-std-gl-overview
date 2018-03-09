@@ -1,7 +1,6 @@
 ---
 title: W3C Accessibility Standards Overview
 permalink: /standards-guidelines/
-redirect_from: /
 layout: default
 ---
 
