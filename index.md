@@ -37,7 +37,7 @@ Web "content" generally refers to the information in a web page or web applicati
 WCAG applies to dynamic content, multimedia, "mobile", etc. WCAG can also be applied to non-web information and communications technologies (ICT), as described in [WCAG2ICT]( https://www.w3.org/WAI/intro/wcag2ict).
 
 WCAG info:
-- [WCAG Overview](https://www.w3.org/WAI/intro/wcag)
+- [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }})
 - [WCAG 2.0 at a Glance](https://www.w3.org/WAI/WCAG20/glance/)
 - [How to Meet WCAG 2.0 (Quick Reference)](https://www.w3.org/WAI/WCAG20/quickref/)
 - [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
