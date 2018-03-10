@@ -34,7 +34,7 @@ Web "content" generally refers to the information in a web page or web applicati
 * natural information such as text, images, and sounds
 * code or markup that defines structure, presentation, etc.
 
-WCAG applies to dynamic content, multimedia, "mobile", etc. WCAG can also be applied to non-web information and communications technologies (ICT), as described in [WCAG2ICT]( https://www.w3.org/WAI/intro/wcag2ict).
+WCAG applies to dynamic content, multimedia, "mobile", etc. WCAG can also be applied to non-web information and communications technologies (ICT), as described in [WCAG2ICT](https://www.w3.org/WAI/intro/wcag2ict).
 
 WCAG info:
 - [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }})
@@ -51,7 +51,7 @@ ATAG documents explain how to:
 •	help authors create more accessible web content.
 
 ATAG info:
-- [ATAG Overview](https://www.w3.org/WAI/intro/atag)
+- [ATAG Overview]({{ "/standards-guidelines/atag/" | relative_url }})
 - [ATAG at a Glance](https://www.w3.org/WAI/intro/atag-glance)
 - [ATAG 2.0 Standard](https://www.w3.org/TR/ATAG/)
 
@@ -60,7 +60,7 @@ ATAG info:
 User agents include browsers, browser extensions, media players, readers, and other applications that render web content.
 
 UAAG info:
-- [UAAG Overview](https://www.w3.org/WAI/intro/uaag)
+- [UAAG Overview]({{ "/standards-guidelines/uaag/" | relative_url }})
 - [UAAG 2.0 Note](https://www.w3.org/TR/UAAG20/)
 
 ## Technical Specifications
@@ -72,27 +72,27 @@ ARIA provides semantics so authors can convey user interface behaviors and struc
 The ARIA suite includes <abbr title="application programming interface">API</abbr> mapping specifications that provide user agent implementation guidance. It also include modules for Graphics and Digital Publishing.
 
 ARIA info:
-- [WAI-ARIA Overview]( https://www.w3.org/WAI/intro/aria) – includes a [list and description of modules and API mappings]( https://www.w3.org/WAI/intro/aria#versions)
+- [WAI-ARIA Overview]({{ "/standards-guidelines/aria/" | relative_url }}) – includes a [list and description of modules and API mappings]({{ "/standards-guidelines/aria/" | relative_url }}#versions)
 - [WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
 - [WAI-ARIA 1.1 Standard](https://www.w3.org/TR/wai-aria-1.1/)
 
 ### For Audio and Video {#multimedia}
 
-- [WebVTT: The Web Video Text Tracks Format]( https://www.w3.org/TR/webvtt/) is a format for captions, text video descriptions, and other metadata that is time-aligned with audio or video content.<br/>
-- [Timed Text Markup Language]( https://www.w3.org/TR/ttml2/) is intended to be used for transcoding or exchanging timed text information among legacy distribution content formats for subtitling and captioning.
+- [WebVTT: The Web Video Text Tracks Format](https://www.w3.org/TR/webvtt/) is a format for captions, text video descriptions, and other metadata that is time-aligned with audio or video content.<br/>
+- [Timed Text Markup Language](https://www.w3.org/TR/ttml2/) is intended to be used for transcoding or exchanging timed text information among legacy distribution content formats for subtitling and captioning.
 
 ### For Evaluation {#eval}
 
 The following resources support development of accessibility evaluation methods and tools:
-- [Accessibility Conformance Testing (ACT) Rules Format Draft]( https://www.w3.org/TR/act-rules-format/) &mdash; ACT Rules Format specifies requirements for writing accessibility test rules. It defines a common format that enables transparency and harmonization of testing methods.<br/>
+- [Accessibility Conformance Testing (ACT) Rules Format Draft](https://www.w3.org/TR/act-rules-format/) &mdash; ACT Rules Format specifies requirements for writing accessibility test rules. It defines a common format that enables transparency and harmonization of testing methods.<br/>
 - [Evaluation and Report Language (EARL) Overview](https://www.w3.org/WAI/intro/earl) &mdash; EARL is a machine-readable format for expressing test results.
 
 ## Additional Information {#moreinfo}
 - <strong>[List of all W3C accessibility-related standards ("Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)</strong><br/>
-- <strong>[Essential Components of Web Accessibility]( https://www.w3.org/WAI/intro/components) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong><br/>
-- [Why Standards Harmonization is Essential to Web Accessibility]( https://www.w3.org/WAI/Policy/harmon)<br/>
-- [Mobile Accessibility at W3C]( https://www.w3.org/WAI/mobile/)<br/>
-- [Referencing and Linking to WAI Guidelines and Technical Documents]( http://www.w3.org/WAI/intro/linking)<br/>
-- [How WAI Develops Accessibility Guidelines through the W3C Process:<br/>Milestones and **Opportunities to Contribute**]( https://www.w3.org/WAI/intro/w3c-process)<br/>
+- <strong>[Essential Components of Web Accessibility](https://www.w3.org/WAI/intro/components) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong><br/>
+- [Why Standards Harmonization is Essential to Web Accessibility](https://www.w3.org/WAI/Policy/harmon)<br/>
+- [Mobile Accessibility at W3C](https://www.w3.org/WAI/mobile/)<br/>
+- [Referencing and Linking to WAI Guidelines and Technical Documents](http://www.w3.org/WAI/intro/linking)<br/>
+- [How WAI Develops Accessibility Guidelines through the W3C Process:<br/>Milestones and **Opportunities to Contribute**](https://www.w3.org/WAI/intro/w3c-process)<br/>
 
 ![illustration showing the guidelines for the different components, detailed description at http://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | prepend: site.github.url }})
