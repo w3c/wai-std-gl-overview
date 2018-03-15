@@ -21,7 +21,7 @@ layout: default
 
 The World Wide Web Consortium (W3C) develops international Web standards: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets ">CSS</abbr>, and many more. W3C's Web standards are called <dfn>W3C Recommendations</dfn>.
 
-All W3C standards are reviewed for accessibility support by the Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)) Working Group.
+All W3C standards are reviewed for accessibility support by the Accessible Platform Architectures ([APA]({{ "/about/groups/apawg/" | relative_url }})) Working Group.
 
 The standards and Notes (which are not standards) introduced below are particularly relevant to accessibility.
 
@@ -78,21 +78,23 @@ ARIA info:
 
 ### For Audio and Video {#multimedia}
 
-- [WebVTT: The Web Video Text Tracks Format](https://www.w3.org/TR/webvtt/) is a format for captions, text video descriptions, and other metadata that is time-aligned with audio or video content.<br/>
+- [WebVTT: The Web Video Text Tracks Format](https://www.w3.org/TR/webvtt/) is a format for captions, text video descriptions, and other metadata that is time-aligned with audio or video content.
+
 - [Timed Text Markup Language](https://www.w3.org/TR/ttml2/) is intended to be used for transcoding or exchanging timed text information among legacy distribution content formats for subtitling and captioning.
 
 ### For Evaluation {#eval}
 
 The following resources support development of accessibility evaluation methods and tools:
-- [Accessibility Conformance Testing (ACT) Rules Format Draft](https://www.w3.org/TR/act-rules-format/) &mdash; ACT Rules Format specifies requirements for writing accessibility test rules. It defines a common format that enables transparency and harmonization of testing methods.<br/>
+- [Accessibility Conformance Testing (ACT) Rules Format Draft](https://www.w3.org/TR/act-rules-format/) &mdash; ACT Rules Format specifies requirements for writing accessibility test rules. It defines a common format that enables transparency and harmonization of testing methods.
 - [Evaluation and Report Language (EARL) Overview](https://www.w3.org/WAI/intro/earl) &mdash; EARL is a machine-readable format for expressing test results.
 
 ## Additional Information {#moreinfo}
-- <strong>[List of all W3C accessibility-related standards ("Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)</strong><br/>
-- <strong>[Essential Components of Web Accessibility](https://www.w3.org/WAI/intro/components) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong><br/>
-- [Why Standards Harmonization is Essential to Web Accessibility](https://www.w3.org/WAI/Policy/harmon)<br/>
-- [Mobile Accessibility at W3C](https://www.w3.org/WAI/mobile/)<br/>
-- [Referencing and Linking to WAI Guidelines and Technical Documents](http://www.w3.org/WAI/intro/linking)<br/>
-- [How WAI Develops Accessibility Guidelines through the W3C Process:<br/>Milestones and **Opportunities to Contribute**](https://www.w3.org/WAI/intro/w3c-process)<br/>
 
-![illustration showing the guidelines for the different components, detailed description at http://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | prepend: site.github.url }})
+- <strong>[List of all W3C accessibility-related standards ("Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)</strong>
+- <strong>[Essential Components of Web Accessibility](https://www.w3.org/WAI/intro/components) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong>
+- [Why Standards Harmonization is Essential to Web Accessibility](https://www.w3.org/WAI/Policy/harmon)
+- [Mobile Accessibility at W3C](https://www.w3.org/WAI/mobile/)
+- [Referencing and Linking to WAI Guidelines and Technical Documents](http://www.w3.org/WAI/intro/linking)
+- [How WAI Develops Accessibility Guidelines through the W3C Process:Milestones and **Opportunities to Contribute**](https://www.w3.org/WAI/intro/w3c-process)
+
+![illustration showing the guidelines for the different components, detailed description at http://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
