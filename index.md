@@ -2,6 +2,8 @@
 title: W3C Accessibility Standards Overview
 permalink: /standards-guidelines/
 layout: default
+github:
+  repository: w3c/wai-std-gl-overview
 ---
 
 {::options toc_levels="2,3" /}
