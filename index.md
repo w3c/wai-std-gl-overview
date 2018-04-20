@@ -6,6 +6,17 @@ github:
   repository: w3c/wai-std-gl-overview
 ---
 
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This page introduces guidelines and other standards related to web accessibility.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+
 {::options toc_levels="2,3" /}
 
 {::nomarkdown}
