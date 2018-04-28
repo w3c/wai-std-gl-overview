@@ -113,6 +113,6 @@ The following resources support development of accessibility evaluation methods 
 - [Why Standards Harmonization is Essential to Web Accessibility](https://www.w3.org/WAI/Policy/harmon)
 - [Mobile Accessibility at W3C](https://www.w3.org/WAI/mobile/)
 - [Referencing and Linking to WAI Guidelines and Technical Documents](http://www.w3.org/WAI/intro/linking)
-- [How WAI Develops Accessibility Guidelines through the W3C Process:Milestones and **Opportunities to Contribute**](https://www.w3.org/WAI/intro/w3c-process)
+- [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and **Opportunities to Contribute**](https://www.w3.org/WAI/intro/w3c-process)
 
 ![illustration showing the guidelines for the different components, detailed description at http://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
