@@ -103,8 +103,10 @@ ARIA info:
 ### For Evaluation {#eval}
 
 The following resources support development of accessibility evaluation methods and tools:
-- [Accessibility Conformance Testing (ACT) Rules Format Draft](https://www.w3.org/TR/act-rules-format/) &mdash; ACT Rules Format specifies requirements for writing accessibility test rules. It defines a common format that enables transparency and harmonization of testing methods.
-- [Evaluation and Report Language (EARL) Overview](https://www.w3.org/WAI/intro/earl) &mdash; EARL is a machine-readable format for expressing test results.
+
+- [Accessibility Conformance Testing (ACT) Overview](/standards-guidelines/act/) &mdash; ACT establishes and documents rules for testing the conformance of web content to accessibility standards.
+
+- [Evaluation and Report Language (EARL) Overview](/standards-guidelines/earl/) &mdash; EARL is a machine-readable format for expressing test results.
 
 ## Additional Information {#moreinfo}
 
