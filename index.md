@@ -111,10 +111,15 @@ The following resources support development of accessibility evaluation methods 
 ## Additional Information {#moreinfo}
 
 - <strong>[List of all W3C accessibility-related standards ("Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)</strong>
+
 - <strong>[Essential Components of Web Accessibility](https://www.w3.org/WAI/intro/components) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong>
+
 - [Why Standards Harmonization is Essential to Web Accessibility](https://www.w3.org/WAI/Policy/harmon)
+
 - [Mobile Accessibility at W3C](https://www.w3.org/WAI/mobile/)
+
 - [Referencing and Linking to WAI Guidelines and Technical Documents](http://www.w3.org/WAI/intro/linking)
+
 - [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and **Opportunities to Contribute**](https://www.w3.org/WAI/intro/w3c-process)
 
 ![illustration showing the guidelines for the different components, detailed description at http://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
