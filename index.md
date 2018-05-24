@@ -5,7 +5,7 @@ layout: default
 github:
   repository: w3c/wai-std-gl-overview
 footer: >
-  <p><strong>Date:</strong> Updated 20 March 2018.</p>
+  <p><strong>Date:</strong> Updated 24 May 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -56,10 +56,10 @@ WCAG applies to dynamic content, multimedia, "mobile", etc. WCAG can also be app
 
 WCAG info:
 - [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }})
-- [WCAG 2.0 at a Glance](https://www.w3.org/WAI/WCAG20/glance/)
-- [How to Meet WCAG 2.0 (Quick Reference)](https://www.w3.org/WAI/WCAG20/quickref/)
+- [WCAG 2 at a Glance](https://www.w3.org/WAI/WCAG20/glance/)
+- [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG20/quickref/)
 - [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
-- [WCAG 2.1 Draft](https://www.w3.org/TR/WCAG21/)
+- [WCAG 2.1](https://www.w3.org/TR/WCAG21/)
 
 ### Authoring Tool Accessibility Guidelines (ATAG) {#atag}
 
