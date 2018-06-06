@@ -56,8 +56,8 @@ WCAG applies to dynamic content, multimedia, "mobile", etc. WCAG can also be app
 
 WCAG info:
 - [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }})
-- [WCAG 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
-- [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG20/quickref/)
+- [WCAG 2.1 at a Glance]({{ "/standards-guidelines/wcag/glance/" | relative_url }})
+- [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
 - [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
 - [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/)
 
@@ -104,9 +104,9 @@ ARIA info:
 
 The following resources support development of accessibility evaluation methods and tools:
 
-- [Accessibility Conformance Testing (ACT) Overview](/standards-guidelines/act/) &mdash; ACT establishes and documents rules for testing the conformance of web content to accessibility standards.
+- [Accessibility Conformance Testing (ACT) Overview]({{ "/standards-guidelines/act/" | relative_url }}) &mdash; ACT establishes and documents rules for testing the conformance of web content to accessibility standards.
 
-- [Evaluation and Report Language (EARL) Overview](/standards-guidelines/earl/) &mdash; EARL is a machine-readable format for expressing test results.
+- [Evaluation and Report Language (EARL) Overview]({{ "/standards-guidelines/earl/" | relative_url }}) &mdash; EARL is a machine-readable format for expressing test results.
 
 ## Additional Information {#moreinfo}
 
