@@ -4,6 +4,7 @@ permalink: /standards-guidelines/
 layout: default
 github:
   repository: w3c/wai-std-gl-overview
+feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated 5 June 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
