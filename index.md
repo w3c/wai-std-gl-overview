@@ -6,7 +6,7 @@ github:
   repository: w3c/wai-std-gl-overview
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 5 June 2018.</p>
+  <p><strong>Date:</strong> Updated 4 January 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -64,10 +64,9 @@ WCAG info:
 
 ### Authoring Tool Accessibility Guidelines (ATAG) {#atag}
 
-Authoring tools are software and services that "authors" (web developers, designers, writers, etc.) use to produce web content. For example: HTML editors, content management systems (CMS), and websites that let users add content, such as blogs and social networking sites.
-ATAG documents explain how to:
-•	make the authoring tools themselves accessible, so that people with disabilities can create web content, and
-•	help authors create more accessible web content.
+Authoring tools are software and services that "authors" (web developers, designers, writers, etc.) use to produce web content. For example: HTML editors, content management systems (CMS), and websites that let users add content, such as blogs and social networking sites. ATAG documents explain how to:
+* make the authoring tools themselves accessible, so that people with disabilities can create web content, and
+* help authors create more accessible web content.
 
 ATAG info:
 - [ATAG Overview]({{ "/standards-guidelines/atag/" | relative_url }})
