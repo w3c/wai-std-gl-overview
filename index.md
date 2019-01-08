@@ -6,7 +6,7 @@ github:
   repository: w3c/wai-std-gl-overview
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 4 January 2018.</p>
+  <p><strong>Date:</strong> Updated 8 January 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -42,7 +42,7 @@ The World Wide Web Consortium (W3C) develops international Web standards: <abbr 
 
 All W3C standards are reviewed for accessibility support by the Accessible Platform Architectures ([APA]({{ "/about/groups/apawg/" | relative_url }})) Working Group.
 
-The standards and Notes (which are not standards) introduced below are particularly relevant to accessibility.
+The W3C standards and Working Group Notes introduced below are particularly relevant to accessibility.
 
 ## Accessibility Guidelines {#guidelines}
 
