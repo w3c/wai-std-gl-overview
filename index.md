@@ -112,7 +112,7 @@ The following resources support development of accessibility evaluation methods 
 
 - <strong>[List of all W3C accessibility-related standards ("Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)</strong>
 
-- <strong>[Essential Components of Web Accessibility](https://www.w3.org/WAI/intro/components) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong>
+- <strong>[Essential Components of Web Accessibility](https://www.w3.org/WAI/fundamentals/components/) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong>
 
 - [Why Standards Harmonization is Essential to Web Accessibility](https://www.w3.org/WAI/Policy/harmon)
 
