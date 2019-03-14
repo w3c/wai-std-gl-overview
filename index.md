@@ -94,13 +94,13 @@ ARIA info:
 - [WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
 - [WAI-ARIA 1.1 Standard](https://www.w3.org/TR/wai-aria-1.1/)
 
-### For Audio and Video {#multimedia}
+### Audio and Video {#multimedia}
 
 - [WebVTT: The Web Video Text Tracks Format](https://www.w3.org/TR/webvtt/) is a format for captions, text video descriptions, and other metadata that is time-aligned with audio or video content.
 
 - [Timed Text Markup Language](https://www.w3.org/TR/ttml2/) is intended to be used for transcoding or exchanging timed text information among legacy distribution content formats for subtitling and captioning.
 
-### For Evaluation {#eval}
+### Evaluation {#eval}
 
 The following resources support development of accessibility evaluation methods and tools:
 
