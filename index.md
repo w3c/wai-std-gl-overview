@@ -46,6 +46,8 @@ The W3C standards and Working Group Notes introduced below are particularly rele
 
 ## Accessibility Guidelines {#guidelines}
 
+[Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }}) shows how web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong>
+
 ### Web Content Accessibility Guidelines (WCAG) {#wcag}
 
 Web "content" generally refers to the information in a web page or web application, including:
@@ -125,9 +127,7 @@ Additional resources related to evaluation are listed in the [Evaluating Web Acc
 
 ## Additional Information {#moreinfo}
 
-- <strong>[List of all W3C accessibility-related Standards ("W3C Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)</strong>
-
-- <strong>[Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }}) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong>
+- [List of all W3C accessibility-related Standards ("W3C Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)
 
 - [Web Accessibility Laws & Policies]({{ "/policies/" | relative_url }}) lists governmental laws and policies relating to web accessibility in countries and regions around the world. Many of these reference W3C accessibility standards.
 
