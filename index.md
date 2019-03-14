@@ -6,7 +6,7 @@ github:
   repository: w3c/wai-std-gl-overview
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 8 January 2018.</p>
+  <p><strong>Date:</strong> Updated 13 March 2019.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -108,6 +108,16 @@ The following resources support development of accessibility evaluation methods 
 
 - [Evaluation and Report Language (EARL) Overview]({{ "/standards-guidelines/earl/" | relative_url }}) &mdash; EARL is a machine-readable format for expressing test results.
 
+### Personalization
+
+[Personalization Overview]({{ "/personalization/" | relative_url }}) &mdash; Personalization involves tailoring the user experience to meet the needs and preferences of the individual user. Content authors can use personalization standards to provide a default design and enable user personalization with minimal work.
+
+## Other Areas of W3C WAI work
+
+- [Mobile Accessibility at W3C](https://www.w3.org/WAI/mobile/)
+
+- [Cognitive Accessibility at W3C](https://www.w3.org/WAI/cognitive/)
+
 ## Additional Information {#moreinfo}
 
 - <strong>[List of all W3C accessibility-related standards ("Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)</strong>
@@ -115,8 +125,6 @@ The following resources support development of accessibility evaluation methods 
 - <strong>[Essential Components of Web Accessibility](https://www.w3.org/WAI/intro/components) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong>
 
 - [Why Standards Harmonization is Essential to Web Accessibility](https://www.w3.org/WAI/Policy/harmon)
-
-- [Mobile Accessibility at W3C](https://www.w3.org/WAI/mobile/)
 
 - [Referencing and Linking to WAI Guidelines and Technical Documents](http://www.w3.org/WAI/intro/linking)
 
