@@ -38,7 +38,7 @@ This page introduces guidelines and other standards related to web accessibility
 
 ## Introduction {#intro}
 
-The World Wide Web Consortium (W3C) develops international Web standards: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets ">CSS</abbr>, and many more. W3C's Web standards are called <dfn>W3C Recommendations</dfn>.
+The World Wide Web Consortium (W3C) develops international Web standards: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr>, and many more. W3C's Web standards are called <dfn>W3C Recommendations</dfn>.
 
 All W3C standards are reviewed for accessibility support by the Accessible Platform Architectures ([APA]({{ "/about/groups/apawg/" | relative_url }})) Working Group.
 
@@ -53,7 +53,7 @@ Web "content" generally refers to the information in a web page or web applicati
 * natural information such as text, images, and sounds
 * code or markup that defines structure, presentation, etc.
 
-WCAG applies to dynamic content, multimedia, "mobile", etc. WCAG can also be applied to non-web information and communications technologies (ICT), as described in [WCAG2ICT](https://www.w3.org/WAI/intro/wcag2ict).
+WCAG applies to dynamic content, multimedia, "mobile", etc. WCAG can also be applied to non-web information and communications technologies (ICT), as described in [WCAG2ICT]({{ "/standards-guidelines/wcag/non-web-ict/" | relative_url }}).
 
 WCAG info:
 - [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }})
@@ -70,7 +70,7 @@ Authoring tools are software and services that "authors" (web developers, design
 
 ATAG info:
 - [ATAG Overview]({{ "/standards-guidelines/atag/" | relative_url }})
-- [ATAG at a Glance](https://www.w3.org/WAI/intro/atag-glance)
+- [ATAG at a Glance]({{ "/standards-guidelines/atag/glance/" | relative_url }})
 - [ATAG 2.0 Standard](https://www.w3.org/TR/ATAG/)
 
 ### User Agent Accessibility Guidelines (UAAG) {#uaag}
@@ -108,7 +108,7 @@ The following resources support development of accessibility evaluation methods 
 
 - [Evaluation and Report Language (EARL) Overview]({{ "/standards-guidelines/earl/" | relative_url }}) &mdash; EARL is a machine-readable format for expressing test results.
 
-Additional resources related to evaluation are listed in the [Evaluating Web Accessibility Overview](https://www.w3.org/WAI/test-evaluate/), including:
+Additional resources related to evaluation are listed in the [Evaluating Web Accessibility Overview]({{ "/test-evaluate/" | relative_url }}), including:
 
 - [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]({{ "/test-evaluate/conformance/wcag-em/" | relative_url }}) &mdash; WCAG-EM is an approach for determining how well a website conforms to Web Content Accessibility Guidelines (WCAG).
 
@@ -119,22 +119,22 @@ Additional resources related to evaluation are listed in the [Evaluating Web Acc
 
 ## Other Areas of W3C WAI work
 
-- [Mobile Accessibility at W3C](https://www.w3.org/WAI/mobile/)
+- [Mobile Accessibility at W3C]({{ "/mobile/" | relative_url }})
 
-- [Cognitive Accessibility at W3C](https://www.w3.org/WAI/cognitive/)
+- [Cognitive Accessibility at W3C]({{ "/cognitive/" | relative_url }})
 
 ## Additional Information {#moreinfo}
 
 - <strong>[List of all W3C accessibility-related Standards ("W3C Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)</strong>
 
-- <strong>[Essential Components of Web Accessibility](https://www.w3.org/WAI/intro/components) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong>
+- <strong>[Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }}) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong>
 
-- [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/) lists governmental laws and policies relating to web accessibility in countries and regions around the world. Many of these reference W3C accessibility standards.
+- [Web Accessibility Laws & Policies]({{ "/policies/" | relative_url }}) lists governmental laws and policies relating to web accessibility in countries and regions around the world. Many of these reference W3C accessibility standards.
 
-- [Why Standards Harmonization is Essential to Web Accessibility](https://www.w3.org/WAI/Policy/harmon)
+- [Why Standards Harmonization is Essential to Web Accessibility]({{ "/standards-guidelines/harmonization/" |relative_url }})
 
-- [Referencing and Linking to WAI Guidelines and Technical Documents](http://www.w3.org/WAI/intro/linking)
+- [Referencing and Linking to WAI Guidelines and Technical Documents]({{ "/standards-guidelines/linking/" |relative_url }})
 
-- [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and **Opportunities to Contribute**](https://www.w3.org/WAI/intro/w3c-process)
+- [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and **Opportunities to Contribute**]({{ "/standards-guidelines/w3c-process/" | relative_url }})
 
 ![illustration showing the guidelines for the different components, detailed description at http://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
