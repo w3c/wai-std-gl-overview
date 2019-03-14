@@ -108,6 +108,11 @@ The following resources support development of accessibility evaluation methods 
 
 - [Evaluation and Report Language (EARL) Overview]({{ "/standards-guidelines/earl/" | relative_url }}) &mdash; EARL is a machine-readable format for expressing test results.
 
+Additional resources related to evaluation are listed in the [Evaluating Web Accessibility Overview](https://www.w3.org/WAI/test-evaluate/), including:
+
+- [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]({{ "/test-evaluate/conformance/wcag-em/" | relative_url }}) &mdash; WCAG-EM is an approach for determining how well a website conforms to Web Content Accessibility Guidelines (WCAG).
+
+
 ### Personalization
 
 [Personalization Overview]({{ "/personalization/" | relative_url }}) &mdash; Personalization involves tailoring the user experience to meet the needs and preferences of the individual user. Content authors can use personalization standards to provide a default design and enable user personalization with minimal work.
@@ -120,9 +125,11 @@ The following resources support development of accessibility evaluation methods 
 
 ## Additional Information {#moreinfo}
 
-- <strong>[List of all W3C accessibility-related standards ("Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)</strong>
+- <strong>[List of all W3C accessibility-related Standards ("W3C Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)</strong>
 
 - <strong>[Essential Components of Web Accessibility](https://www.w3.org/WAI/intro/components) shows how Web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong>
+
+- [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/) lists governmental laws and policies relating to web accessibility in countries and regions around the world. Many of these reference W3C accessibility standards.
 
 - [Why Standards Harmonization is Essential to Web Accessibility](https://www.w3.org/WAI/Policy/harmon)
 
