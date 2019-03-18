@@ -46,7 +46,7 @@ The W3C standards and Working Group Notes introduced below are particularly rele
 
 ## Accessibility Guidelines {#guidelines}
 
-[Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }}) shows how web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong>
+[Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }}) shows how web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.
 
 ### Web Content Accessibility Guidelines (WCAG) {#wcag}
 
