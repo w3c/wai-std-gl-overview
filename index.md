@@ -1,16 +1,30 @@
 ---
-title: W3C Accessibility Standards Overview
-permalink: /standards-guidelines/
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+
+title: W3C Accessibility Standards Overview  # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Standards/Guidelines" # A short title that is used in the navigation
+lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+translator: " "   # Within quote marks, put name or names separated with a comma
+contributors: " "   # Within quote marks, put name(s) or delete this line
+permalink: /standards-guidelines/   # Add the language shortcode to the end; for example /standards-guidelines/fr
 layout: default
+ref: /standards-guidelines/   # Do not change this
 github:
   repository: w3c/wai-std-gl-overview
+  branch: gh-pages
+  path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 feedbackmail: wai@w3.org
-footer: >
+footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
   <p><strong>Date:</strong> Updated 13 March 2019.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
+# Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
+# Read Translations Notes for this resource at https://github.com/w3c/wai-std-gl-overview/blob/master/README.md
+# end of translation instructions
 ---
+
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
@@ -46,7 +60,7 @@ The W3C standards and Working Group Notes introduced below are particularly rele
 
 ## Accessibility Guidelines {#guidelines}
 
-[Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }}) shows how web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.</strong>
+[Essential Components of Web Accessibility]({{ "/fundamentals/components/" | relative_url }}) shows how web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.
 
 ### Web Content Accessibility Guidelines (WCAG) {#wcag}
 
