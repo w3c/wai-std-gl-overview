@@ -12,7 +12,6 @@ layout: default
 ref: /standards-guidelines/   # Do not change this
 github:
   repository: w3c/wai-std-gl-overview
-  branch: gh-pages
   path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 feedbackmail: wai@w3.org
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
