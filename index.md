@@ -5,8 +5,10 @@ title: W3C Accessibility Standards Overview  # Do not translate "title:". Do tra
 nav_title: "Standards/Guidelines" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translator: " "   # Within quote marks, put name or names separated with a comma
-contributors: " "   # Within quote marks, put name(s) or delete this line
+# translators: #Add one -name: line for every translator
+# - name: "Translator Name Here"
+# contributors: #Add one -name: line for every contributor
+# - name: "Contributor Name Here"
 permalink: /standards-guidelines/   # Add the language shortcode to the end; for example /standards-guidelines/fr
 layout: default
 ref: /standards-guidelines/   # Do not change this
@@ -119,34 +121,34 @@ ARIA info:
 
 The following resources support development of accessibility evaluation methods and tools:
 
-- [Accessibility Conformance Testing (ACT) Overview](/standards-guidelines/act/) &mdash; ACT establishes and documents rules for testing the conformance of web content to accessibility standards.
+- [[Accessibility Conformance Testing (ACT) Overview]](/standards-guidelines/act/) &mdash; ACT establishes and documents rules for testing the conformance of web content to accessibility standards.
 
-- [Evaluation and Report Language (EARL) Overview](/standards-guidelines/earl/) &mdash; EARL is a machine-readable format for expressing test results.
+- [[Evaluation and Report Language (EARL) Overview]](/standards-guidelines/earl/) &mdash; EARL is a machine-readable format for expressing test results.
 
-Additional resources related to evaluation are listed in the [Evaluating Web Accessibility Overview](/test-evaluate/), including:
+Additional resources related to evaluation are listed in the [[Evaluating Web Accessibility Overview]](/test-evaluate/), including:
 
-- [WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM is an approach for determining how well a website conforms to Web Content Accessibility Guidelines (WCAG).
+- [[WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM is an approach for determining how well a website conforms to Web Content Accessibility Guidelines (WCAG).
 
 
 ### Personalization
 
-[Personalization Overview](/personalization/) &mdash; Personalization involves tailoring the user experience to meet the needs and preferences of the individual user. Content authors can use personalization standards to provide a default design and enable user personalization with minimal work.
+[[Personalization Overview]](/personalization/) &mdash; Personalization involves tailoring the user experience to meet the needs and preferences of the individual user. Content authors can use personalization standards to provide a default design and enable user personalization with minimal work.
 
 ## Other Areas of W3C WAI work
 
-- [Mobile Accessibility at W3C](/mobile/)
+- [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/)
 
-- [Cognitive Accessibility at W3C](/cognitive/)
+- [[Cognitive Accessibility at W3C]](/cognitive/)
 
 ## Additional Information {#moreinfo}
 
 - [List of all W3C accessibility-related Standards ("W3C Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)
 
-- [Web Accessibility Laws & Policies](/policies/) lists governmental laws and policies relating to web accessibility in countries and regions around the world. Many of these reference W3C accessibility standards.
+- [[Web Accessibility Laws & Policies]](/policies/) lists governmental laws and policies relating to web accessibility in countries and regions around the world. Many of these reference W3C accessibility standards.
 
-- [Why Standards Harmonization is Essential to Web Accessibility](/standards-guidelines/harmonization/)
+- [[Why Standards Harmonization is Essential to Web Accessibility]](/standards-guidelines/harmonization/)
 
-- [Referencing and Linking to WAI Guidelines and Technical Documents](/standards-guidelines/linking/)
+- [[Referencing and Linking to WAI Guidelines and Technical Documents]](/standards-guidelines/linking/)
 
 - [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and **Opportunities to Contribute**](/standards-guidelines/w3c-process/)
 
