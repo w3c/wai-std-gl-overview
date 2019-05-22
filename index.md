@@ -19,7 +19,7 @@ feedbackmail: wai@w3.org
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
   <p><strong>Date:</strong> Updated 13 March 2019.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 # Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
 # Read Translations Notes for this resource at https://github.com/w3c/wai-std-gl-overview/blob/master/README.md
@@ -76,8 +76,8 @@ WCAG info:
 - [WCAG Overview](/standards-guidelines/wcag/)
 - [[WCAG 2.1 at a Glance]](/standards-guidelines/wcag/glance/)
 - [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
-- [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
-- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/)
+- [WCAG 2.0 Standard {% include_cached different.html %}](https://www.w3.org/TR/WCAG20/)
+- [WCAG 2.1 Standard {% include_cached different.html %}](https://www.w3.org/TR/WCAG21/)
 
 ### Authoring Tool Accessibility Guidelines (ATAG) {#atag}
 
@@ -88,7 +88,7 @@ Authoring tools are software and services that "authors" (web developers, design
 ATAG info:
 - [ATAG Overview](/standards-guidelines/atag/)
 - [[ATAG at a Glance]](/standards-guidelines/atag/glance/)
-- [ATAG 2.0 Standard](https://www.w3.org/TR/ATAG/)
+- [ATAG 2.0 Standard {% include_cached different.html %}](https://www.w3.org/TR/ATAG/)
 
 ### User Agent Accessibility Guidelines (UAAG) {#uaag}
 
@@ -96,7 +96,7 @@ User agents include browsers, browser extensions, media players, readers, and ot
 
 UAAG info:
 - [UAAG Overview](/standards-guidelines/uaag/)
-- [UAAG 2.0 Note](https://www.w3.org/TR/UAAG20/)
+- [UAAG 2.0 Note {% include_cached different.html %}](https://www.w3.org/TR/UAAG20/)
 
 ## Technical Specifications
 
@@ -108,14 +108,14 @@ The ARIA suite includes <abbr title="application programming interface">API</abb
 
 ARIA info:
 - [WAI-ARIA Overview](/standards-guidelines/aria/) – includes a [list and description of modules and API mappings](/standards-guidelines/aria/#versions)
-- [WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
-- [WAI-ARIA 1.1 Standard](https://www.w3.org/TR/wai-aria-1.1/)
+- [WAI-ARIA Authoring Practices {% include_cached different.html %}](https://www.w3.org/TR/wai-aria-practices/)
+- [WAI-ARIA 1.1 Standard {% include_cached different.html %}](https://www.w3.org/TR/wai-aria-1.1/)
 
 ### Audio and Video {#multimedia}
 
-- [WebVTT: The Web Video Text Tracks Format](https://www.w3.org/TR/webvtt/) is a format for captions, text video descriptions, and other metadata that is time-aligned with audio or video content.
+- [WebVTT: The Web Video Text Tracks Format {% include_cached different.html %}](https://www.w3.org/TR/webvtt/) is a format for captions, text video descriptions, and other metadata that is time-aligned with audio or video content.
 
-- [Timed Text Markup Language](https://www.w3.org/TR/ttml2/) is intended to be used for transcoding or exchanging timed text information among legacy distribution content formats for subtitling and captioning.
+- [Timed Text Markup Language {% include_cached different.html %}](https://www.w3.org/TR/ttml2/) is intended to be used for transcoding or exchanging timed text information among legacy distribution content formats for subtitling and captioning.
 
 ### Evaluation {#eval}
 
@@ -142,7 +142,7 @@ Additional resources related to evaluation are listed in the [[Evaluating Web Ac
 
 ## Additional Information {#moreinfo}
 
-- [List of all W3C accessibility-related Standards ("W3C Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)
+- [List of all W3C accessibility-related Standards ("W3C Recommendations") and Working Group Notes {% include_cached different.html %}](https://www.w3.org/TR/#tr_Accessibility__All_)
 
 - [[Web Accessibility Laws & Policies]](/policies/) lists governmental laws and policies relating to web accessibility in countries and regions around the world. Many of these reference W3C accessibility standards.
 
@@ -152,4 +152,4 @@ Additional resources related to evaluation are listed in the [[Evaluating Web Ac
 
 - [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and **Opportunities to Contribute**](/standards-guidelines/w3c-process/)
 
-![illustration showing the guidelines for the different components, detailed description at http://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
+![illustration showing the guidelines for the different components, detailed description at https://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
