@@ -3,19 +3,26 @@
 
 title: W3C Accessibility Standards Overview  # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Standards/Guidelines" # A short title that is used in the navigation
+
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+
 last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: #Add one -name: line for every translator
-# - name: "Translator Name Here"
-# contributors: #Add one -name: line for every contributor
-# - name: "Contributor Name Here"
-permalink: /standards-guidelines/   # Add the language shortcode to the end; for example /standards-guidelines/fr
-layout: default
+# translators: 
+# - name: "@@"   # Replace @@ with translator name
+#  link: @@
+# - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
+# contributors:
+# - name: "@@"   # Replace @@ with contributor name, or delete this line if none
+# - name: "@@"   # Replace @@ with name, or delete this line if not multiple contributors
+
 ref: /standards-guidelines/   # Do not change this
+layout: default
 github:
   repository: w3c/wai-std-gl-overview
   path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+permalink: /standards-guidelines/   # Add the language shortcode to the end; for example /standards-guidelines/fr
 feedbackmail: wai@w3.org
+
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
   <p><strong>Date:</strong> Updated 13 March 2019.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
