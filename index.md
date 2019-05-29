@@ -1,14 +1,14 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
-title: W3C Accessibility Standards Overview  # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Standards/Guidelines" # A short title that is used in the navigation
+title: Resumen de los estándares de accesibilidad de W3C # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Estándares/Pautas" # A short title that is used in the navigation
 
-lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+lang: es   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-05-29   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: 
-# - name: "@@"   # Replace @@ with translator name
+# - name: "Carlos Muncharaz"   # Replace @@ with translator name
 #  link: @@
 # - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
 # contributors:
@@ -24,9 +24,9 @@ permalink: /standards-guidelines/   # Add the language shortcode to the end; for
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date:</strong> Updated 13 March 2019.</p>
+  <p><strong>Fecha:</strong> Actualizado el 13 de marzo del 2019.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 # Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
 # Read Translations Notes for this resource at https://github.com/w3c/wai-std-gl-overview/blob/master/README.md
@@ -38,7 +38,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces guidelines and other standards related to web accessibility.
+Esta página presenta pautas y otros estándares relacionados con la accesibilidad web.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -58,54 +58,55 @@ This page introduces guidelines and other standards related to web accessibility
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Introduction {#intro}
+## Introducción {#intro}
 
-The World Wide Web Consortium (W3C) develops international Web standards: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr>, and many more. W3C's Web standards are called <dfn>W3C Recommendations</dfn>.
+El World Wide Web Consortium (W3C) desarrolla estándares web internacionales: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr> y muchos más. Los estándares de W3C se llaman <dfn>W3C Recommendations</dfn>.
+ 
+El soporte para la accesibilidad de todos los estándares de W3C es revisado por el Grupo de Trabajo de Arquitecturas de la Plataforma Accesible ([APA](/about/groups/apawg/)).
+ 
+Los estándares W3C y las Anotaciones de los Grupos de Trabajo que se mencionan abajo son particularmente relevantes para la accesibilidad.
 
-All W3C standards are reviewed for accessibility support by the Accessible Platform Architectures ([APA](/about/groups/apawg/)) Working Group.
+## Pautas de accesibilidad {#guidelines}
 
-The W3C standards and Working Group Notes introduced below are particularly relevant to accessibility.
+Con los [[componentes esenciales de la accesibilidad web]](/fundamentals/components/) se puede ver que la accesibilidad depende de varios componentes del desarrollo web que interactúan juntos y cómo se aplican las pautas de WAI (WCAG, ATAG, UAAG).
 
-## Accessibility Guidelines {#guidelines}
+### Pautas de accesibilidad para el contenido web (WCAG) {#wcag}
 
-[[Essential Components of Web Accessibility]](/fundamentals/components/) shows how web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.
+Por “contenido” web se hace referencia, generalmente, a la información que se puede encontrar en una página o aplicación web, lo cual incluye:
+ 
+* información natural como textos, imágenes y sonidos.
+* código o marcado que define la estructura, la presentación, etc.
+ 
+Las pautas WCAG se aplican al contenido dinámico, multimedia, “móvil”, etc. También se pueden aplicar a tecnologías de la información y la comunicación (TIC) no relacionadas con la web, como se explica en [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
 
-### Web Content Accessibility Guidelines (WCAG) {#wcag}
+Información sobre las pautas WCAG:
+- [Resumen de WCAG](  /standards-guidelines/wcag/)
+- [[WCAG 2.1 de un vistazo]](/standards-guidelines/wcag/glance/)
+- [Cómo seguir las pautas WCAG 2 (Guía rápida)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [Estándar WCAG 2.0](https://www.w3.org/TR/WCAG20/)
+- [Estándar WCAG 2.1](https://www.w3.org/TR/WCAG21/)
 
-Web "content" generally refers to the information in a web page or web application, including:
+### Pautas de accesibilidad para las herramientas de creación de contenido (ATAG) {#atag}
 
-* natural information such as text, images, and sounds
-* code or markup that defines structure, presentation, etc.
+Las herramientas de creación de contenido son programas o servicios que los “autores” (desarrolladores web, diseñadores, redactores, etc) utilizan para producir contenido web. Por ejemplo: editores de HTML, sistemas de gestión de contenidos (CMS) y sitios web que permiten a los usuarios añadir contenido tales como blogs y redes sociales. Los documentos ATAG explican cómo:
 
-WCAG applies to dynamic content, multimedia, "mobile", etc. WCAG can also be applied to non-web information and communications technologies (ICT), as described in [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
+* hacer que las herramientas de creación de contenido sean accesibles en sí mismas, de forma que las personas con discapacidad puedan crear contenido web, y
+* ayudar a los autores a crear contenido web más accesible.
 
-WCAG info:
-- [WCAG Overview](/standards-guidelines/wcag/)
-- [[WCAG 2.1 at a Glance]](/standards-guidelines/wcag/glance/)
-- [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
-- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)
-- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/)
+Información sobre las pautas ATAG:
+- [Resumen de ATAG](/standards-guidelines/atag/)
+- [[ATAG de un vistazo]](/standards-guidelines/atag/glance/)
+- [Estándar ATAG 2.0](https://www.w3.org/TR/ATAG/)
 
-### Authoring Tool Accessibility Guidelines (ATAG) {#atag}
+### Pautas de accesibilidad para el agente de usuario (UAAG) {#uaag}
 
-Authoring tools are software and services that "authors" (web developers, designers, writers, etc.) use to produce web content. For example: HTML editors, content management systems (CMS), and websites that let users add content, such as blogs and social networking sites. ATAG documents explain how to:
-* make the authoring tools themselves accessible, so that people with disabilities can create web content, and
-* help authors create more accessible web content.
+Los agentes de usuario son navegadores, extensiones de los navegadores, reproductores multimedia, lectores y otras aplicaciones que presentan contenido web.
 
-ATAG info:
-- [ATAG Overview](/standards-guidelines/atag/)
-- [[ATAG at a Glance]](/standards-guidelines/atag/glance/)
-- [ATAG 2.0 Standard](https://www.w3.org/TR/ATAG/)
+Información sobre las pautas UAAG:
+- [Resumen de UAAG](/standards-guidelines/uaag/)
+- [Nota sobre UAAG 2.0](https://www.w3.org/TR/UAAG20/)
 
-### User Agent Accessibility Guidelines (UAAG) {#uaag}
-
-User agents include browsers, browser extensions, media players, readers, and other applications that render web content.
-
-UAAG info:
-- [UAAG Overview](/standards-guidelines/uaag/)
-- [UAAG 2.0 Note](https://www.w3.org/TR/UAAG20/)
-
-## Technical Specifications
+## Especificaciones técnicas
 
 ### Accessible Rich Internet Applications (WAI-ARIA) {#aria}
 
@@ -140,13 +141,13 @@ Additional resources related to evaluation are listed in the [[Evaluating Web Ac
 
 [[Personalization Overview]](/personalization/) &mdash; Personalization involves tailoring the user experience to meet the needs and preferences of the individual user. Content authors can use personalization standards to provide a default design and enable user personalization with minimal work.
 
-## Other Areas of W3C WAI work
+## Otras áreas del trabajo de W3C WAI
 
-- [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/)
+- [[Accesibilidad móvil en W3C]](/standards-guidelines/mobile/)
 
-- [[Cognitive Accessibility at W3C]](/cognitive/)
+- [[Accesibilidad cognitiva en W3C]](/cognitive/)
 
-## Additional Information {#moreinfo}
+## Información adicional {#moreinfo}
 
 - [List of all W3C accessibility-related Standards ("W3C Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)
 
