@@ -38,7 +38,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Esta página presenta pautas y otros estándares relacionados con la accesibilidad web.
+Esta página expone pautas y otros estándares relacionados con la accesibilidad web.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -62,13 +62,13 @@ Esta página presenta pautas y otros estándares relacionados con la accesibilid
 
 El World Wide Web Consortium (W3C) desarrolla estándares web internacionales: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr> y muchos más. Los estándares de W3C se llaman <dfn>W3C Recommendations</dfn>.
  
-El soporte para la accesibilidad de todos los estándares de W3C es revisado por el Grupo de Trabajo de Arquitecturas de la Plataforma Accesible ([APA](/about/groups/apawg/)).
+El soporte para la accesibilidad de todos los estándares de W3C es revisado por el grupo de trabajo Accessible Platform Architectures ([APA](/about/groups/apawg/)).
  
-Los estándares W3C y las Anotaciones de los Grupos de Trabajo que se mencionan abajo son particularmente relevantes para la accesibilidad.
+Los estándares W3C y las notas de los grupos de trabajo que se mencionan abajo son particularmente relevantes para la accesibilidad.
 
 ## Pautas de accesibilidad {#guidelines}
 
-Con los [[componentes esenciales de la accesibilidad web]](/fundamentals/components/) se puede ver que la accesibilidad depende de varios componentes del desarrollo web que interactúan juntos y cómo se aplican las pautas de WAI (WCAG, ATAG, UAAG).
+En los [[componentes esenciales de la accesibilidad web]](/fundamentals/components/) se puede ver que la accesibilidad depende de varios componentes del desarrollo web que interactúan juntos y cómo se aplican las pautas de WAI (WCAG, ATAG, UAAG).
 
 ### Pautas de accesibilidad para el contenido web (WCAG) {#wcag}
 
@@ -110,7 +110,7 @@ Información sobre las pautas UAAG:
 
 ### Accessible Rich Internet Applications (WAI-ARIA) {#aria}
 
-ARIA proporciona semántica, de tal forma que los autores pueden transmitir comportamientos de la interfaz de usuario e información estructural a las tecnologías de apoyo (por ejemplo, a los lectores de pantalla). La especificación de ARIA ofrece una ontología de roles, estados y propiedades que definen elementos accesibles en la interfaz de usuario.
+ARIA proporciona semántica, de tal forma que los autores pueden transmitir comportamientos de la interfaz de usuario e información estructural a las tecnologías de apoyo (por ejemplo, lectores de pantalla). La especificación de ARIA establece una ontología de roles, estados y propiedades que definen elementos accesibles en la interfaz de usuario.
 
 La suite de ARIA incluye especificaciones de esquemas <abbr title="application programming interface">API</abbr> que proporcionan orientación para la aplicación en agentes de usuario. También incluye módulos para gráficos y la publicación digital.
 
@@ -131,9 +131,9 @@ Los siguientes recursos permiten desarrollar métodos y herramientas para evalua
 
 - [[Resumen de Accessibility Conformance Testing (ACT)]](/standards-guidelines/act/) &mdash; ACT establece y describe normas para comprobar la conformidad del contenido web con los estándares de accesibilidad.
 
-- [[Resumen de Evaluation and Report Language (EARL)]](/standards-guidelines/earl/) &mdash; EARL es un formato para ser leído por la máquina que sirve para expresar los resultados de las pruebas.
+- [[Resumen de Evaluation and Report Language (EARL)]](/standards-guidelines/earl/) &mdash; EARL es un formato para ser leído por aplicaciones que sirve para expresar los resultados de las pruebas.
 
-Recursos adicionales relacionados con la evaluación se encuentran en el [[resumen de evaluación de la accesibilidad web]](/test-evaluate/), incluyendo:
+Recursos adicionales relacionados con la evaluación se pueden encontrar en el [[resumen de evaluación de la accesibilidad web]](/test-evaluate/), incluyendo:
 
 - [[Resumen de WCAG-EM: Website Accessibility Conformance Evaluation Methodology]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM es una aproximación para determinar cuánto se ajusta un sitio web a las pautas de accesibilidad para el contenido web (WCAG).
 
@@ -149,11 +149,11 @@ Recursos adicionales relacionados con la evaluación se encuentran en el [[resum
 
 ## Información adicional {#moreinfo}
 
-- [Listado de todos los estándares W3C relacionados con la accesibilidad ("W3C Recommendations") y notas de los Grupos de Trabajo](https://www.w3.org/TR/#tr_Accessibility__All_)
+- [Listado de todos los estándares W3C relacionados con la accesibilidad ("W3C Recommendations") y notas de los grupos de trabajo](https://www.w3.org/TR/#tr_Accessibility__All_)
 
 - [[Leyes y políticas de accesibilidad web]](/policies/) donde se relacionan leyes gubernamentales y políticas sobre accesibilidad web en países y regiones de todo el mundo. Muchas de estas hacen referencia a los estándares de accesibilidad del W3C.
 
-- [[Por qué la armonización de los estándares es fundamental para la accesibilidad web]](/standards-guidelines/harmonization/)
+- [[Por qué la armonía entre los estándares es fundamental para la accesibilidad web]](/standards-guidelines/harmonization/)
 
 - [[Creación de referencias y enlaces a las pautas y documentos técnicos de WAI]](/standards-guidelines/linking/)
 
