@@ -110,36 +110,36 @@ Información sobre las pautas UAAG:
 
 ### Accessible Rich Internet Applications (WAI-ARIA) {#aria}
 
-ARIA provides semantics so authors can convey user interface behaviors and structural information to assistive technologies (such as screen readers). The ARIA specification provides an ontology of roles, states, and properties that define accessible user interface elements.
+ARIA proporciona semántica, de tal forma que los autores pueden transmitir comportamientos de la interfaz de usuario e información estructural a las tecnologías de apoyo (por ejemplo, a los lectores de pantalla). La especificación de ARIA ofrece una ontología de roles, estados y propiedades que definen elementos accesibles en la interfaz de usuario.
 
-The ARIA suite includes <abbr title="application programming interface">API</abbr> mapping specifications that provide user agent implementation guidance. It also include modules for Graphics and Digital Publishing.
+La suite de ARIA incluye especificaciones de esquemas <abbr title="application programming interface">API</abbr> que proporcionan orientación para la aplicación en agentes de usuario. También incluye módulos para gráficos y la publicación digital.
 
-ARIA info:
-- [WAI-ARIA Overview](/standards-guidelines/aria/) – includes a [list and description of modules and API mappings](/standards-guidelines/aria/#versions)
-- [WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
-- [WAI-ARIA 1.1 Standard](https://www.w3.org/TR/wai-aria-1.1/)
+Información sobre ARIA:
+- [Resumen de WAI-ARIA](/standards-guidelines/aria/) – incluye [lista y descripción de módulos y esquemas API](/standards-guidelines/aria/#versions)
+- [Prácticas de autor de WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/)
+- [Estándar WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/)
 
-### Audio and Video {#multimedia}
+### Audio y vídeo {#multimedia}
 
-- [WebVTT: The Web Video Text Tracks Format](https://www.w3.org/TR/webvtt/) is a format for captions, text video descriptions, and other metadata that is time-aligned with audio or video content.
+- [Web Video Text Tracks (WebVTT)](https://www.w3.org/TR/webvtt/) es un formato para subtítulos, descripciones textuales de vídeo y otros metadatos que se sincronizan temporalmente con el contenido auditivo o visual.
 
-- [Timed Text Markup Language (TTML)](https://www.w3.org/TR/ttml/) is intended to be used for transcoding or exchanging timed text information among legacy distribution content formats for subtitling and captioning.
+- [Timed Text Markup Language (TTML)](https://www.w3.org/TR/ttml/) sirve para transcodificar o intercambiar información textual sincronizada temporalmente entre formatos de subtítulos antiguos.
 
-### Evaluation {#eval}
+### Evaluación {#eval}
 
-The following resources support development of accessibility evaluation methods and tools:
+Los siguientes recursos permiten desarrollar métodos y herramientas para evaluar la accesibilidad:
 
-- [[Accessibility Conformance Testing (ACT) Overview]](/standards-guidelines/act/) &mdash; ACT establishes and documents rules for testing the conformance of web content to accessibility standards.
+- [[Resumen de Accessibility Conformance Testing (ACT)]](/standards-guidelines/act/) &mdash; ACT establece y describe normas para comprobar la conformidad del contenido web con los estándares de accesibilidad.
 
-- [[Evaluation and Report Language (EARL) Overview]](/standards-guidelines/earl/) &mdash; EARL is a machine-readable format for expressing test results.
+- [[Resumen de Evaluation and Report Language (EARL)]](/standards-guidelines/earl/) &mdash; EARL es un formato para ser leído por la máquina que sirve para expresar los resultados de las pruebas.
 
-Additional resources related to evaluation are listed in the [[Evaluating Web Accessibility Overview]](/test-evaluate/), including:
+Recursos adicionales relacionados con la evaluación se encuentran en el [[resumen de evaluación de la accesibilidad web]](/test-evaluate/), incluyendo:
 
-- [[WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM is an approach for determining how well a website conforms to Web Content Accessibility Guidelines (WCAG).
+- [[Resumen de WCAG-EM: Website Accessibility Conformance Evaluation Methodology]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM es una aproximación para determinar cuánto se ajusta un sitio web a las pautas de accesibilidad para el contenido web (WCAG).
 
-### Personalization
+### Personalización
 
-[[Personalization Overview]](/personalization/) &mdash; Personalization involves tailoring the user experience to meet the needs and preferences of the individual user. Content authors can use personalization standards to provide a default design and enable user personalization with minimal work.
+[[Resumen sobre la personalization]](/personalization/) &mdash; La personalización consiste en ajustar la experiencia del usuario a fin de cubrir las necesidades y preferencias individuales. Los autores de contenido pueden usar estándares de personalización para proporcionar un diseño por defecto y permitir la personalización del usuario con un esfuerzo mínimo.
 
 ## Otras áreas del trabajo de W3C WAI
 
