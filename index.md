@@ -149,14 +149,14 @@ Additional resources related to evaluation are listed in the [[Evaluating Web Ac
 
 ## Información adicional {#moreinfo}
 
-- [List of all W3C accessibility-related Standards ("W3C Recommendations") and Working Group Notes](https://www.w3.org/TR/#tr_Accessibility__All_)
+- [Listado de todos los estándares W3C relacionados con la accesibilidad ("W3C Recommendations") y notas de los Grupos de Trabajo](https://www.w3.org/TR/#tr_Accessibility__All_)
 
-- [[Web Accessibility Laws & Policies]](/policies/) lists governmental laws and policies relating to web accessibility in countries and regions around the world. Many of these reference W3C accessibility standards.
+- [[Leyes y políticas de accesibilidad web]](/policies/) donde se relacionan leyes gubernamentales y políticas sobre accesibilidad web en países y regiones de todo el mundo. Muchas de estas hacen referencia a los estándares de accesibilidad del W3C.
 
-- [[Why Standards Harmonization is Essential to Web Accessibility]](/standards-guidelines/harmonization/)
+- [[Por qué la armonización de los estándares es fundamental para la accesibilidad web]](/standards-guidelines/harmonization/)
 
-- [[Referencing and Linking to WAI Guidelines and Technical Documents]](/standards-guidelines/linking/)
+- [[Creación de referencias y enlaces a las pautas y documentos técnicos de WAI]](/standards-guidelines/linking/)
 
-- [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and **Opportunities to Contribute**](/standards-guidelines/w3c-process/)
+- [Cómo se desarrollan las pautas de accesibilidad en WAI a través del método de trabajo de W3C: hitos y **oportunidades para participar**](/standards-guidelines/w3c-process/)
 
-![illustration showing the guidelines for the different components, detailed description at https://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
+![Ilustración mostrando las pautas de los diferentes componentes, una descripción detallada se puede encontrar en https://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
