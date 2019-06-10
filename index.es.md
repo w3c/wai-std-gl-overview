@@ -7,8 +7,8 @@ nav_title: "Estándares/Pautas" # A short title that is used in the navigation
 lang: es   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
 last_updated: 2019-05-29   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: 
-# - name: "Carlos Muncharaz"   # Replace @@ with translator name
+translators: 
+- name: "Carlos Muncharaz"   # Replace @@ with translator name
 #  link: @@
 # - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
 # contributors:
@@ -19,8 +19,8 @@ ref: /standards-guidelines/   # Do not change this
 layout: default
 github:
   repository: w3c/wai-std-gl-overview
-  path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
-permalink: /standards-guidelines/   # Add the language shortcode to the end; for example /standards-guidelines/fr
+  path: index.es.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+permalink: /standards-guidelines/es   # Add the language shortcode to the end; for example /standards-guidelines/fr
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
