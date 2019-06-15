@@ -1,13 +1,13 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
-title: W3C Accessibility Standards Overview  # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Standards/Guidelines" # A short title that is used in the navigation
+title: Vue d’ensemble des standards d’accessibilité du W3C # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Standards/Règles" # A short title that is used in the navigation
 
 lang: fr   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
 last_updated: 2019-06-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: 
+translators: 
 - name: "@code-elegant"   # Replace @@ with translator name
 #  link: @@
 # - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
@@ -24,7 +24,7 @@ permalink: /standards-guidelines/fr   # Add the language shortcode to the end; f
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date :</strong> Updated 13 March 2019.</p>
+  <p><strong>Date :</strong> Mis à jour le 13 mars 2019.</p>
   <p><strong>Éditeur:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -35,10 +35,10 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Résumé" class="full" %}
 {:/}
 
-This page introduces guidelines and other standards related to web accessibility.
+Cette page introduit les lignes directrices et autres standards relatifs à l’accessibilité du web.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -48,7 +48,7 @@ This page introduces guidelines and other standards related to web accessibility
 {::options toc_levels="2,3" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{% include_cached toc.html type="start" title="Contenu de la page" class="full" %}
 {:/}
 
 -   TOC is created automatically.
@@ -60,7 +60,7 @@ This page introduces guidelines and other standards related to web accessibility
 
 ## Introduction {#intro}
 
-The World Wide Web Consortium (W3C) develops international Web standards: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr>, and many more. W3C's Web standards are called <dfn>W3C Recommendations</dfn>.
+Le World Wide Web Consortium (W3C) developpe des standards internationaux pour le web : <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr>, and bien d’autres. Les standards web du W3C sont appellés <dfn>Recommandations du W3C</dfn>.
 
 All W3C standards are reviewed for accessibility support by the Accessible Platform Architectures ([APA](/about/groups/apawg/)) Working Group.
 
