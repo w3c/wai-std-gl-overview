@@ -35,7 +35,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Resumen" class="full" %}
 {:/}
 
 Esta página expone pautas y otros estándares relacionados con la accesibilidad web.
@@ -48,7 +48,7 @@ Esta página expone pautas y otros estándares relacionados con la accesibilidad
 {::options toc_levels="2,3" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{% include_cached toc.html type="start" title="Índice de contenidos" class="full" %}
 {:/}
 
 -   TOC is created automatically.
