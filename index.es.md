@@ -62,13 +62,13 @@ Esta página presenta pautas y otros estándares relacionados con la accesibilid
 
 El World Wide Web Consortium (W3C) desarrolla estándares web internacionales: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr> y muchos más. Los estándares de W3C se llaman <dfn>W3C Recommendations</dfn>.
  
-El soporte para la accesibilidad de todos los estándares de W3C es revisado por el grupo de trabajo Accessible Platform Architectures ([APA](/about/groups/apawg/)).
+El soporte para la accesibilidad de todos los estándares de W3C es revisado por el grupo de trabajo Accessible Platform Architectures - [APA](/about/groups/apawg/).
  
 Los estándares W3C y las notas de los grupos de trabajo que se mencionan abajo son particularmente relevantes para la accesibilidad.
 
 ## Pautas de accesibilidad {#guidelines}
 
-En los [[componentes esenciales de la accesibilidad web]](/fundamentals/components/) se puede ver que la accesibilidad depende de varios componentes del desarrollo web que interactúan juntos y cómo se aplican las pautas de WAI (WCAG, ATAG, UAAG).
+En los [[componentes esenciales de la accesibilidad web]](/fundamentals/components/) se puede ver que la accesibilidad depende de varios componentes de desarrollo web que interactúan juntos y cómo se aplican las pautas de WAI (WCAG, ATAG, UAAG).
 
 ### Pautas de accesibilidad para el contenido web (WCAG) {#wcag}
 
