@@ -38,7 +38,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 {% include box.html type="start" h="2" title="Resumen" class="full" %}
 {:/}
 
-Esta página expone pautas y otros estándares relacionados con la accesibilidad web.
+Esta página presenta pautas y otros estándares relacionados con la accesibilidad web.
 
 {::nomarkdown}
 {% include box.html type="end" %}
