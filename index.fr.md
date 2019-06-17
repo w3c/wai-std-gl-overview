@@ -61,24 +61,24 @@ Cette page introduit les lignes directrices et autres standards relatifs à l’
 
 ## Introduction {#intro}
 
-Le World Wide Web Consortium (W3C) developpe des standards internationaux pour le web : <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr>, et bien d’autres. Les standards web du W3C sont appelés <dfn>Recommandations du W3C</dfn>.
+Le World Wide Web Consortium (W3C) developpe des standards internationaux pour le web : <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr> et bien d’autres. Les standards web du W3C sont appelés <dfn>Recommandations du W3C</dfn>.
 
-Tous les standards du W3C sont revus pour la prise en compte de l’accessibilité par le groupe de travail Architectures de plateforme accessibles ([APA](/about/groups/apawg/)).
+Tous les standards du W3C sont revus pour la prise en compte de l’accessibilité par le groupe de travail Architectures de plateforme accessible ([APA](/about/groups/apawg/)).
 
 Les standards du W3C et les notes de groupe de travail ci-dessous sont particulièrement pertinents pour l’accessibilité.
 
 ## Règles d’accessibilité {#guidelines}
 
-Les [[Éléments essentiels de l'accessibilité du Web]](/fundamentals/components/fr) montre comment l’accessibilité du web dépend de la combinaison harmonieuse des nombreux composants du développement web et de l’interaction utilisateur, et comment les règles WAI (WCAG, ATAG, UAAG) s’appliquent.
+Les [Éléments essentiels de l'accessibilité du Web](/fundamentals/components/fr) montrent comment l’accessibilité du web dépend de la combinaison harmonieuse des nombreuses composantes du développement web et de l’interaction utilisateur, et comment les règles WAI (WCAG, ATAG, UAAG) s’appliquent.
 
 ###  Règles pour l'accessibilité des contenus Web (WCAG) {#wcag}
 
 Le « contenu » web fait référence à l’information présente dans une page ou application web, y compris :
 
 * de l’information primaire telle que du texte, des images et des sons ;
-* du code ou du balisage qui définit la structure, la présentation etc.
+* du code ou du balisage qui définit la structure, la présentation…
 
-Les WCAG s’appliquent au contenu dynamique, multimédia, « mobile » etc. Les WCAG peuvent aussi être appliquées aux technologies de l’information et de la comunication « non-web », ainsi que décrit dans [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/). 
+Les WCAG s’appliquent au contenu dynamique, multimédia, « mobile »… Les WCAG peuvent aussi être appliquées aux technologies de l’information et de la communication « non-web », ainsi que décrit dans [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/). 
 
 Informations autour des WCAG :
 - [Vue d’ensemble des WCAG](/standards-guidelines/wcag/)
@@ -91,12 +91,12 @@ Informations autour des WCAG :
 
 Les outils d’édition sont des logiciels et des services que les « auteurs » (développeurs web, concepteurs, rédacteurs…) utilisent pour produire du contenu web. Par exemple : des éditeurs HTML, des gestionnaires de contenu (CMS), et des sites web qui permettent aux utilisateurs d’ajouter du contenu, tels que des blogues et des sites de réseau social. Les documents ATAG expliquent comment :
 * rendre les outils d’édition eux-mêmes accessibles, afin que les personnes handicapées puissent créer du contenu, et
-* accompagner les auteurs dnas la création de contenu web plus accessible.
+* accompagner les auteurs dans la création de contenu web plus accessible.
 
 Informations autour des ATAG :
 - [Vue d’ensemble des ATAG](/standards-guidelines/atag/)
 - [Les ATAG en un coup d’œil](/standards-guidelines/atag/glance/)
-- [Le standard ATAG 2.0](https://www.w3.org/TR/ATAG/)
+- [Le standard ATAG 2.0 (en anglais)](https://www.w3.org/TR/ATAG/)
 
 ### Règles pour l'accessibilité des agents utilisateurs (UAAG) {#uaag}
 
@@ -104,40 +104,40 @@ Les agents utilisateur incluent les navigateurs, leurs greffons, les lecteurs de
 
 Informations autour des UAAG :
 - [Vue d’ensemble des UAAG](/standards-guidelines/uaag/)
-- [Note UAAG 2.0](https://www.w3.org/TR/UAAG20/)
+- [Note UAAG 2.0 (en anglais)](https://www.w3.org/TR/UAAG20/)
 
 ## Spécifications techniques
 
 ### Applications internet riches accessibles (WAI-ARIA) {#aria}
 
-ARIA définit de la sémantique afin que les auteurs puissent transmettre des comportements d’interface utilisateur et de l’information structurée aux technologies d’assistance (telles que les revues d’écran). La spécification ARIA fournit une ontologie de rôles, états et propriétés qui définit des éléments d’interface utilisateur accessibles.
+ARIA définit de la sémantique afin que les auteurs puissent transmettre des comportements d’interface utilisateur et de l’information structurée aux technologies d’assistance (telles que les revues d’écran). La spécification ARIA fournit une ontologie de rôles, d’états et de propriétés qui définit des éléments d’interface utilisateur accessibles.
 
-La suite ARIA comprend des spécification de correspondance d’interface de programmation d’application (<abbr title="application programming interface" lang="en">API</abbr>) qui fournissent de l’accompagnement lors de l’implémentation d’agent utilisateur. Elle inclut aussi des parties pour la publication numérique et graphique. 
+La suite ARIA comprend des spécifications de correspondance d’interface de programmation d’application (<abbr title="application programming interface" lang="en">API</abbr>) qui fournissent de l’accompagnement lors de l’implémentation d’agent utilisateur. Elle inclut aussi des modules pour la publication numérique et graphique. 
 
 Informations autour d’ARIA :
-- [Vue d’ensemble de WAI-ARIA](/standards-guidelines/aria/) – comprend une [liste et description de modules et de correspondances d’API mappings](/standards-guidelines/aria/#versions)
-- [Pratiques de création WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/)
-- [Standard WAI-ARIA 1.1 Standard](https://www.w3.org/TR/wai-aria-1.1/)
+- [Vue d’ensemble de WAI-ARIA](/standards-guidelines/aria/) – comprend une [liste avec description de modules et de correspondances d’API](/standards-guidelines/aria/#versions)
+- [Pratiques de création WAI-ARIA (en anglais)](https://www.w3.org/TR/wai-aria-practices/)
+- [Standard WAI-ARIA 1.1 (en anglais)](https://www.w3.org/TR/wai-aria-1.1/)
 
 ### Audio et vidéo {#multimedia}
 
-- Le [WebVTT : le format des pistes textuelles pour la vidéo web](https://www.w3.org/TR/webvtt/) est un format pour les sous-titres, descriptions textuelles de vidéos et autres métadonnées qui sont synchronisées temporellement avec du contenu audio ou vidéo.
+- Le [WebVTT : le format des pistes textuelles pour la vidéo web](https://www.w3.org/TR/webvtt/) est un format pour les sous-titres, descriptions textuelles de vidéos et autres métadonnées qui sont synchronisés temporellement avec du contenu audio ou vidéo ;
 
-- Le [Langage de balisage du texte synchronisé (Timed Text Markup Language TTML)](https://www.w3.org/TR/ttml/) est conçu dans la perspective du transcodage ou de l’échange d’information de texte synchronisé entre formats de diffusion de contenu patrimoniaux de sous-titrage et d’audiodescription.
+- Le [langage de balisage du texte synchronisé (Timed Text Markup Language TTML)](https://www.w3.org/TR/ttml/) est conçu dans la perspective du transcodage ou de l’échange d’information de texte synchronisé entre formats patrimoniaux de diffusion de contenu de sous-titrage et d’audiodescription.
 
 ### Évaluation {#eval}
 
 Les ressources suivantes favorisent le développement de méthodes et outils d’évaluation de l’accessibilité :
 
-- [Vue d’ensemble de Tests de conformité à l’accessibilité (Accessibility Conformance Testing ACT)](/standards-guidelines/act/) &mdash; ACT définit et documente les règles pour tester la conformité du contenu web aux standards d’accessibilité.
+- [Vue d’ensemble d’Évaluation de conformité à l’accessibilité (Accessibility Conformance Testing ACT)](/standards-guidelines/act/) &mdash; ACT définit et documente les règles pour tester la conformité du contenu web aux standards d’accessibilité.
 
-- [Vue d’ensemble du language d’évaluation et rapport (Evaluation and Report Language EARL) Overview](/standards-guidelines/earl/) &mdash; EARL est une format interprétable par les machines pour transcrire des résultats de test.
+- [Vue d’ensemble du language d’évaluation et de compte rendu (Evaluation and Report Language EARL)](/standards-guidelines/earl/) &mdash; EARL est un format interprétable par les machines pour transcrire des résultats de test.
 
-Des ressources additionnelles relatives à l’évaluation sont disponibles dans la [vue d’ensemble « Évaluer l’accessibilité web »](/test-evaluate/), including:
+Des ressources additionnelles relatives à l’évaluation sont disponibles dans la [vue d’ensemble « Évaluer l’accessibilité web »](/test-evaluate/), dont :
 
 - [Vue d’ensemble de WCAG-EM : méthodologie d’évaluation de la conformité à l’accessibiité web](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM est une approche pour déterminer dans quelle mesure un site web est conforme aux Règles pour l'accessibilité des contenus Web (WCAG).
 
-### Personalisation
+### Personnalisation
 
 [[Vue d’ensemble sur la personnalisation]](/personalization/) &mdash; La personnalisation implique l’adaptation sur mesure de l’expérience utilisateur pour satisfaire les besoins et préférences de l’utilisateur individuel. Les créateurs de contenu peuvent utiliser les standards à propos de la personnalisation pour fournir une conception par défaut et permettre une personnalisation par l’utilisateur avec un effort minimisé.
 
@@ -149,14 +149,14 @@ Des ressources additionnelles relatives à l’évaluation sont disponibles dans
 
 ## Informations additionnelles {#moreinfo}
 
-- [Liste de tous les standards relatifs à l’accessibilité ("Recommandations W3C") et notes de groupe de travail](https://www.w3.org/TR/#tr_Accessibility__All_)
+- [Liste de tous les standards relatifs à l’accessibilité (« Recommandations W3C ») et notes de groupe de travail](https://www.w3.org/TR/#tr_Accessibility__All_)
 
-- [Lois & politiques relatives à l’accessiblité web](/policies/) liste les lois et politiques gouvernementales relatives à l’accessibiilté web dans les pays et régions tout autour du monde. Beaucoup d’entre elles font référence aux standards d’accessibiité du W3C.
+- [Lois & politiques relatives à l’accessiblité web](/policies/) liste les lois et politiques gouvernementales relatives à l’accessibilité web dans les pays et régions du monde entier. Beaucoup d’entre elles font référence aux standards d’accessibiité du W3C.
 
-- [Pour quoi l’harmonisation des standards est essentielle pour l’accessibilité web](/standards-guidelines/harmonization/)
+- [Pourquoi l’harmonisation des standards est essentielle pour l’accessibilité web](/standards-guidelines/harmonization/)
 
 - [Citer et fournir un lien vers des règles WAI et des documents techniques](/standards-guidelines/linking/)
 
-- [Comment WAI développe les règles d’accessibiité au travers du processus du W3C : Jalons et **possibilités de contribuer](/standards-guidelines/w3c-process/)
+- [Comment WAI développe les règles d’accessibiité au travers du processus du W3C : Jalons et **possibilités de contribuer**](/standards-guidelines/w3c-process/)
 
 ![illustration montrant les règles pour les différents composants, description détaillée disponible à https://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.fr.png" | relative_url }})
