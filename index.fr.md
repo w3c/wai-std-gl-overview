@@ -7,7 +7,7 @@ nav_title: "Standards/Règles" # A short title that is used in the navigation
 
 lang: fr   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2019-06-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-06-17   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "@code-elegant"   # Replace @@ with translator name
 #  link: @@
@@ -83,9 +83,9 @@ Les WCAG s’appliquent au contenu dynamique, multimédia, « mobile »… Les W
 Informations autour des WCAG :
 - [Vue d’ensemble des WCAG](/standards-guidelines/wcag/)
 - [Les WCAG 2.1 en un coup d’œil](/standards-guidelines/wcag/glance/)
-- [Comment satisfaire aux WCAG 2 (référence rapide)](https://www.w3.org/WAI/WCAG21/quickref/)
-- [Le standard WCAG 2.0](https://www.w3.org/Translations/WCAG20-fr/)
-- [Le standard WCAG 2.1](https://www.w3.org/TR/WCAG21/)
+- [Comment satisfaire aux WCAG 2 (référence rapide) (en anglais)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [Le standard WCAG 2.0 (en anglais)](https://www.w3.org/Translations/WCAG20-fr/)
+- [Le standard WCAG 2.1 (en anglais)](https://www.w3.org/TR/WCAG21/)
 
 ### Règles d'accessibilité pour les outils d'édition (ATAG) {#atag}
 
@@ -121,13 +121,13 @@ Informations autour d’ARIA :
 
 ### Audio et vidéo {#multimedia}
 
-- Le [WebVTT : le format des pistes textuelles pour la vidéo web](https://www.w3.org/TR/webvtt/) est un format pour les sous-titres, descriptions textuelles de vidéos et autres métadonnées qui sont synchronisés temporellement avec du contenu audio ou vidéo ;
+- Le [format des pistes textuelles pour la vidéo web WebVTT](https://www.w3.org/TR/webvtt/) est un format pour les sous-titres, les descriptions textuelles de vidéos et autres métadonnées qui sont synchronisés temporellement avec du contenu audio ou vidéo ;
 
 - Le [langage de balisage du texte synchronisé (Timed Text Markup Language TTML)](https://www.w3.org/TR/ttml/) est conçu dans la perspective du transcodage ou de l’échange d’information de texte synchronisé entre formats patrimoniaux de diffusion de contenu de sous-titrage et d’audiodescription.
 
 ### Évaluation {#eval}
 
-Les ressources suivantes favorisent le développement de méthodes et outils d’évaluation de l’accessibilité :
+Les ressources suivantes favorisent le développement de méthodes et d’outils d’évaluation de l’accessibilité :
 
 - [Vue d’ensemble d’Évaluation de conformité à l’accessibilité (Accessibility Conformance Testing ACT)](/standards-guidelines/act/) &mdash; ACT définit et documente les règles pour tester la conformité du contenu web aux standards d’accessibilité.
 
@@ -135,7 +135,7 @@ Les ressources suivantes favorisent le développement de méthodes et outils d�
 
 Des ressources additionnelles relatives à l’évaluation sont disponibles dans la [vue d’ensemble « Évaluer l’accessibilité web »](/test-evaluate/), dont :
 
-- [Vue d’ensemble de WCAG-EM : méthodologie d’évaluation de la conformité à l’accessibiité web](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM est une approche pour déterminer dans quelle mesure un site web est conforme aux Règles pour l'accessibilité des contenus Web (WCAG).
+- [Vue d’ensemble de WCAG-EM : méthodologie d’évaluation de la conformité à l’accessibilité web](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM est une approche pour déterminer dans quelle mesure un site web est conforme aux Règles pour l'accessibilité des contenus Web (WCAG).
 
 ### Personnalisation
 
@@ -149,14 +149,14 @@ Des ressources additionnelles relatives à l’évaluation sont disponibles dans
 
 ## Informations additionnelles {#moreinfo}
 
-- [Liste de tous les standards relatifs à l’accessibilité (« Recommandations W3C ») et notes de groupe de travail](https://www.w3.org/TR/#tr_Accessibility__All_)
+- [Liste de tous les standards relatifs à l’accessibilité (« Recommandations W3C ») et notes de groupe de travail (en anglais)](https://www.w3.org/TR/#tr_Accessibility__All_)
 
-- [Lois & politiques relatives à l’accessiblité web](/policies/) liste les lois et politiques gouvernementales relatives à l’accessibilité web dans les pays et régions du monde entier. Beaucoup d’entre elles font référence aux standards d’accessibiité du W3C.
+- [Lois & politiques relatives à l’accessiblité web](/policies/) liste les lois et politiques gouvernementales relatives à l’accessibilité web dans les pays et les régions du monde entier. Beaucoup d’entre elles font référence aux standards d’accessibiité du W3C.
 
 - [Pourquoi l’harmonisation des standards est essentielle pour l’accessibilité web](/standards-guidelines/harmonization/)
 
 - [Citer et fournir un lien vers des règles WAI et des documents techniques](/standards-guidelines/linking/)
 
-- [Comment WAI développe les règles d’accessibiité au travers du processus du W3C : Jalons et **possibilités de contribuer**](/standards-guidelines/w3c-process/)
+- [Comment WAI développe les règles d’accessibiité au travers du processus du W3C : jalons et **occasions de contribuer**](/standards-guidelines/w3c-process/)
 
-![illustration montrant les règles pour les différents composants, description détaillée disponible à https://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.fr.png" | relative_url }})
+![illustration montrant les règles pour les différentes composantes, description détaillée disponible à https://www.w3.org/WAI/intro/components-desc.html#guide (en anglais)]({{ "/content-images/wai-std-gl-overview/specs.fr.png" | relative_url }})
