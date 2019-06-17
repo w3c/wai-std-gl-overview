@@ -1,5 +1,4 @@
 ---
-# IN-PROGRESS #
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
 title: Vue d’ensemble des standards d’accessibilité du W3C # Do not translate "title:". Do translate the text after "title:".
@@ -61,7 +60,7 @@ Cette page introduit les lignes directrices et autres standards relatifs à l’
 
 ## Introduction {#intro}
 
-Le World Wide Web Consortium (W3C) developpe des standards internationaux pour le web : <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr> et bien d’autres. Les standards web du W3C sont appelés <dfn>Recommandations du W3C</dfn>.
+Le World Wide Web Consortium (W3C) développe des standards internationaux pour le web : <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr> et bien d’autres. Les standards web du W3C sont appelés <dfn>Recommandations du W3C</dfn>.
 
 Tous les standards du W3C sont revus pour la prise en compte de l’accessibilité par le groupe de travail Architectures de plateforme accessible ([APA](/about/groups/apawg/)).
 
@@ -151,12 +150,12 @@ Des ressources additionnelles relatives à l’évaluation sont disponibles dans
 
 - [Liste de tous les standards relatifs à l’accessibilité (« Recommandations W3C ») et notes de groupe de travail (en anglais)](https://www.w3.org/TR/#tr_Accessibility__All_)
 
-- [Lois & politiques relatives à l’accessiblité web](/policies/) liste les lois et politiques gouvernementales relatives à l’accessibilité web dans les pays et les régions du monde entier. Beaucoup d’entre elles font référence aux standards d’accessibiité du W3C.
+- [Lois & politiques relatives à l’accessibilité web](/policies/) liste les lois et politiques gouvernementales relatives à l’accessibilité web dans les pays et les régions du monde entier. Beaucoup d’entre elles font référence aux standards d’accessibilité du W3C.
 
 - [Pourquoi l’harmonisation des standards est essentielle pour l’accessibilité web](/standards-guidelines/harmonization/)
 
 - [Citer et fournir un lien vers des règles WAI et des documents techniques](/standards-guidelines/linking/)
 
-- [Comment WAI développe les règles d’accessibiité au travers du processus du W3C : jalons et **occasions de contribuer**](/standards-guidelines/w3c-process/)
+- [Comment WAI développe les règles d’accessibilité au travers du processus du W3C : jalons et **occasions de contribuer**](/standards-guidelines/w3c-process/)
 
 ![illustration montrant les règles pour les différentes composantes, description détaillée disponible à https://www.w3.org/WAI/intro/components-desc.html#guide (en anglais)]({{ "/content-images/wai-std-gl-overview/specs.fr.png" | relative_url }})
