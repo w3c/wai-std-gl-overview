@@ -1,32 +1,28 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
-title: W3C Accessibility Standards Overview  # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Standards/Guidelines" # A short title that is used in the navigation
+title: W3C 접근성 기준 개요  # Do not translate "title:". Do translate the text after "title:".
+nav_title: "표준/가이드라인" # A short title that is used in the navigation
 
-lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+lang: ko   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-06-20   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: 
-# - name: "@@"   # Replace @@ with translator name
-#  link: @@
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
-# contributors:
-# - name: "@@"   # Replace @@ with contributor name, or delete this line if none
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple contributors
+# - name: "Yong Ui Lee"   # Replace @@ with translator name
+#  link: "https://twitter.com/yongui9"
 
 ref: /standards-guidelines/   # Do not change this
 layout: default
 github:
   repository: w3c/wai-std-gl-overview
-  path: index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
-permalink: /standards-guidelines/   # Add the language shortcode to the end; for example /standards-guidelines/fr
+  path: index.ko.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+permalink: /standards-guidelines/ko   # Add the language shortcode to the end; for example /standards-guidelines/fr
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date:</strong> Updated 13 March 2019.</p>
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>날짜:</strong> 2019년 3월 13일 업데이트됨.</p>
+  <p><strong>편집자:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>교육과 활동관련 실무 그룹인 (<a href="https://www.w3.org/WAI/EO/">EOWG</a>)의 지원을 받아 제작되었습니다.</p>
 
 # Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
 # Read Translations Notes for this resource at https://github.com/w3c/wai-std-gl-overview/blob/master/README.md
@@ -38,7 +34,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces guidelines and other standards related to web accessibility.
+이 페이지는 웹 접근성과 관련된 가이드라인과 다른 표준들에 관해 설명합니다. 
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -58,17 +54,17 @@ This page introduces guidelines and other standards related to web accessibility
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Introduction {#intro}
+## 소개 {#intro}
 
-The World Wide Web Consortium (W3C) develops international Web standards: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr>, and many more. W3C's Web standards are called <dfn>W3C Recommendations</dfn>.
+월드 와이드 웹 컨소시움(W3C)은 국제적 웹 표준을 만들었습니다. : <abbr title="하이퍼텍스트 마크업 언어">HTML</abbr>, <abbr title="캐스케이딩 스타일 시트">CSS</abbr>을 포함해 여러 가지가 더 있습니다. W3C의 웹 표준을 <dfn>W3C Recommendations</dfn>이라 부릅니다.
 
-All W3C standards are reviewed for accessibility support by the Accessible Platform Architectures ([APA](/about/groups/apawg/)) Working Group.
+모든 W3C 표준은 접근성 지원을 위해 접근성 플랫폼 설계([APA](/about/groups/apawg/)) 실무 그룹에서 검토됩니다.
 
-The W3C standards and Working Group Notes introduced below are particularly relevant to accessibility.
+아래 소개된 W3C 표준과 실무 그룹의 기록은 특히 접근성과 관련이 있습니다. 
 
-## Accessibility Guidelines {#guidelines}
+## 접근성 가이드라인 {#guidelines}
 
-[[Essential Components of Web Accessibility]](/fundamentals/components/) shows how web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.
+[[웹 접근성의 필수 요소Essential Components of Web Accessibility]](/fundamentals/components/)는 웹 접근성이 함께 사용되는 웹 개발 및 상호작용의 몇몇 요소와 얼마나 의존하는지와 WAI 가이드라인(WCAG, ATAG, UAAG)에서 어떻게 적용되는지에 대해 말하고 있습니다.
 
 ### 웹 콘텐츠 접근성 지침 (WCAG) {#wcag}
 
