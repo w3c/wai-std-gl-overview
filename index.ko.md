@@ -67,7 +67,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ## 접근성 지침 {#guidelines}
 
-[[웹 접근성의 필수 요소]](/fundamentals/components/)는 웹 접근성이 웹 개발과 상호작용 과정에서 여러 요소와 어떻게 작용하는지와 WAI 지침(WCAG, ATAG, UAAG)의 적용 방법에 대해 명시하고 있습니다.
+[[웹 접근성의 필수 요소]](/fundamentals/components/)는 웹 접근성이 웹 개발 및 상호작용 과정에서 여러 요소와 어떻게 작용하는지와 WAI 지침(WCAG, ATAG, UAAG)의 적용 방법에 대해 명시하고 있습니다.
 
 ### 웹 콘텐츠 접근성 지침 (WCAG) {#wcag}
 
@@ -110,7 +110,7 @@ UAAG 정보:
 
 ARIA는 의미를 제공하여 저자가 유저 인터페이스 행동이나 구조적 정보를 스크린 리더와 같은 보조 기술에 전달할 수 있게 합니다. ARIA 기술 명세는 역할, 상태, 접근 가능한 유저 인터페이스 요소로 정의되는 속성들의 온톨로지를 제공합니다.  
 
-ARIA 모음은 유저 에이전트 실행 지침을 제공하는 명세를 모은<abbr title="응용 프로그램 프로그래밍 인터페이스">API</abbr>를 포함합니다. 그래픽, 디지털 출판을 위한 모듈 또한 포함됩니다. 
+ARIA 모음은 유저 에이전트 실행 지침을 제공하는 명세를 모은 <abbr title="응용 프로그램 프로그래밍 인터페이스">API</abbr>를 포함합니다. 그래픽, 디지털 출판을 위한 모듈 또한 포함됩니다. 
 
 ARIA 정보:
 - [WAI-ARIA 개요](/standards-guidelines/aria/) – [모듈, API 맵핑 목록과 설명](/standards-guidelines/aria/#versions)을 포함합니다.
@@ -119,7 +119,7 @@ ARIA 정보:
 
 ### 오디오와 동영상 {#multimedia}
 
-- [WebVTT: 웹 동영상 텍스트 트랙 형식](https://www.w3.org/TR/webvtt/)는 오디오나 비디오에 대한 캡션, 비디오에 대한 텍스트 설명, 시간순으로 정렬된 다른 메타 데이터를 위한 형식입니다.
+- [WebVTT: 웹 동영상 텍스트 트랙 형식](https://www.w3.org/TR/webvtt/)은 오디오나 비디오에 대한 캡션, 비디오에 대한 텍스트 설명, 시간순으로 정렬된 다른 메타 데이터를 위한 형식입니다.
 
 - [시간 지정 텍스트 마크업 언어 (TTML)](https://www.w3.org/TR/ttml/)는 자막과 캡션을 위한 법적 배포 가능 콘텐츠 형식간의 시간 지정 텍스트 정보를 트랜스코딩하거나 변환하기 위해 사용되는 것을 목적으로 합니다. 
 
