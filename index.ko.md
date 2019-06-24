@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
 title: W3C 접근성 기준 개요  # Do not translate "title:". Do translate the text after "title:".
-nav_title: "표준/가이드라인" # A short title that is used in the navigation
+nav_title: "표준/지침" # A short title that is used in the navigation
 
 lang: ko   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
@@ -10,6 +10,9 @@ last_updated: 2019-06-20   # Put the date of this translation YYYY-MM-DD (with m
 # translators: 
 # - name: "Yong Ui Lee"   # Replace @@ with translator name
 #  link: "https://twitter.com/yongui9"
+# contributors:
+# - name: "Jun Ho Lee"
+#  link: "gomjunho@gmail.com"
 
 ref: /standards-guidelines/   # Do not change this
 layout: default
@@ -34,7 +37,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-이 페이지는 웹 접근성과 관련된 가이드라인과 표준들에 관해 설명합니다. 
+이 페이지는 웹 접근성과 관련된 지침과 표준들에 관해 설명합니다. 
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -62,13 +65,13 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 아래 소개된 W3C 표준과 실무 그룹의 기록은 특히 접근성과 관련이 있습니다. 
 
-## 접근성 가이드라인 {#guidelines}
+## 접근성 지침 {#guidelines}
 
-[[웹 접근성의 필수 요소]](/fundamentals/components/)는 웹 접근성이 웹 개발 및 상호작용 과정에서 여러 요소와 얼마나 의존하는지와 WAI 가이드라인(WCAG, ATAG, UAAG)이 어떻게 적용되는지에 대해 명시하고 있습니다.
+[[웹 접근성의 필수 요소]](/fundamentals/components/)는 웹 접근성이 웹 개발과 상호작용 과정에서 여러 요소와 어떻게 작용하는지와 WAI 지침(WCAG, ATAG, UAAG)의 적용 방법에 대해 명시하고 있습니다.
 
 ### 웹 콘텐츠 접근성 지침 (WCAG) {#wcag}
 
-웹 "콘텐츠"는 일반적으로 웹 페이지나 어플리케이션 안의 정보를 가리킵니다. 다음의 내용으르 포함합니다 : 
+웹 "콘텐츠"는 일반적으로 웹 페이지나 어플리케이션 안의 정보를 가리킵니다. 다음의 내용을 포함합니다 : 
 
 * 텍스트, 이미지, 소리와 같은 기본 정보
 * 구조나 표현 방법 등을 정의한 코드나 마크업
@@ -84,9 +87,9 @@ WCAG 정보:
 
 ### 웹 저작 도구 접근성 지침 (ATAG) {#atag}
 
-저작도구는 "저자" (웹 개발자, 디자이너, 작가 등)가 웹 콘텐츠를 생산하는 데에 사용하는 서비스나 소프트웨어를 가리킵니다. 예를 들어, HTML 에디터, 콘텐츠 관리 시스템 (CMS), 사용자가 콘텐츠를 생산할 수 있는 블로그나 소셜 네트워킹 사이트가 있습니다. ATAG 문서는 다음 내용을 목표로 합니다 :
+저작도구는 "저자" (웹 개발자, 디자이너, 작가 등)가 웹 콘텐츠를 생산하는 데에 사용하는 서비스나 소프트웨어를 가리킵니다. 예를 들어, HTML 에디터, 콘텐츠 관리 시스템 (CMS) 그리고 사용자가 콘텐츠를 생산할 수 있는 블로그나 소셜 네트워킹 사이트가 있습니다. ATAG 문서는 다음 내용을 목표로 합니다 :
 * 저작도구의 접긍성을 보장하여 장애가 있는 사용자가 웹 콘텐츠를 생산할 수 있도록 하고, 
-* 저자가 더 접근성이 좋은 웹 콘텐츠를 생산하는 것을 돕는다.
+* 저자가 더 접근성이 좋은 웹 콘텐츠를 생산하는 것을 돕습니다.
 
 ATAG 정보:
 - [ATAG 개요](/standards-guidelines/atag/)
@@ -107,18 +110,18 @@ UAAG 정보:
 
 ARIA는 의미를 제공하여 저자가 유저 인터페이스 행동이나 구조적 정보를 스크린 리더와 같은 보조 기술에 전달할 수 있게 합니다. ARIA 기술 명세는 역할, 상태, 접근 가능한 유저 인터페이스 요소로 정의되는 속성들의 온톨로지를 제공합니다.  
 
-ARIA 모음은 유저 에이전트 실행 가이드라인을 제공하는 명세를 모은<abbr title="응용 프로개름 프로그래밍 인터페이스">API</abbr>를 포함합니다. 그래픽, 디지털 출판을 위한 모듈 또한 포함됩니다. 
+ARIA 모음은 유저 에이전트 실행 지침을 제공하는 명세를 모은<abbr title="응용 프로그램 프로그래밍 인터페이스">API</abbr>를 포함합니다. 그래픽, 디지털 출판을 위한 모듈 또한 포함됩니다. 
 
 ARIA 정보:
 - [WAI-ARIA 개요](/standards-guidelines/aria/) – [모듈, API 맵핑 목록과 설명](/standards-guidelines/aria/#versions)을 포함합니다.
 - [WAI-ARIA 저작 연습](https://www.w3.org/TR/wai-aria-practices/)
 - [WAI-ARIA 1.1 표준](https://www.w3.org/TR/wai-aria-1.1/)
 
-### 오디오와 비디오 {#multimedia}
+### 오디오와 동영상 {#multimedia}
 
-- [WebVTT: 웹 비디오 텍스트 트랙 형식](https://www.w3.org/TR/webvtt/)는 오디오나 비디오에 대한 캡션, 비디오에 대한 텍스트 설명, 시간순으로 정렬된 다른 메타 데이터를 위한 형식입니다.
+- [WebVTT: 웹 동영상 텍스트 트랙 형식](https://www.w3.org/TR/webvtt/)는 오디오나 비디오에 대한 캡션, 비디오에 대한 텍스트 설명, 시간순으로 정렬된 다른 메타 데이터를 위한 형식입니다.
 
-- [타임드 텍스트 마크업 언어 (TTML)](https://www.w3.org/TR/ttml/)는 자막과 캡션을 위한 법적 배포 콘텐츠 형식들 간의 타임드 텍스트 정보를 트렌스코딩하거나 변환하기 위해 사용되는 것을 목적으로 합니다. 
+- [시간 지정 텍스트 마크업 언어 (TTML)](https://www.w3.org/TR/ttml/)는 자막과 캡션을 위한 법적 배포 가능 콘텐츠 형식간의 시간 지정 텍스트 정보를 트랜스코딩하거나 변환하기 위해 사용되는 것을 목적으로 합니다. 
 
 ### 평가 {#eval}
 
@@ -134,7 +137,7 @@ ARIA 정보:
 
 ### 개인화
 
-[[개인화 개요]](/personalization/) &mdash; 개인화는 각 개인의 사용자의 선호와 필요를 충족시키기 위한 사용자 경험을 조정하는 것을 포함합니다. 콘텐츠 저자는 최소한의 공수로 기본 디자인을 제공하고, 사용자 개인화가 가능하도록 하는 데에 개인화 표준을 사용할 수 있습니다. 
+[[개인화 개요]](/personalization/) &mdash; 개인화는 각 사용자의 선호와 필요를 충족시키기 위한 사용자 경험을 조정하는 것을 포함합니다. 콘텐츠 저자는 최소한의 공수로 기본 디자인을 제공하고, 사용자 개인화가 가능하도록 하는 데에 개인화 표준을 사용할 수 있습니다. 
 
 ## W3C WAI의 다른 영역
 
