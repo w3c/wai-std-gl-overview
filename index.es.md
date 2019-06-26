@@ -60,11 +60,11 @@ Esta página presenta pautas y otros estándares relacionados con la accesibilid
 
 ## Introducción {#intro}
 
-El World Wide Web Consortium (W3C) desarrolla estándares web internacionales: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr> y muchos más. Los estándares de W3C se llaman <dfn>W3C Recommendations</dfn>.
+El World Wide Web Consortium (W3C) desarrolla estándares web internacionales: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr> y muchos más. Los estándares de W3C se llaman <dfn>Recomendaciones del W3C</dfn>.
  
-El soporte para la accesibilidad de todos los estándares de W3C es revisado por el grupo de trabajo Accessible Platform Architectures - [APA](/about/groups/apawg/).
+El soporte para la accesibilidad de todos los estándares de W3C es revisado por el Grupo de Trabajo de Arquitecturas de Plataforma Accesible - [APA](/about/groups/apawg/).
  
-Los estándares W3C y las notas de los grupos de trabajo que se mencionan abajo son particularmente relevantes para la accesibilidad.
+Los estándares W3C y las Notas de los Grupos de Trabajo que se mencionan abajo son particularmente relevantes para la accesibilidad.
 
 ## Pautas de accesibilidad {#guidelines}
 
@@ -108,7 +108,7 @@ Información sobre las pautas UAAG:
 
 ## Especificaciones técnicas
 
-### Accessible Rich Internet Applications (WAI-ARIA) {#aria}
+### Aplicaciones de Internet Enriquecidas Accesibles (WAI-ARIA) {#aria}
 
 ARIA proporciona semántica, de tal forma que los autores pueden transmitir comportamientos de la interfaz de usuario e información estructural a las tecnologías de apoyo (por ejemplo, lectores de pantalla). La especificación de ARIA establece una ontología de roles, estados y propiedades que definen elementos accesibles en la interfaz de usuario.
 
@@ -121,25 +121,25 @@ Información sobre ARIA:
 
 ### Audio y vídeo {#multimedia}
 
-- [Web Video Text Tracks (WebVTT)](https://www.w3.org/TR/webvtt/) es un formato para subtítulos, descripciones textuales de vídeo y otros metadatos que se sincronizan temporalmente con el contenido auditivo o visual.
+- [Pistas de Texto para Vídeo en la Web (WebVTT)](https://www.w3.org/TR/webvtt/) es un formato para subtítulos, descripciones textuales de vídeo y otros metadatos que se sincronizan temporalmente con el contenido auditivo o visual.
 
-- [Timed Text Markup Language (TTML)](https://www.w3.org/TR/ttml/) sirve para transcodificar o intercambiar información textual sincronizada temporalmente entre formatos de subtítulos antiguos.
+- [Lenguaje de Etiquetado de Texto Sincronizado (TTML)](https://www.w3.org/TR/ttml/) sirve para transcodificar o intercambiar información textual sincronizada temporalmente entre formatos de subtítulos antiguos.
 
 ### Evaluación {#eval}
 
 Los siguientes recursos permiten desarrollar métodos y herramientas para evaluar la accesibilidad:
 
-- [[Resumen de Accessibility Conformance Testing (ACT)]](/standards-guidelines/act/) &mdash; ACT establece y describe normas para comprobar la conformidad del contenido web con los estándares de accesibilidad.
+- [[Resumen de Pruebas de Conformidad de Accesibilidad (ACT)]](/standards-guidelines/act/) &mdash; ACT establece y describe normas para comprobar la conformidad del contenido web con los estándares de accesibilidad.
 
-- [[Resumen de Evaluation and Report Language (EARL)]](/standards-guidelines/earl/) &mdash; EARL es un formato para ser leído por aplicaciones que sirve para expresar los resultados de las pruebas.
+- [[Resumen de Lenguaje de Evaluación e Informes (EARL)]](/standards-guidelines/earl/) &mdash; EARL es un formato para ser leído por aplicaciones que sirve para expresar los resultados de las pruebas.
 
 Recursos adicionales relacionados con la evaluación se pueden encontrar en el [[resumen de evaluación de la accesibilidad web]](/test-evaluate/), incluyendo:
 
-- [[Resumen de WCAG-EM: Website Accessibility Conformance Evaluation Methodology]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM es una aproximación para determinar cuánto se ajusta un sitio web a las pautas de accesibilidad para el contenido web (WCAG).
+- [[Resumen de WCAG-EM: Metodología de Evaluación de Conformidad con la Accesibilidad en sitios Web]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM es una aproximación para determinar cuánto se ajusta un sitio web a las pautas de accesibilidad para el contenido web (WCAG).
 
 ### Personalización
 
-[[Resumen sobre la personalization]](/personalization/) &mdash; La personalización consiste en ajustar la experiencia del usuario a fin de cubrir las necesidades y preferencias individuales. Los autores de contenido pueden usar estándares de personalización para proporcionar un diseño por defecto y permitir la personalización del usuario con un esfuerzo mínimo.
+[[Resumen sobre la personalización]](/personalization/) &mdash; La personalización consiste en ajustar la experiencia del usuario a fin de cubrir las necesidades y preferencias individuales. Los autores de contenido pueden usar estándares de personalización para proporcionar un diseño por defecto y permitir la personalización del usuario con un esfuerzo mínimo.
 
 ## Otras áreas del trabajo de W3C WAI
 
@@ -149,7 +149,7 @@ Recursos adicionales relacionados con la evaluación se pueden encontrar en el [
 
 ## Información adicional {#moreinfo}
 
-- [Listado de todos los estándares W3C relacionados con la accesibilidad ("W3C Recommendations") y notas de los grupos de trabajo](https://www.w3.org/TR/#tr_Accessibility__All_)
+- [Listado de todos los Estándares W3C relacionados con la accesibilidad ("Recomendaciones del W3C") y Notas de los Grupos de Trabajo](https://www.w3.org/TR/#tr_Accessibility__All_)
 
 - [[Leyes y políticas de accesibilidad web]](/policies/) donde se relacionan leyes gubernamentales y políticas sobre accesibilidad web en países y regiones de todo el mundo. Muchas de estas hacen referencia a los estándares de accesibilidad del W3C.
 
