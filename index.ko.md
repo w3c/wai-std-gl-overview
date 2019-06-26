@@ -81,7 +81,7 @@ WCAG는 다양한 콘텐츠, 멀티미디어, "모바일" 등에 적용됩니다
 WCAG 정보: 
 - [WCAG 개요](/standards-guidelines/wcag/)
 - [[WCAG 2.1 한눈에 보기]](/standards-guidelines/wcag/glance/)
-- [WCAG 2를 충족하는 방법 (빠른 참조)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [WCAG 2 지키는 방법 (빠른 참조)](https://www.w3.org/WAI/WCAG21/quickref/)
 - [WCAG 2.0 표준](https://www.w3.org/TR/WCAG20/)
 - [WCAG 2.1 표준](https://www.w3.org/TR/WCAG21/)
 
@@ -119,19 +119,19 @@ ARIA 정보:
 
 ### 오디오와 동영상 {#multimedia}
 
-- [WebVTT: 웹 동영상 텍스트 트랙 형식](https://www.w3.org/TR/webvtt/)은 오디오나 비디오에 대한 캡션, 비디오에 대한 텍스트 설명, 시간순으로 정렬된 다른 메타 데이터를 위한 형식입니다.
+- [WebVTT: 웹 동영상 텍스트 트랙 형식](https://www.w3.org/TR/webvtt/)은 오디오나 동영상에 대한 캡션, 동영상에 대한 텍스트 설명, 시간순으로 정렬된 다른 메타 데이터를 위한 형식입니다.
 
-- [시간 지정 텍스트 마크업 언어 (TTML)](https://www.w3.org/TR/ttml/)는 자막과 캡션을 위한 법적 배포 가능 콘텐츠 형식간의 시간 지정 텍스트 정보를 트랜스코딩하거나 변환하기 위해 사용되는 것을 목적으로 합니다. 
+- [시간 지정 텍스트 마크업 언어 (TTML)](https://www.w3.org/TR/ttml/)는 자막과 캡션을 위한 기존 배포 콘텐츠 형식간의 시간 지정 텍스트 정보를 트랜스코딩하거나 변환하기 위해 사용되는 것을 목적으로 합니다. 
 
 ### 평가 {#eval}
 
 다음 자료들은 접근성 평가 방법과 도구 개발을 지원합니다 : 
 
-- [[접근성 부합 여부 테스트(ACT) 개요]](/standards-guidelines/act/) &mdash; ACT는 웹 콘텐츠가 접근성 표준에 부합하는지 테스팅하기 위한 원칙들을 문서화하고 발행합니다.
+- [[접근성 부합 여부 테스트 (ACT) 개요]](/standards-guidelines/act/) &mdash; ACT는 웹 콘텐츠가 접근성 표준에 부합하는지 테스팅하기 위한 원칙들을 문서화하고 발행합니다.
 
 - [[평가와 보고 언어 (EARL) 개요]](/standards-guidelines/earl/) &mdash; EARL는 기계가 읽을 수 있는 형식으로 테스트 결과를 보여줍니다.
 
-평가와 관련된 추가 자료들은 [[웹 접근성 평가 개요]](/test-evaluate/)에 기록되어 있습니다. 다음 자료도 포함되어 있습니다 : 
+평가와 관련된 추가 자료들은 [[웹 접근성 평가 개요]](/test-evaluate/)에 명시되어 있습니다. 다음 자료도 포함합니다 : 
 
 - [[WCAG-EM 개요: 웹사이트 접근성 부합 평가 방법론]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM은 웹 사이트가 웹 콘텐츠 접근성 지침(WCAG)에 얼마나 부합하는지를 확인하는 접근법입니다.
 
@@ -147,7 +147,7 @@ ARIA 정보:
 
 ## 추가 정보 {#moreinfo}
 
-- [W3C 접근성 전체 목록 - 관련된 표준 ("W3C Recommendations")과 실무 그룹 기록](https://www.w3.org/TR/#tr_Accessibility__All_)
+- [W3C 접근성 전체 목록 - 관련된 표준 ("W3C Recommendations") 과 실무 그룹 기록](https://www.w3.org/TR/#tr_Accessibility__All_)
 
 - [[웹 접근성 법과 정책]](/policies/) 목록은 전 세계 나라, 지역의 웹 접근성과 관련된 정부 차원의 법과 정책을 정리하였습니다. 이중 대부분은 W3C 접근성 표준을 참고하고 있습니다.
 
