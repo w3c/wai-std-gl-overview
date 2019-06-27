@@ -9,11 +9,10 @@ lang: es   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2019-05-29   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Carlos Muncharaz"   # Replace @@ with translator name
-#  link: @@
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
-# contributors:
-# - name: "@@"   # Replace @@ with contributor name, or delete this line if none
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple contributors
+  link: "http://www.muncharaz.eu/"
+contributors:
+- name: "Martín Álvarez-Espinar (CTIC)"   # Replace @@ with contributor name, or delete this line if none
+- name: "Jorge Rumoroso"   # Replace @@ with name, or delete this line if not multiple contributors
 
 ref: /standards-guidelines/   # Do not change this
 layout: default
