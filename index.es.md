@@ -79,7 +79,7 @@ Por “contenido” web se hace referencia, generalmente, a la información que 
 Las pautas WCAG se aplican al contenido dinámico, multimedia, “móvil”, etc. También se pueden aplicar a tecnologías de la información y la comunicación (TIC) no relacionadas con la web, como se explica en [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
 
 Información sobre las pautas WCAG:
-- [Resumen de WCAG](  /standards-guidelines/wcag/)
+- [[Resumen de WCAG]](/standards-guidelines/wcag/)
 - [[WCAG 2.1 de un vistazo]](/standards-guidelines/wcag/glance/)
 - [Cómo seguir las pautas WCAG 2 (Guía rápida)](https://www.w3.org/WAI/WCAG21/quickref/)
 - [Estándar WCAG 2.0](https://www.w3.org/TR/WCAG20/)
@@ -93,7 +93,7 @@ Las herramientas de creación de contenido son programas o servicios que los “
 * ayudar a los autores a crear contenido web más accesible.
 
 Información sobre las pautas ATAG:
-- [Resumen de ATAG](/standards-guidelines/atag/)
+- [[Resumen de ATAG]](/standards-guidelines/atag/)
 - [[ATAG de un vistazo]](/standards-guidelines/atag/glance/)
 - [Estándar ATAG 2.0](https://www.w3.org/TR/ATAG/)
 
@@ -102,7 +102,7 @@ Información sobre las pautas ATAG:
 Los agentes de usuario son navegadores, extensiones de los navegadores, reproductores multimedia, lectores y otras aplicaciones que presentan contenido web.
 
 Información sobre las pautas UAAG:
-- [Resumen de UAAG](/standards-guidelines/uaag/)
+- [[Resumen de UAAG]](/standards-guidelines/uaag/)
 - [Nota sobre UAAG 2.0](https://www.w3.org/TR/UAAG20/)
 
 ## Especificaciones técnicas
@@ -114,7 +114,7 @@ ARIA proporciona semántica, de tal forma que los autores pueden transmitir comp
 La suite de ARIA incluye especificaciones de esquemas <abbr title="application programming interface">API</abbr> que proporcionan orientación para la aplicación en agentes de usuario. También incluye módulos para gráficos y la publicación digital.
 
 Información sobre ARIA:
-- [Resumen de WAI-ARIA](/standards-guidelines/aria/) – incluye [lista y descripción de módulos y esquemas API](/standards-guidelines/aria/#versions)
+- [[Resumen de WAI-ARIA]](/standards-guidelines/aria/) – incluye [lista y descripción de módulos y esquemas API](/standards-guidelines/aria/#versions)
 - [Prácticas de autor de WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/)
 - [Estándar WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/)
 
