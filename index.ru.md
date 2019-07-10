@@ -9,6 +9,8 @@ lang: ru   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2019-07-09   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
 - name: "ИИТО ЮНЕСКО"   # Replace @@ with translator name
+- name: "UNESCO IITE"
+  link: https://iite.unesco.org/
 ref: /standards-guidelines/   # Do not change this
 layout: default
 github:
@@ -17,7 +19,7 @@ github:
 permalink: /standards-guidelines/ru   # Add the language shortcode to the end; for example /standards-guidelines/fr
 feedbackmail: wai@w3.org
  
-footer: >   # Do not change these dates.
+footer: >   # Do not change these dates. Do translate the "Date", "Editor" and the dates themselves.
   <p><strong>Date:</strong> Updated 13 March 2019.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
@@ -102,14 +104,14 @@ footer: >   # Do not change these dates.
  
 ### Доступные полнофункциональные интернет-приложения (WAI-ARIA) {#aria}
  
-Доступные полнофункциональные интернет-приложения (ARIA) обеспечивают семантику, необходимую авторам для передачи информации о структурных данных и API-мэппинге в распоряжение вспомогательных технологий (таких как программы для чтения экрана). Спецификация ARIA прописывает онтологию ролей, состояний и свойств, определяющих доступные элементы пользовательского интерфейса.
+ARIA обеспечивают семантику, необходимую авторам для передачи информации о структурных данных и API-мэппинге в распоряжение вспомогательных технологий (таких как программы для чтения экрана). Спецификация ARIA прописывает онтологию ролей, состояний и свойств, определяющих доступные элементы пользовательского интерфейса.
  
 Комплекс ARIA включает в себя технические требования к <abbr title=" отображению прикладного программного интерфейса">API</abbr>, которые регламентируют реализацию пользовательских программ. Комплекс также содержит в своей структуре модули по компьютерной графике и цифровой полиграфии.
  
 Информация об ARIA:
 - [Обзор WAI-ARIA](/standards-guidelines/aria/) – включающий [список и описание модулей и API-мэппингов](/standards-guidelines/aria/#versions)
 - [Методики WAI-ARIA для разработки приложений](https://www.w3.org/TR/wai-aria-practices/)
-- [WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/)
+- [Стандарт WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/)
  
 ### Аудио- и видеоматериалы {#multimedia}
  
@@ -139,7 +141,7 @@ footer: >   # Do not change these dates.
  
 - [[Решения W3C по обеспечению когнитивной доступности]](/cognitive/)
  
-## Дополнительная информация{#moreinfo}
+## Дополнительная информация {#moreinfo}
  
 - [Полный перечень стандартов W3C по обеспечению доступности веб-контента ("W3C Recommendations") и примечаний Рабочей Группы](https://www.w3.org/TR/#tr_Accessibility__All_)
  
@@ -149,6 +151,6 @@ footer: >   # Do not change these dates.
  
 - [[Ссылки и обращения к рекомендациям Инициативы WAI и Технической документации]](/standards-guidelines/linking/)
  
-- [Как WAI разрабатывает рекомендации по обеспечению веб-доступности в рамках деятельности W3C: Основные этапы и ** возможности содействия**](/standards-guidelines/w3c-process/)
+- [Как WAI разрабатывает рекомендации по обеспечению веб-доступности в рамках деятельности W3C: Основные этапы и **возможности содействия**](/standards-guidelines/w3c-process/)
  
 ![Рисунок, отображающий рекомендации для различных компонентов. Подробное описание доступно по ссылке: https://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
