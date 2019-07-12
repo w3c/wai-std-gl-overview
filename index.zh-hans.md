@@ -7,9 +7,9 @@ nav_title: "标准/指南" # A short title that is used in the navigation
 lang: zh-hans   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
 last_updated: 2019-07-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: 
-# - name: "安佳"   # Replace @@ with translator name
-#   link: "https://github.com/anjia"
+translators: 
+- name: "安佳"   # Replace @@ with translator name
+  link: "https://github.com/anjia"
 
 
 ref: /standards-guidelines/   # Do not change this
