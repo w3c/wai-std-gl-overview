@@ -79,6 +79,7 @@ Por “contenido” web se hace referencia, generalmente, a la información que 
 Las pautas WCAG se aplican al contenido dinámico, multimedia, “móvil”, etc. También se pueden aplicar a tecnologías de la información y la comunicación (TIC) no relacionadas con la web, como se explica en [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
 
 Información sobre las pautas WCAG:
+
 - [[Resumen de WCAG]](/standards-guidelines/wcag/)
 - [[WCAG 2.1 de un vistazo]](/standards-guidelines/wcag/glance/)
 - [Cómo seguir las pautas WCAG 2 (Guía rápida)](https://www.w3.org/WAI/WCAG21/quickref/)
