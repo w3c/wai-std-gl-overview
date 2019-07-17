@@ -65,7 +65,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ## 无障碍指南 {#guidelines}
 
-[[Web 可访问性的基本组件]](/fundamentals/components/)展示了 Web 无障碍如何依赖 Web 开发的几个组件以及如何与它们交互，也展示了如何应用 Web无障碍推荐组（WAI）的指南（WCAG、ATAG、UAAG）。
+[[Web 可访问性的基本组件]](/fundamentals/components/)展示了 Web 无障碍如何依赖 Web 开发的几个组件以及如何与它们交互，也展示了如何应用 Web无障碍推进（WAI）的指南（WCAG、ATAG、UAAG）。
 
 ### Web内容无障碍指南（WCAG） {#wcag}
 
