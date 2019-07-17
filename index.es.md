@@ -149,7 +149,7 @@ Recursos adicionales relacionados con la evaluación se pueden encontrar en el [
 
 ## Información adicional {#moreinfo}
 
-- [Listado de todos los Estándares W3C relacionados con la accesibilidad ("Recomendaciones del W3C") y Notas de los Grupos de Trabajo](https://www.w3.org/TR/#tr_Accessibility__All_)
+- [Listado de todos los Estándares W3C relacionados con la accesibilidad ("Recomendaciones del W3C") y Notas de los Grupos de Trabajo](https://www.w3.org/TR/?tag=accessibility)
 
 - [[Leyes y políticas de accesibilidad web]](/policies/) donde se relacionan leyes gubernamentales y políticas sobre accesibilidad web en países y regiones de todo el mundo. Muchas de estas hacen referencia a los estándares de accesibilidad del W3C.
 

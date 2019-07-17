@@ -146,7 +146,7 @@ ARIA 정보:
 
 ## 추가 정보 {#moreinfo}
 
-- [W3C 접근성 전체 목록 - 관련된 표준 ("W3C Recommendations")과 실무 그룹 기록](https://www.w3.org/TR/#tr_Accessibility__All_)
+- [W3C 접근성 전체 목록 - 관련된 표준 ("W3C Recommendations")과 실무 그룹 기록](https://www.w3.org/TR/?tag=accessibility)
 
 - [[웹 접근성 법과 정책]](/policies/) 목록은 전 세계 나라, 지역의 웹 접근성과 관련된 정부 차원의 법과 정책을 정리하였습니다. 이중 대부분은 W3C 접근성 표준을 참고하고 있습니다.
 

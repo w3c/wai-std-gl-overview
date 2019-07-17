@@ -145,7 +145,7 @@ ARIA 信息：
 
 ## 其它信息 {#moreinfo}
 
-- [所有和 W3C 无障碍相关的标准（“W3C建议”）和工作组说明](https://www.w3.org/TR/#tr_Accessibility__All_)
+- [所有和 W3C 无障碍相关的标准（“W3C建议”）和工作组说明](https://www.w3.org/TR/?tag=accessibility)
 
 - [[网站无障碍的法律和政策]](/policies/)列出了世界各国和地区的与网站可访问性相关的政府法律和政策。其中，很多都参考了 W3C 可访问性标准。
 
