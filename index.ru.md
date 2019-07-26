@@ -8,9 +8,10 @@ lang: ru   # Change "en" to the translated language shortcode from https://www.i
 
 last_updated: 2019-07-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
-- name: "ИИТО ЮНЕСКО"   # Replace @@ with translator name
+- name: "Elena Varkvasova"
 - name: "UNESCO IITE"
   link: https://iite.unesco.org/
+- name: "ИИТО ЮНЕСКО"
 ref: /standards-guidelines/   # Do not change this
 layout: default
 github:
