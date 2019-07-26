@@ -47,7 +47,7 @@ Esta página presenta pautas y otros estándares relacionados con la accesibilid
 {::options toc_levels="2,3" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Índice de contenidos" class="full" %}
+{% include_cached toc.html type="start" title="Contenidos de la página" class="full" %}
 {:/}
 
 -   TOC is created automatically.
