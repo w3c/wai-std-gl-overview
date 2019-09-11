@@ -142,10 +142,7 @@ Additional resources related to evaluation are listed in the [[Evaluating Web Ac
 
 ### Pronunciation
 
-[[Pronunciation Overview]](/pronunciation/) &mdash; @@
-
-on ways for screen readers to accurately pronounce content.
-@@so that text to speech (TTS) synthesis can provide proper pronunciation of HTML content.
+[[Pronunciation Overview]](/pronunciation/) &mdash; Pronunciation is about screen readers and other text-to-speech (TTS) synthesis pronouncing content properly.
 
 ## Other Areas of W3C WAI work
 
