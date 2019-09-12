@@ -140,6 +140,10 @@ Additional resources related to evaluation are listed in the [[Evaluating Web Ac
 
 [[Personalization Overview]](/personalization/) &mdash; Personalization involves tailoring the user experience to meet the needs and preferences of the individual user. Content authors can use personalization standards to provide a default design and enable user personalization with minimal work.
 
+### Pronunciation
+
+[[Pronunciation Overview]](/pronunciation/) &mdash; Pronunciation is about screen readers and other text-to-speech (TTS) synthesis pronouncing content properly.
+
 ## Other Areas of W3C WAI work
 
 - [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/)
