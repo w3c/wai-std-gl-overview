@@ -58,11 +58,11 @@ Tato stránka představuje pokyny a další standardy týkající se přístupno
 
 ## Úvod {#intro}
 
-Konsorcium pro World Wide Web (W3C) vyvíjí mezinárodní webové standardy: <abbr title="Hypertext Markup Language - textový značkovací jazyk">HTML</abbr>, <abbr title="Kaskádové styly">CSS</abbr> a mnoho dalších. Webové standardy W3C se nazývají <dfn>W3C doporučení</dfn>.
+Konsorcium pro World Wide Web (W3C) vyvíjí mezinárodní webové standardy: <abbr title="Hypertext Markup Language - textový značkovací jazyk">HTML</abbr>, <abbr title="Kaskádové styly">CSS</abbr> a mnoho dalších. Webové standardy W3C se nazývají <dfn>W3C Doporučení</dfn>.
 
 Všechny standardy W3C jsou kontrolovány z hlediska podpory přístupnosti pracovní skupinou Accessible Platform Architectures ([APA](/about/groups/apawg/)).
 
-Následující standardy W3C a poznámky pracovní skupiny jsou zvláště důležité pro přístupnost.
+Následující standardy W3C a poznámky pracovní skupiny jsou pro přístupnost zvláště důležité.
 
 ## Pokyny pro přístupnost {#guidelines}
 
@@ -77,7 +77,7 @@ Webový „obsah“ obvykle označuje informace na webové stránce nebo v aplik
 
 WCAG se vztahuje na dynamický obsah, multimédia, „mobilní aplikace“ atd. WCAG lze také aplikovat na jiné než webové informační a komunikační technologie (ICT), jak je popsáno v [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
 
-WCAG informace:
+Informace o WCAG:
 - [Přehled WCAG](/standards-guidelines/wcag/)
 - [[Stručný přehled WCAG 2.1]](/standards-guidelines/wcag/glance/)
 - [Jak splnit WCAG (Rychlý průvodce)](https://www.w3.org/WAI/WCAG21/quickref/)
@@ -86,11 +86,11 @@ WCAG informace:
 
 ### Pokyny pro zpřístupnění vývojových nástrojů (ATAG) {#atag}
 
-Vývojové nástroje jsou software a služby, které „autoři“ (vývojáři, designéři, spisovatelé, atd.) používají k tvorbě obsahu webu. Například: editory HTML, systémy pro správu obsahu (CMS) a webové stránky, které umožňují uživatelům přidávat obsah, jako třeba blogy a sociální sítě. Dokumenty ATAG vysvětlují, jak:
+Vývojové nástroje jsou software a služby, které „autoři“ (vývojáři, designéři, spisovatelé, atd.) používají k tvorbě obsahu webu. Například editory HTML, systémy pro správu obsahu (CMS) a webové stránky, které umožňují uživatelům přidávat obsah, jako třeba blogy a sociální sítě. Dokumenty ATAG vysvětlují, jak:
 * tvořit samotné vývojové nástroje přístupné tak, aby lidé se zdravotním postižením mohli vytvářet webový obsah a
 * pomoci autorům vytvářet lépe přístupný webový obsah.
 
-ATAG informace:
+Informace o ATAG:
 - [Přehled ATAG](/standards-guidelines/atag/)
 - [[Stručný přehled ATAG]](/standards-guidelines/atag/glance/)
 - [Norma ATAG 2.0](https://www.w3.org/TR/ATAG/)
@@ -99,9 +99,9 @@ ATAG informace:
 
 Uživatelský agent je označení pro prohlížeč, rozšíření prohlížeče, přehrávač médií, čtečku a další aplikace, které poskytují obsah webu.
 
-UAAG informace:
+Informace o UAAG:
 - [Přehled UAAG](/standards-guidelines/uaag/)
-- [UAAG 2.0 Note](https://www.w3.org/TR/UAAG20/) <!-- unclear about the meaning of "Note" here -->
+- [Záznam UAAG 2.0](https://www.w3.org/TR/UAAG20/)
 
 ## Technické specifikace
 
@@ -111,7 +111,7 @@ ARIA poskytuje sémantiku, díky které mohou autoři tlumočit chování uživa
 
 Soubor ARIA zahrnuje specifikace mapování <abbr title="rozhraní pro programování aplikací">API</abbr>, které poskytují pokyny uživatelských agentů pro implementaci. Zahrnuje také moduly pro grafiku a digitální publikování.
 
-ARIA informace:
+Informace o ARIA:
 - [Přehled WAI-ARIA](/standards-guidelines/aria/) – zahrnuje [seznam a popis modulů a mapování API](/standards-guidelines/aria/#versions)
 - [Autorské postupy WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/)
 - [Norma WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/)
@@ -132,11 +132,11 @@ Následující zdroje podporují vývoj metod a nástrojů pro hodnocení přís
 
 Další zdroje související s hodnocením jsou v [[Přehledu hodnocení webové přístupnosti]](/test-evaluate/) včetně:
 
-- [[Přehledu WCAG-EM: Metodika hodnocení shody přístupnosti webových stránek]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM je postup pro určování, jak webová stránka odpovídá Pokynům pro zpřístupnění obsahu webu (WCAG).
+- [[Přehledu WCAG-EM: Metodiky hodnocení shody přístupnosti webových stránek]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM je postup pro určování, jak webová stránka odpovídá Pokynům pro zpřístupnění obsahu webu (WCAG).
 
 ### Personalizace
 
-[[Přehled personalizace]](/personalization/) &mdash; Personalizace zahrnuje přizpůsobení uživatelského prožitku tak, aby splňoval potřeby a preference jednotlivých uživatelů. Autoři obsahu mohou použít standardy pro personalizaci, aby poskytli základní návrh a umožnili uživatelskou personalizaci s minimem námahy.
+[[Přehled personalizace]](/personalization/) &mdash; Personalizace zahrnuje přizpůsobení uživatelského prožitku tak, aby splňoval potřeby a preference jednotlivých uživatelů. Autoři obsahu mohou použít standardy pro personalizaci, aby poskytli základní design a umožnili uživatelskou personalizaci s minimem námahy.
 
 ### Výslovnost
 
@@ -144,13 +144,13 @@ Další zdroje související s hodnocením jsou v [[Přehledu hodnocení webové
 
 ## Další oblasti práce W3C WAI
 
-- [[Mobilní přístupnost v W3C]](/standards-guidelines/mobile/)
+- [[Mobilní přístupnost ve W3C]](/standards-guidelines/mobile/)
 
-- [[Kognitivní přístupnost v W3C]](/cognitive/)
+- [[Kognitivní přístupnost ve W3C]](/cognitive/)
 
 ## Další informace {#moreinfo}
 
-- [Seznam všech standardů W3C týkajících se přístupnosti ("W3C doporučení") a poznámek pracovní skupiny](https://www.w3.org/TR/?tag=accessibility)
+- [Seznam všech standardů W3C týkajících se přístupnosti („W3C Doporučení“) a poznámek pracovní skupiny](https://www.w3.org/TR/?tag=accessibility)
 
 - [[Zákony a zásady webové přístupnosti]](/policies/) uvádí vládní zákony a zásady, které se vztahují k webové přístupnosti v různých zemích a regionech světa. Mnoho z nich jsou reference na standardy W3C.
 
