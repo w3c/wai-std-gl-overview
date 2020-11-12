@@ -18,7 +18,7 @@ layout: default
 github:
   repository: w3c/wai-std-gl-overview
   path: index.cs.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
-permalink: /standards-guidelines/cs   # Add the language shortcode to the end; for example /standards-guidelines/fr
+permalink: /standards-guidelines/cs/   # Add the language shortcode to the end and trailing slash (/); for example /fundamentals/accessibility-intro/fr/
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
