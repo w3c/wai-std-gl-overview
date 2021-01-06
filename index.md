@@ -6,7 +6,7 @@ nav_title: "Standards/Guidelines" # A short title that is used in the navigation
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2019-03-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-01-06   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: 
 # - name: "@@"   # Replace @@ with translator name
 #  link: @@
@@ -24,7 +24,7 @@ permalink: /standards-guidelines/   # Add the language shortcode to the end; for
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date:</strong> Updated 13 March 2019.</p>
+  <p><strong>Date:</strong> Updated 6 January 2021.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -43,7 +43,6 @@ This page introduces guidelines and other standards related to web accessibility
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-
 
 {::options toc_levels="2,3" /}
 
@@ -70,7 +69,7 @@ The W3C standards and Working Group Notes introduced below are particularly rele
 
 [[Essential Components of Web Accessibility]](/fundamentals/components/) shows how web accessibility depends on several components of web development and interaction working together, and how the WAI guidelines (WCAG, ATAG, UAAG) apply.
 
-### Web Content Accessibility Guidelines (WCAG) {#wcag}
+### Web Content Accessibility Guidelines (WCAG) 2 {#wcag2}
 
 Web "content" generally refers to the information in a web page or web application, including:
 
@@ -79,12 +78,14 @@ Web "content" generally refers to the information in a web page or web applicati
 
 WCAG applies to dynamic content, multimedia, "mobile", etc. WCAG can also be applied to non-web information and communications technologies (ICT), as described in [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
 
-WCAG info:
+WCAG 2 info:
 - [WCAG Overview](/standards-guidelines/wcag/)
 - [[WCAG 2.1 at a Glance]](/standards-guidelines/wcag/glance/)
 - [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/)
 - [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)
-- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/)
+- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
+- [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/)
 
 ### Authoring Tool Accessibility Guidelines (ATAG) {#atag}
 
@@ -104,6 +105,13 @@ User agents include browsers, browser extensions, media players, readers, and ot
 UAAG info:
 - [UAAG Overview](/standards-guidelines/uaag/)
 - [UAAG 2.0 Note](https://www.w3.org/TR/UAAG20/)
+
+### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}
+
+WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web.
+
+WCAG 3 info:
+- [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)
 
 ## Technical Specifications
 
