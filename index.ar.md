@@ -1,19 +1,18 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
-title: W3C Accessibility Standards Overview  # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Standards/Guidelines" # A short title that is used in the navigation
+title: نبذة عن معيار الاتحاد العالمي للويب لإمكانية الوصول  # Do not translate "title:". Do translate the text after "title:".
+nav_title: "معايير/إرشادات" # A short title that is used in the navigation
 
 lang: ar   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
 last_updated: 2020-10-26   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
-- name: "@@"   # Replace @@ with translator name
-#  link: @@
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
+- name: " الاتحاد السعودي للأمن السيبراني والبرمجة والدرونز "   # Replace @@ with translator name
+# - name: "محمد سليم"   # Replace @@ with name, or delete this line if not multiple translators
 # contributors:
-# - name: "@@"   # Replace @@ with contributor name, or delete this line if none
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple contributors
+# - name: "محمد الموسوي"   # Replace @@ with contributor name, or delete this line if none
+# - name: "مريم نصيب"   # Replace @@ with name, or delete this line if not multiple contributors
 
 ref: /standards-guidelines/   # Do not change this
 layout: default
@@ -24,9 +23,9 @@ permalink: /standards-guidelines/ar   # Add the language shortcode to the end; f
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date:</strong> Updated 13 March 2019.</p>
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>التاريخ:</strong> تم التحديث في 13 مارس 2019.</p>
+  <p><strong>محرر:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p> تم تطويره بمساهمة فريق التعليم و التوعية (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 # Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
 # Read Translations Notes for this resource at https://github.com/w3c/wai-std-gl-overview/blob/master/README.md
@@ -35,10 +34,10 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="الملخص" class="full" %}
 {:/}
 
-This page introduces guidelines and other standards related to web accessibility.
+هذي الصفحة تقدم إرشادات و معايير أخرى متعلقة بإمكانية الوصول للويب.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -48,7 +47,7 @@ This page introduces guidelines and other standards related to web accessibility
 {::options toc_levels="2,3" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{% include_cached toc.html type="start" title="محتوى الصفحة" class="full" %}
 {:/}
 
 -   TOC is created automatically.
@@ -68,26 +67,26 @@ This page introduces guidelines and other standards related to web accessibility
 
 ## ارشادات الوصول {#guidelines}
 
-[[المكونات الأساسية للوصول للويب]]( /fundamentals/components/) توضح مدى اعتماد الوصول على تفاعل المكونات المختلفة لتطوير الويب مع بعضها، و توضح كيف يمكن تطبيق ارشادات WAI (WCAG, ATAG, UAAG).
+[[المكونات الأساسية للوصول للويب]]( /fundamentals/components/) توضح مدى اعتماد مستوى الوصول على تفاعل المكونات المختلفة لتطوير الويب مع بعضها، و توضح كيف يمكن تطبيق ارشادات WAI (WCAG, ATAG, UAAG).
 
 ### دليل الوصول لمحتوى الويب  (WCAG) {#wcag}
 
-بشكل عام، فإن المصطلح "محتوى الويب" يشير إلى المعلومات في صفحة ويب أو تطبيق ويب، وذلك يشمل:
+بشكل عام، فإن المصطلح "محتوى الويب" يشير إلى معلومات في صفحة ويب أو تطبيق ويب، وذلك يشمل:
 * المعلومات الاساسية مثل النصوص، الصور، والأصوات
-* الكود والعلامات المسؤولة عن بناء وتمثيل المعلومات الاساسية.
+* الكود البرمجي والعلامات المسؤولة عن بناء وتمثيل المعلومات الاساسية.
 
-يمكن تطبيق WCAG على المحتويات التفاعلية، ومتعددة الوسائط، وعلى "الهواتف المحمولة"، إلخ. يمكن لWCAG أيضاً أن يتم تطبيقها على تكنولوجيا المعلومات والاتصالات information and communications technologies (ICT) في غير الويب، وفقاً لما هو مفصل في [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
+بالإمكان تطبيق معايير  WCAG على المحتويات التفاعلية، ومتعددة الوسائط، وعلى "الهواتف المحمولة"، إلخ. بالإمكان أيضاً تطبيق معايير WCAG على تكنولوجيا المعلومات والاتصالات information and communications technologies (ICT) في غير الويب، وفقاً لما هو مفصل في [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
 
 معلومات عن WCAG:
 - [نبذة عن WCAG](/standards-guidelines/wcag/)
 - [[ملخص WCAG 2.1]](/standards-guidelines/wcag/glance/)
-- [كيفية العمل بWCAG 2  (المرجع السريع)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [كيفية العمل بـ WCAG 2  (المرجع السريع)](https://www.w3.org/WAI/WCAG21/quickref/)
 - [معيار 2.0 WCAG](https://www.w3.org/TR/WCAG20/)
 - [معيار2.1  WCAG](https://www.w3.org/TR/WCAG21/)
 
 ### ارشادات الوصول لأدوات التطوير   (ATAG) {#atag}
 
-أدوات التطوير هي خدمات برمجية يستخدمها "المنشؤون" (مطورو الويب، المصممون، المؤلفون... إلخ) لإنتاج محتوى الويب. بعض الأمثلة لأدوات التطوير: محرر HTML (HTML editors)، أنظمة إدارة المحتوى content management systems (CMS)، والمواقع التي تتيح لمستخدميها إضافة المحتوى، مثل المدونات ومواقع شبكات التواصل الاجتماعي. وثيقة ATAG تشرح كيفية:
+أدوات التطوير هي خدمات برمجية يستخدمها "المنشؤون" (مطوروا الويب، المصممون، المؤلفون... إلخ) لإنتاج محتوى الويب. بعض الأمثلة لأدوات التطوير: محرر HTML (HTML editors)، أنظمة إدارة المحتوى content management systems (CMS)، والمواقع التي تتيح لمستخدميها إضافة المحتوى، مثل المدونات ومواقع شبكات التواصل الاجتماعي. وثيقة ATAG تشرح كيفية:
 * جعل أدوات التطوير متاحة، بحيث يتمكن أصحاب الاحتياجات الخاصة من استخدامها لإنشاء محتوى الويب، و
 * مساعدة المنشئين في إنشاء محتوى ويب أسهل في الوصول.
 
@@ -96,14 +95,12 @@ This page introduces guidelines and other standards related to web accessibility
 - [[ملخص ATAG]](/standards-guidelines/atag/glance/)
 - [معيار ATAG 2.0](https://www.w3.org/TR/ATAG/)
 
-### User Agent Accessibility Guidelines (UAAG) {#uaag}
+### دليل الوصول لمساعدات المستخدم (UAAG) {#uaag}
 
-User agents include browsers, browser extensions, media players, readers, and other applications that render web content.
-
-UAAG info:
-- [UAAG Overview](/standards-guidelines/uaag/)
-- [UAAG 2.0 Note](https://www.w3.org/TR/UAAG20/)
-
+تشمل مساعدات المستخدم المستعرضات وامتداداتها، مشغلات الوسائط، القارئات، والتطبيقات الأخرى التي تعرض / تستدعي محتوى الويب
+معلومات عن UAAG:
+-	[نبذة عن UAAG](/standards-guidelines/uaag/)
+-	[ملاحظات عن UAAG 2.0](https://www.w3.org/TR/UAAG20/)
 ## مواصفات تقنية
 
 ### تطبيقات انترنت غنية متاحة  (WAI-ARIA) {#aria}
@@ -133,7 +130,7 @@ UAAG info:
 
 تضم قائمة [[نبذة عن تقييم الوصول للويب]]( /test-evaluate/) مصادر إضافية متعلقة بالتقييم، منها:
 
-- [[نبذة عن WCAG-EM:]]( /test-evaluate/conformance/wcag-em/)&mdash;  منهجية مطابقة الوصول للويب – WCAG-EM هي طريقة لتحديد مدى مطابقة موقع ما لدليل الوصول لمحتوى الويب WCAG
+- [[نبذة عن WCAG-EM:]]( /test-evaluate/conformance/wcag-em/)&mdash;  منهجية مطابقة الوصول للويب – WCAG-EM هي طريقة لتحديد مدى مطابقة موقع ما (ويب) لدليل الوصول لمحتوى الويب WCAG
 
 ### التخصيص
 
@@ -155,10 +152,10 @@ UAAG info:
 
 - [[قوانين وسياسات الوصول للويب]](/policies/) تجمع السياسات الحكومية في الدول والأقاليم حول العالم. يتطابق العديد منها مع معايير W3C للوصول.
 
-- [[لماذا التنسيق بين المعايير مهمة للوصول للويب]](/standards-guidelines/harmonization/)
+- [[لماذا يتم التنسيق بين المعايير المهمة للوصول للويب]](/standards-guidelines/harmonization/)
 
 - [[الرجوع إلى دليل WAI والوثائق التقنية]](/standards-guidelines/linking/)
 
 - [كيف تطور WAI دليل الوصول عن طريق أحد عمليات W3C : الجدول الزمني و **فرص المساهمة**](/standards-guidelines/w3c-process/)
 
-![illustration showing the guidelines for the different components, detailed description at https://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
+![ توضيح يبين المبادئ التوجيهية للمكونات المختلفة ، ووصف مفصل في https://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
