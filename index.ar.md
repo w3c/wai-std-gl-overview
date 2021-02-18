@@ -9,10 +9,10 @@ lang: ar   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2020-10-26   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: " الاتحاد السعودي للأمن السيبراني والبرمجة والدرونز "   # Replace @@ with translator name
-# - name: "محمد سليم"   # Replace @@ with name, or delete this line if not multiple translators
-# contributors:
-# - name: "محمد الموسوي"   # Replace @@ with contributor name, or delete this line if none
-# - name: "مريم نصيب"   # Replace @@ with name, or delete this line if not multiple contributors
+- name: "محمد سليم"   # Replace @@ with name, or delete this line if not multiple translators
+contributors:
+- name: "محمد الموسوي"   # Replace @@ with contributor name, or delete this line if none
+- name: "مريم نصيب"   # Replace @@ with name, or delete this line if not multiple contributors
 
 ref: /standards-guidelines/   # Do not change this
 layout: default
