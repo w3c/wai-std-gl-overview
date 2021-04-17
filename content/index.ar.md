@@ -18,7 +18,7 @@ ref: /standards-guidelines/   # Do not change this
 layout: default
 github:
   repository: w3c/wai-std-gl-overview
-  path: index.ar.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  path: content/index.ar.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 permalink: /standards-guidelines/ar   # Add the language shortcode to the end; for example /standards-guidelines/fr
 feedbackmail: wai@w3.org
 
