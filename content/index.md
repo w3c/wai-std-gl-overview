@@ -16,6 +16,7 @@ last_updated: 2021-01-06   # Put the date of this translation YYYY-MM-DD (with m
 # - name: "@@"   # Replace @@ with name, or delete this line if not multiple contributors
 
 ref: /standards-guidelines/   # Do not change this
+changelog: /standards-guidelines/changelog/
 layout: default
 github:
   repository: w3c/wai-std-gl-overview
@@ -23,8 +24,13 @@ github:
 permalink: /standards-guidelines/   # Add the language shortcode to the end; for example /standards-guidelines/fr
 feedbackmail: wai@w3.org
 
-footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date:</strong> Updated 6 January 2021.</p>
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
+footer: >
+  <p><strong>Date:</strong> Updated 6 January 2021. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
