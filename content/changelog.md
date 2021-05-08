@@ -29,19 +29,6 @@ footer: >
 {:/}
 
 
-## 17 Jul 2019
-
-* In [Additional Information](/standards-guidelines/#moreinfo), List of all W3C accessibility-related Standards (“W3C Recommendations”) and Working Group Notes link changed to: 
-```
-(https://www.w3.org/TR/?tag=accessibility)
-```
-
-## 11 Sep 2019
-* In [Pronunciation](/standards-guidelines/#pronunciation), text changed to:
-```
-[[Pronunciation Overview]](/pronunciation/) &mdash; Pronunciation is about screen readers and other text-to-speech (TTS) synthesis pronouncing content properly.
-```
-
 ## 26 Jan 2021
 * Change "Web Content Accessibility Guidelines (WCAG) {#wcag}" to:
 ```
@@ -71,4 +58,16 @@ WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 appli
 
 WCAG 3 info:
 - [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)
+```
+
+## 11 Sep 2019
+* In [Pronunciation](/standards-guidelines/#pronunciation), text changed to:
+```
+[[Pronunciation Overview]](/pronunciation/) &mdash; Pronunciation is about screen readers and other text-to-speech (TTS) synthesis pronouncing content properly.
+```
+
+## 17 Jul 2019
+* In [Additional Information](/standards-guidelines/#moreinfo), List of all W3C accessibility-related Standards (“W3C Recommendations”) and Working Group Notes link changed to: 
+```
+(https://www.w3.org/TR/?tag=accessibility)
 ```
