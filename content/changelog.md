@@ -29,35 +29,35 @@ footer: >
 {:/}
 
 
-## 26 Jan 2021
+## 6 Jan 2021
 * Change "Web Content Accessibility Guidelines (WCAG) {#wcag}" to:
 ```
 Web Content Accessibility Guidelines (WCAG) 2 {#wcag2}
 ```
-* Change "WCAG info:" to
+* Change "WCAG info" to
 ```
-WCAG 2 info:
+WCAG 2 info
 ```
-* Add
+* Under "How to Meet WCAG 2 (Quick Reference)", add
 ```
 [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/)
 ```
 * Change "[WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/)" to:
 ```
-- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
-```
-* Add
-```
-- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
+[WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
+
+and
+
+[[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/)
 ```
 * Under Authoring Tool Accessibility Guidelines (ATAG) {#atag} section, add:
 ```
-### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}
+W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}
 
 WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web.
 
 WCAG 3 info:
-- [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)
+[[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)
 ```
 
 ## 11 Sep 2019
