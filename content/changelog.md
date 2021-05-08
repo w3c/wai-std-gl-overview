@@ -67,7 +67,7 @@ WCAG 3 info:
 ```
 
 ## 17 Jul 2019
-* In [Additional Information](/standards-guidelines/#moreinfo), link after [List of all W3C accessibility-related Standards ("W3C Recommendations") and Working Group Notes] was changed from (https://www.w3.org/TR/#tr_Accessibility__All_) to: 
+* In [Additional Information](/standards-guidelines/#moreinfo), link after [List of all W3C accessibility-related Standards ("W3C Recommendations") and Working Group Notes] was changed from https://www.w3.org/TR/#tr_Accessibility__All_ to: 
 ```
-Working Group Notes](https://www.w3.org/TR/?tag=accessibility)
+https://www.w3.org/TR/?tag=accessibility
 ```
