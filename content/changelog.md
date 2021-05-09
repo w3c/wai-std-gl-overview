@@ -64,6 +64,22 @@ WCAG 2 info:
         - [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)
 ```
 
+@@ test 1:
+```
+        ### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}
+        WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web.
+        WCAG 3 info:
+```
+
+@@ test 2:
+        ```
+### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}
+WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web.
+WCAG 3 info:
+- [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)
+        ```
+
+
 ## 11 Sep 2019
 * Before “## Other Areas of W3C WAI work”, add:
 ```
@@ -72,7 +88,7 @@ WCAG 2 info:
 ```
 
 ## 17 Jul 2019
-* Under “## Additional Information {#moreinfo}”, in first item, change URI link to``` https://www.w3.org/TR/?tag=accessibility```:
+* Under “## Additional Information {#moreinfo}”, in first item, change URI link to ``` https://www.w3.org/TR/?tag=accessibility```:
 ```
         - [List of all W3C accessibility-related Standards ("W3C Recommendations") and Working Group Notes](https://www.w3.org/TR/?tag=accessibility)
 ```
