@@ -4,6 +4,7 @@ title_html: "Changelog for <a href='/WAI/standards-guidelines/'>W3C Accessibilit
 nav_title: "Changelog"
 lang: en
 layout: default
+class: tight-page
 
 permalink: /standards-guidelines/changelog/
 ref: /standards-guidelines/changelog/
@@ -17,6 +18,17 @@ footer: >
 ---
 
 {::nomarkdown}
+{% include box.html type="start" title="About this page" class="" %}
+{:/}
+
+**This changelog is designed so that translators can copy and paste from this rendered changelog page.** Or, translators can use the [W3C Accessibility Standards Overview page source](https://raw.githubusercontent.com/w3c/wai-std-gl-overview/master/content/index.md).
+
+Particularly significant or substantive changes are summarized after “Significant:”.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+{::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
 {:/}
 
@@ -28,8 +40,6 @@ footer: >
 {% include toc.html type="end" %}
 {:/}
 
-_This changelog is designed so that translators can copy and paste from this rendered changelog page. (Or, translators can use the [W3C Accessibility Standards Overview page source](https://raw.githubusercontent.com/w3c/wai-std-gl-overview/master/content/index.md).)_
-
 ## May 2021
 * In the frontmatter at the top, add `changelog: /videos/standards-and-benefits/changelog/` between ref and layout:<br>
 `ref: /videos/standards-and-benefits/   # Do not change this`<br>
@@ -38,15 +48,18 @@ _This changelog is designed so that translators can copy and paste from this ren
 * In the frontmatter, under the footer text, add `CHANGELOG.` after the date. _Leave it in all capital letters and do not translate it._<br>
 `<p><strong>Date:</strong> Updated 6 January 2021. CHANGELOG.</p>`
 
-## 6 Jan 2021
-* Add “2” &mdash; Change "### Web Content Accessibility Guidelines (WCAG) {#wcag}" to:<br>
-`### Web Content Accessibility Guidelines (WCAG) 2 {#wcag2}`
+## 6 Jan 2021 Significant
+**Significant: Links to [[What's New in WCAG 2.2 Working Draft]]
+(/standards-guidelines/wcag/new-in-22/) and [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/).**
 
-* Add “2” &mdash; Change "WCAG info:" to:<br>
-`WCAG 2 info:`
+* Add “2” with WCAG:
+  * Change "### Web Content Accessibility Guidelines (WCAG) {#wcag}" to:<br>
+  `### Web Content Accessibility Guidelines (WCAG) 2 {#wcag2}`
+  * Add “2” &mdash; Change "WCAG info:" to:<br>
+  `WCAG 2 info:`
 
 * Around `- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)`add one line of links before and two lines after:<br>
-`- [`[WCAG 2 Translations]`](/standards-guidelines/wcag/translations/)`<br>
+`- [``[WCAG 2 Translations]``](/standards-guidelines/wcag/translations/)`<br>
 `- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)`<br>
 `- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)`<br>
 `- [``[What's New in WCAG 2.2 Working Draft]``](/standards-guidelines/wcag/new-in-22/)`
@@ -57,7 +70,9 @@ _This changelog is designed so that translators can copy and paste from this ren
 `WCAG 3 info:`<br>
 `* [``[WCAG 3 Introduction]``](/standards-guidelines/wcag/wcag3-intro/)`
 
-## 11 Sep 2019
+## 11 Sep 2019 Significant
+**Significant: Links to [[Pronunciation Overview]](/pronunciation/).**
+
 * Before “## Other Areas of W3C WAI work”, add:<br>
 `### Pronunciation`<br>
 `[``[Pronunciation Overview]``](/pronunciation/) &mdash; Pronunciation is about screen readers and other text-to-speech (TTS) synthesis pronouncing content properly.`
