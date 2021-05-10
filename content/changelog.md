@@ -14,16 +14,16 @@ github:
 
 feedbackmail: wai@w3.org
 footer: >
- <p>Thanks to Tolu Adegbite for contributing to this changelog.</p>
+ <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: Tolu Adegbite.</p>
 ---
 
 {::nomarkdown}
-{% include box.html type="start" title="About this Changelog" class="" %}
+{% include box.html type="start" title="About" class="" %}
 {:/}
 
-This changelog is designed so that translators can copy and paste from this rendered changelog page. Or, translators can use the [W3C Accessibility Standards Overview page source](https://raw.githubusercontent.com/w3c/wai-std-gl-overview/master/content/index.md).
+This page is designed so translators can copy and paste from this rendered changelog page. Or, translators can use the [W3C Accessibility Standards Overview page source](https://raw.githubusercontent.com/w3c/wai-std-gl-overview/master/content/index.md).
 
-For others, particularly **significant or substantive changes are summarized after “Significant:”**.
+For others, **particularly significant or substantive changes are summarized after “Significant:”**.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -40,18 +40,16 @@ For others, particularly **significant or substantive changes are summarized aft
 {% include toc.html type="end" %}
 {:/}
 
-## April 2021
+## May 2021
 * In the frontmatter at the top, add `changelog: /videos/standards-and-benefits/changelog/` between ref and layout:<br>
 `ref: /videos/standards-and-benefits/   # Do not change this`<br>
 `changelog: /videos/standards-and-benefits/changelog/`<br>
 `layout: default`<br>
-* In the frontmatter, under `footer: >`:
-  * Update the date.
-  * Add `CHANGELOG.` after the date. _Leave it in all capital letters and do not translate it._<br>
-`<p><strong>Date:</strong> Updated 30 April 2021. CHANGELOG.</p>`
+* In the frontmatter, under the footer text, add `CHANGELOG.` after the date. _Leave it in all capital letters and do not translate it._<br>
+`<p><strong>Date:</strong> Updated 6 January 2021. CHANGELOG.</p>`
 
 ## 6 Jan 2021 Significant
-**Significant: Links to [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/) and [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/).**
+**Significant: Added links to [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/) and [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/).**
 
 * Add “2” with WCAG:
   * Change "### Web Content Accessibility Guidelines (WCAG) {#wcag}" to:<br>
@@ -72,7 +70,7 @@ For others, particularly **significant or substantive changes are summarized aft
 `* [``[WCAG 3 Introduction]``](/standards-guidelines/wcag/wcag3-intro/)`
 
 ## 11 Sep 2019 Significant
-**Significant: Links to [[Pronunciation Overview]](/pronunciation/).**
+**Significant: Added links to [[Pronunciation Overview]](/pronunciation/).**
 
 * Before “## Other Areas of W3C WAI work”, add:<br>
 `### Pronunciation`<br>
