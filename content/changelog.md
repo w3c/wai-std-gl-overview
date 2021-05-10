@@ -40,13 +40,15 @@ For others, **particularly significant or substantive changes are summarized aft
 {% include toc.html type="end" %}
 {:/}
 
-## May 2021
+## April 2021
 * In the frontmatter at the top, add `changelog: /videos/standards-and-benefits/changelog/` between ref and layout:<br>
 `ref: /videos/standards-and-benefits/   # Do not change this`<br>
 `changelog: /videos/standards-and-benefits/changelog/`<br>
 `layout: default`<br>
-* In the frontmatter, under the footer text, add `CHANGELOG.` after the date. _Leave it in all capital letters and do not translate it._<br>
-`<p><strong>Date:</strong> Updated 6 January 2021. CHANGELOG.</p>`
+* In the frontmatter, under `footer: >`:
+  * Update the date.
+  * Add `CHANGELOG.` after the date. _Leave it in all capital letters and do not translate it._<br>
+`<p><strong>Date:</strong> Updated 30 April 2021. CHANGELOG.</p>`
 
 ## 6 Jan 2021 Significant
 **Significant: Added links to [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/) and [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/).**
