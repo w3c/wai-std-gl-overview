@@ -43,7 +43,7 @@ For others, **particularly significant or substantive changes are summarized aft
 ## April 2021
 * In the frontmatter at the top, add `changelog: /videos/standards-and-benefits/changelog/` between ref and layout:<br>
 `ref: /videos/standards-and-benefits/   # Do not change this`<br>
-`changelog: /videos/standards-and-benefits/changelog/`<br>
+`changelog: /standards-guidelines/changelog/`<br>
 `layout: default`<br>
 * In the frontmatter, under `footer: >`:
   * Update the date.
