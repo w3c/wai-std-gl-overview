@@ -6,7 +6,7 @@ nav_title: "Standardy/Pokyny" # A short title that is used in the navigation
 
 lang: cs   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2020-09-05   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-11  # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Kristýna Švecová"   # Replace @@ with translator name
 #  link: @@
@@ -85,7 +85,7 @@ Informace o WCAG 2:
 - [[WCAG 2 Překlady]](/standards-guidelines/wcag/translations/)
 - [Norma WCAG 2.0](https://www.w3.org/TR/WCAG20/)
 - [Norma WCAG 2.1](https://www.w3.org/TR/WCAG21/)
-[Co je nového v WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
+- [Co je nového v WCAG 2.1](/standards-guidelines/wcag/new-in-21/)
 - [[Co je nového v WCAG 2.2, pracovní verze]](/standards-guidelines/wcag/new-in-22/)
 
 ### Pokyny pro zpřístupnění vývojových nástrojů (ATAG) {#atag}
