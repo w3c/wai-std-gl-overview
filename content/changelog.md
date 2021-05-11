@@ -74,7 +74,8 @@ _Translators:_
 `### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}`<br>
 `WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web.`<br><br>
 `WCAG 3 info:`<br>
-`* [``[WCAG 3 Introduction]``](/standards-guidelines/wcag/wcag3-intro/)`
+`* [``[WCAG 3 Introduction]``](/standards-guidelines/wcag/wcag3-intro/)`<br><br>
+**Note** that WCAG 3 = "W3C Accessibility Guidelines" (whereas WCAG 2 = Web Content Accessibility Guidelines). 
 
 ## 11 Sep 2019 Significant
 **Significant: Added links to [[Pronunciation Overview]](/pronunciation/).**
