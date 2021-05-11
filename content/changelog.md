@@ -40,6 +40,8 @@ For others, **particularly significant or substantive changes are summarized aft
 {% include toc.html type="end" %}
 {:/}
 
+_Translators: When you update your translation, update 'last_updated' to the date of this translation update. The other dates after `footer >` should match the English version._
+
 ## April 2021
 * In the frontmatter at the top, add `changelog: /videos/standards-and-benefits/changelog/` between ref and layout:<br>
 `ref: /videos/standards-and-benefits/   # Do not change this`<br>
