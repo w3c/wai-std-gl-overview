@@ -14,6 +14,7 @@ translators:
 # - name: "@@"   # Replace @@ with contributor name, or delete this line if none
 
 ref: /standards-guidelines/   # Do not change this
+changelog: /standards-guidelines/changelog/
 layout: default
 github:
   repository: w3c/wai-std-gl-overview
@@ -22,7 +23,7 @@ permalink: /standards-guidelines/cs   # Add the language shortcode to the end; f
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Datum:</strong> Aktualizováno 13. března 2019.</p>
+  <p><strong>Datum:</strong> Aktualizováno 30. dubna 2021. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Vyvinuto Pracovní skupinou pro vzdělání a osvětu (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -68,7 +69,7 @@ Následující standardy W3C a poznámky pracovní skupiny jsou pro přístupnos
 
 [[Základní komponenty webové přístupnosti]](/fundamentals/components/) ukazují, jak webová přístupnost závisí na spolupráci několika složek vývoje a interakcí webu, a jak se jich týkají WAI pokyny (WCAG, ATAG, UAAG).
 
-### Pokyny pro zpřístupnění obsahu webu (WCAG) {#wcag}
+### Pokyny pro zpřístupnění obsahu webu (WCAG) 2 {#wcag2}
 
 Webový „obsah“ obvykle označuje informace na webové stránce nebo v aplikaci včetně:
 
@@ -77,12 +78,15 @@ Webový „obsah“ obvykle označuje informace na webové stránce nebo v aplik
 
 WCAG se vztahuje na dynamický obsah, multimédia, „mobilní aplikace“ atd. WCAG lze také aplikovat na jiné než webové informační a komunikační technologie (ICT), jak je popsáno v [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
 
-Informace o WCAG:
+Informace o WCAG 2:
 - [Přehled WCAG](/standards-guidelines/wcag/)
 - [[Stručný přehled WCAG 2.1]](/standards-guidelines/wcag/glance/)
 - [Jak splnit WCAG (Rychlý průvodce)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [[WCAG 2 Překlady]](/standards-guidelines/wcag/translations/)
 - [Norma WCAG 2.0](https://www.w3.org/TR/WCAG20/)
 - [Norma WCAG 2.1](https://www.w3.org/TR/WCAG21/)
+[Co je nového v WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
+- [[Co je nového v WCAG 2.2, pracovní verze]](/standards-guidelines/wcag/new-in-22/)
 
 ### Pokyny pro zpřístupnění vývojových nástrojů (ATAG) {#atag}
 
@@ -102,6 +106,13 @@ Uživatelský agent je označení pro prohlížeč, rozšíření prohlížeče,
 Informace o UAAG:
 - [Přehled UAAG](/standards-guidelines/uaag/)
 - [Záznam UAAG 2.0](https://www.w3.org/TR/UAAG20/)
+
+### Standardy přístupnosti W3C (WCAG) 3, pracovní verze {#wcag3}
+
+WCAG 3 je pracovní verze, která by se měla stát Standardem W3C. WCAG 3 se vztahuje na webový obsah, aplikace, nástroje, publikování a nové technologie na webu.
+
+Informace o WCAG 3:
+- [[Představení WCAG 3]](/standards-guidelines/wcag/wcag3-intro/)
 
 ## Technické specifikace
 
