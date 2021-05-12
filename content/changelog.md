@@ -61,7 +61,7 @@ _Translators:_
 * Add “2” with WCAG:
   * Change "### Web Content Accessibility Guidelines (WCAG) {#wcag}" to:<br>
   `### Web Content Accessibility Guidelines (WCAG) 2 {#wcag2}`
-  * Add “2” &mdash; Change "WCAG info:" to:<br>
+  * Change "WCAG info:" to:<br>
   `WCAG 2 info:`
 
 * Around `- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)`add one line of links before and two lines after:<br>
