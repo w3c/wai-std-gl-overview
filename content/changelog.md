@@ -64,11 +64,11 @@ _Translators:_
   * Change "WCAG info:" to:<br>
   `WCAG 2 info:`
 
-* Around `- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)`add one line of links before and two lines after:<br>
-`- [``[WCAG 2 Translations]``](/standards-guidelines/wcag/translations/)`<br>
-`- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)`<br>
-`- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)`<br>
-`- [``[What's New in WCAG 2.2 Working Draft]``](/standards-guidelines/wcag/new-in-22/)`
+* Add links under WCAG info:
+  * Before `- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)`add:<br>`- [``[WCAG 2 Translations]``](/standards-guidelines/wcag/translations/)`
+  * On the same line with `- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/)` add:<br>`, [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)`
+  * Add a new line at the end<br>`- [``[What's New in WCAG 2.2 Working Draft]``](/standards-guidelines/wcag/new-in-22/)`
+  * Check this matches the [published version of the list](https://www.w3.org/WAI/standards-guidelines/#wcag2)
 
 * Before “## Technical Specifications”, add:<br>
 `### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}`<br>
