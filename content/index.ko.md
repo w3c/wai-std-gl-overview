@@ -14,6 +14,7 @@ contributors:
 - name: "Jun Ho Lee"
 
 ref: /standards-guidelines/   # Do not change this
+changelog: /standards-guidelines/changelog/
 layout: default
 github:
   repository: w3c/wai-std-gl-overview
@@ -22,7 +23,7 @@ permalink: /standards-guidelines/ko   # Add the language shortcode to the end; f
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>날짜:</strong> 2019년 3월 13일 업데이트됨.</p>
+  <p><strong>날짜:</strong> 2021년 4월 30일 업데이트됨. CHANGELOG.</p>
   <p><strong>편집자:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>교육과 활동관련 실무 그룹인 (<a href="https://www.w3.org/WAI/EO/">EOWG</a>)의 지원을 받아 제작되었습니다.</p>
 
@@ -68,7 +69,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 [[웹 접근성의 필수 요소]](/fundamentals/components/)는 웹 접근성이 웹 개발 및 상호작용 과정에서 여러 요소와 어떻게 작용하는지와 WAI 지침(WCAG, ATAG, UAAG)의 적용 방법에 대해 명시하고 있습니다.
 
-### 웹 콘텐츠 접근성 지침 (WCAG) {#wcag}
+### 웹 콘텐츠 접근성 지침 (WCAG) 2 {#wcag2}
 
 웹 "콘텐츠"는 일반적으로 웹 페이지나 어플리케이션 안의 정보를 가리킵니다. 다음의 내용을 포함합니다 : 
 
@@ -77,12 +78,14 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 WCAG는 다양한 콘텐츠, 멀티미디어, "모바일" 등에 적용됩니다. WCAG는 [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/)에서 명시하듯이 웹이 아닌 정보 통신 기술(ICT)에도 적용됩니다. 
 
-WCAG 정보: 
+WCAG 2 정보: 
 - [WCAG 개요](/standards-guidelines/wcag/)
 - [[WCAG 2.1 한눈에 보기]](/standards-guidelines/wcag/glance/)
 - [WCAG 2 지키는 방법 (빠른 참조)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [[WCAG 2 번역]](/standards-guidelines/wcag/translations/)
 - [WCAG 2.0 표준](https://www.w3.org/TR/WCAG20/)
 - [WCAG 2.1 표준](https://www.w3.org/TR/WCAG21/)
+- [[WCAG 2.2 초안에서 새롭게 등장한 내용]](/standards-guidelines/wcag/new-in-22/)
 
 ### 웹 저작 도구 접근성 지침 (ATAG) {#atag}
 
@@ -102,6 +105,13 @@ ATAG 정보:
 UAAG 정보:
 - [UAAG 개요](/standards-guidelines/uaag/)
 - [UAAG 2.0 Note](https://www.w3.org/TR/UAAG20/)
+
+### 웹 콘텐츠 접근성 지침 (WCAG) 3 초안 {#wcag3}
+
+WCAG 3는 W3C 표준으로 사용되기 위한 작업 초기 단계입니다. WCAG 3는 웹 콘텐츠, 앱, 도구, 출판, 웹상의 신기술에 적용됩니다. 
+
+WCAG 3 정보:
+- [[WCAG 3 소개]](/standards-guidelines/wcag/wcag3-intro/)
 
 ## 기술 명세
 
@@ -138,7 +148,11 @@ ARIA 정보:
 
 [[개인화 개요]](/personalization/) &mdash; 개인화는 각 사용자의 선호와 필요를 충족시키기 위한 사용자 경험을 조정하는 것을 포함합니다. 콘텐츠 저자는 최소한의 공수로 기본 디자인을 제공하고, 사용자 개인화가 가능하도록 하는 데에 개인화 표준을 사용할 수 있습니다. 
 
-## W3C WAI의 다른 영역
+### 발음
+
+[[발음 개요]](/pronunciation/) &mdash; 발음은 스크린 리더와 다른 text-to-speech(TTS) 프로그램이 콘텐츠 발음을 적절하게 음성 합성하는지에 대한 것입니다.
+
+## W3C WAI의 다른 작업 영역
 
 - [[W3C의 모바일 접근성]](/standards-guidelines/mobile/)
 
