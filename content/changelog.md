@@ -66,7 +66,7 @@ For others, **particularly significant or substantive changes are summarized aft
 
 * Add links under WCAG info:
   * Before `- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)`add:<br>`- [``[WCAG 2 Translations]``](/standards-guidelines/wcag/translations/)`
-  * On the same line with `- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/)` add:<br>`, [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)`
+  * On the same line with `- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/)` add:<br>`, [``[What’s New in WCAG 2.1]``](/standards-guidelines/wcag/new-in-21/)`
   * Add a new line at the end:<br>`- [``[What's New in WCAG 2.2 Working Draft]``](/standards-guidelines/wcag/new-in-22/)`
   * Check this matches the [published version of the list](https://www.w3.org/WAI/standards-guidelines/#wcag2). Here's the full code block:<br>
 `- [WCAG Overview](/standards-guidelines/wcag/)`<br>
