@@ -40,7 +40,7 @@ For others, **particularly significant or substantive changes are summarized aft
 {% include toc.html type="end" %}
 {:/}
 
-_Translators:_ 
+**_Translators:_**
 * Change `last_updated` to the date of the translation update.
 * The other dates after `footer >` should match the English version.
 * From the GitHub pull request, after a couple of minutes, you can get a preview of your rendered page by selecting the "Details" link after "netlify/wai-.../deploy-preview — Deploy preview ready!". Then select your language at the top.
@@ -64,11 +64,18 @@ _Translators:_
   * Change "WCAG info:" to:<br>
   `WCAG 2 info:`
 
-* Around `- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)`add one line of links before and two lines after:<br>
-`- [``[WCAG 2 Translations]``](/standards-guidelines/wcag/translations/)`<br>
+* Add links under WCAG info:
+  * Before `- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)`add:<br>`- [``[WCAG 2 Translations]``](/standards-guidelines/wcag/translations/)`
+  * On the same line with `- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/)` add:<br>`, [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)`
+  * Add a new line at the end:<br>`- [``[What's New in WCAG 2.2 Working Draft]``](/standards-guidelines/wcag/new-in-22/)`
+  * Check this matches the [published version of the list](https://www.w3.org/WAI/standards-guidelines/#wcag2). Here's the full code block:<br>
+`- [WCAG Overview](/standards-guidelines/wcag/)`<br>
+`- [[WCAG 2.1 at a Glance]](/standards-guidelines/wcag/glance/)`<br>
+`- [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)`<br>
+`- [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/)`<br>
 `- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)`<br>
 `- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)`<br>
-`- [``[What's New in WCAG 2.2 Working Draft]``](/standards-guidelines/wcag/new-in-22/)`
+`- [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/)`<br>
 
 * Before “## Technical Specifications”, add:<br>
 `### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}`<br>
