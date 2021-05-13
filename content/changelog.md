@@ -40,7 +40,7 @@ For others, **particularly significant or substantive changes are summarized aft
 {% include toc.html type="end" %}
 {:/}
 
-_Translators:_ 
+**_Translators:_ **
 * Change `last_updated` to the date of the translation update.
 * The other dates after `footer >` should match the English version.
 * From the GitHub pull request, after a couple of minutes, you can get a preview of your rendered page by selecting the "Details" link after "netlify/wai-.../deploy-preview — Deploy preview ready!". Then select your language at the top.
