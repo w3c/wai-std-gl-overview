@@ -6,7 +6,7 @@ nav_title: "Standards/Règles" # A short title that is used in the navigation
 
 lang: fr   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2019-06-17   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-14   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "@code-elegant"   # Replace @@ with translator name
 #  link: @@
@@ -16,6 +16,7 @@ translators:
 # - name: "@@"   # Replace @@ with name, or delete this line if not multiple contributors
 
 ref: /standards-guidelines/   # Do not change this
+changelog: /standards-guidelines/changelog/
 layout: default
 github:
   repository: w3c/wai-std-gl-overview
@@ -24,7 +25,7 @@ permalink: /standards-guidelines/fr   # Add the language shortcode to the end; f
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date :</strong> Mis à jour le 13 mars 2019.</p>
+  <p><strong>Date :</strong> Mis à jour le 30 avril 2021. CHANGELOG.</p>
   <p><strong>Éditrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Élaboré avec des contributions du groupe de travail « Éducation et Rayonnement » (Education and Outreach Working Group <a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -70,7 +71,7 @@ Les standards du W3C et les notes de groupe de travail ci-dessous sont particuli
 
 Les [Éléments essentiels de l'accessibilité du Web](/fundamentals/components/fr) montrent comment l’accessibilité du web dépend de la combinaison harmonieuse des nombreuses composantes du développement web et de l’interaction utilisateur, et comment les règles WAI (WCAG, ATAG, UAAG) s’appliquent.
 
-###  Règles pour l'accessibilité des contenus Web (WCAG) {#wcag}
+###  Règles pour l'accessibilité des contenus Web (WCAG) 2 {#wcag}
 
 Le « contenu » web fait référence à l’information présente dans une page ou application web, y compris :
 
@@ -79,12 +80,14 @@ Le « contenu » web fait référence à l’information présente dans une page
 
 Les WCAG s’appliquent au contenu dynamique, multimédia, « mobile »… Les WCAG peuvent aussi être appliquées aux technologies de l’information et de la communication « non-web », ainsi que décrit dans [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/). 
 
-Informations autour des WCAG :
-- [Vue d’ensemble des WCAG](/standards-guidelines/wcag/)
+Informations autour des WCAG 2 :
+- [Vue d’ensemble des WCAG](/WAI/standards-guidelines/wcag/)
 - [Les WCAG 2.1 en un coup d’œil](/standards-guidelines/wcag/glance/)
 - [Comment satisfaire aux WCAG 2 (référence rapide) (en anglais)](https://www.w3.org/WAI/WCAG21/quickref/)
-- [Le standard WCAG 2.0 (en anglais)](https://www.w3.org/Translations/WCAG20-fr/)
-- [Le standard WCAG 2.1 (en anglais)](https://www.w3.org/TR/WCAG21/)
+- [Traductions WCAG 2](/standards-guidelines/wcag/translations/)
+- [Le standard WCAG 2.0](https://www.w3.org/Translations/WCAG20-fr/)
+- [Le standard WCAG 2.1 (en anglais)](https://www.w3.org/TR/WCAG21/), [Nouveautés de WCAG 2.1 (en anglais)](/standards-guidelines/wcag/new-in-21/)
+- [Nouveautés de la version préliminaire des WCAG 2.2 (en anglais)](/standards-guidelines/wcag/new-in-22/)
 
 ### Règles d'accessibilité pour les outils d'édition (ATAG) {#atag}
 
@@ -104,6 +107,12 @@ Les agents utilisateur incluent les navigateurs, leurs greffons, les lecteurs de
 Informations autour des UAAG :
 - [Vue d’ensemble des UAAG](/standards-guidelines/uaag/)
 - [Note UAAG 2.0 (en anglais)](https://www.w3.org/TR/UAAG20/)
+
+### Règles pour l'accessibilité du W3C (WCAG) 3 Projet de travail {#wcag3}
+WCAG 3 est un premier projet destiné à devenir une norme W3C. WCAG 3 s'applique au contenu Web, aux applications, aux outils, à la publication et aux technologies émergentes sur le Web.
+
+Informations autour des WCAG 3 :
+* [Introduction aux WCAG 3 (en anglais)](/standards-guidelines/wcag/wcag3-intro/)
 
 ## Spécifications techniques
 
@@ -139,6 +148,9 @@ Des ressources additionnelles relatives à l’évaluation sont disponibles dans
 ### Personnalisation
 
 [[Vue d’ensemble sur la personnalisation]](/personalization/) &mdash; La personnalisation implique l’adaptation sur mesure de l’expérience utilisateur pour satisfaire les besoins et préférences de l’utilisateur individuel. Les créateurs de contenu peuvent utiliser les standards à propos de la personnalisation pour fournir une conception par défaut et permettre une personnalisation par l’utilisateur avec un effort minimisé.
+
+### Pronunciation
+[[Aperçu de la prononciation]](/pronunciation/) &mdash; La prononciation concerne les lecteurs d'écran et autres synthèses de synthèse vocale (TTS) qui prononcent correctement le contenu.
 
 ## Autres champs de travail de l’Initiative pour l’accessibilité du web (WAI)
 
