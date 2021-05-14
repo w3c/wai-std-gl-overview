@@ -6,13 +6,14 @@ nav_title: "标准/指南" # A short title that is used in the navigation
 
 lang: zh-hans   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2019-07-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-14   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "安佳"   # Replace @@ with translator name
   link: "https://github.com/anjia"
 
 
-ref: /standards-guidelines/   # Do not change this
+ref: /videos/standards-and-benefits/ # Do not change this
+changelog: /standards-guidelines/changelog/
 layout: default
 github:
   repository: w3c/wai-std-gl-overview
@@ -21,9 +22,9 @@ permalink: /standards-guidelines/zh-hans   # Add the language shortcode to the e
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>日期:</strong> 更新于2019年3月13日。</p>
+  <p><strong>日期:</strong> 更新于2021年4月30日. CHANGELOG.</p>
   <p><strong>编辑:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>。</p>
-  <p>由教育和外延工作组（<a href="https://www.w3.org/WAI/EO/">EOWG</a>）开发。</p>
+  <p>由教育和外联工作组（<a href="https://www.w3.org/WAI/EO/">EOWG</a>）开发。</p>
 
 # 请阅读翻译指南 https://www.w3.org/WAI/about/translating/#important
 # 请阅读此资源的翻译说明 https://github.com/w3c/wai-std-gl-overview/blob/master/README.md
@@ -67,7 +68,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 [[Web 可访问性的基本组件]](/fundamentals/components/)展示了 Web 无障碍如何依赖 Web 开发的几个组件以及如何与它们交互，也展示了如何应用 Web无障碍推进（WAI）的指南（WCAG、ATAG、UAAG）。
 
-### Web内容无障碍指南（WCAG） {#wcag}
+### Web内容无障碍指南（WCAG）2 {#wcag2}
 
 Web “内容”通常是指网页或 Web 应用程序里的信息，包括：
 
@@ -76,12 +77,15 @@ Web “内容”通常是指网页或 Web 应用程序里的信息，包括：
 
 WCAG 可应用在动态内容、多媒体、“移动端”等，也可以应用在非网络信息和通信技术（ICT），如 [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/) 中所述。
 
-WCAG 信息：
+WCAG 2 信息：
 - [WCAG 概述](/standards-guidelines/wcag/)
 - [[WCAG 2.1 概览]](/standards-guidelines/wcag/glance/)
 - [如何满足 WCAG 2（快速参考）](https://www.w3.org/WAI/WCAG21/quickref/)
+- [[WCAG 2 翻译]](/standards-guidelines/wcag/translations/)
 - [WCAG 2.0 标准](https://www.w3.org/TR/WCAG20/)
-- [WCAG 2.1 标准](https://www.w3.org/TR/WCAG21/)
+- [WCAG 2.1 标准](https://www.w3.org/TR/WCAG21/)，[[WCAG 2.1 中的更新内容]](/standards-guidelines/wcag/new-in-21/)
+- [[WCAG 2.2 工作组草案中的更新内容]](/standards-guidelines/wcag/new-in-22/)
+
 
 ### 创作工具无障碍指南（ATAG） {#atag}
 
@@ -101,6 +105,14 @@ ATAG 信息：
 UAAG 信息：
 - [UAAG 概述](/standards-guidelines/uaag/)
 - [UAAG 2.0 说明](https://www.w3.org/TR/UAAG20/)
+
+### W3C 无障碍指南 (WCAG) 3 工作组草案 {#wcag3}
+
+WCAG 3 目前是一份的早期草案，旨在成为 W3C 标准。 WCAG 3 适用于 Web 上的 Web 内容，应用程序，工具，出版以及一些新兴技术。
+
+
+WCAG 3 信息:
+* [[WCAG 3 介绍]](/standards-guidelines/wcag/wcag3-intro/)
 
 ## 技术规范
 
@@ -136,6 +148,11 @@ ARIA 信息：
 ### 个性化
 
 [[个性化概述]](/personalization/) &mdash; 个性化涉及定制用户体验以满足个人用户的需求和偏好。内容作者可以使用个性化标准来提供默认设计，并以最少的工作实现用户个性化。
+### 个性化
+
+### 发音
+
+[[发音工作概述]](/pronunciation/) &mdash; 发音工作是一项关于能够让屏幕阅读器和其他语音合成（TTS）正确发音的工作。
 
 ## W3C WAI 工作的其它领域
 
