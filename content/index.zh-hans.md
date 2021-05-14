@@ -11,9 +11,8 @@ translators:
 - name: "安佳"   # Replace @@ with translator name
   link: "https://github.com/anjia"
 
-
-ref: /videos/standards-and-benefits/ # Do not change this
-changelog: /standards-guidelines/changelog/
+ref: /standards-guidelines/ # Do not change this
+changelog: /sstandards-guidelines/changelog/
 layout: default
 github:
   repository: w3c/wai-std-gl-overview
