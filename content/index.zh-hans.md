@@ -12,7 +12,8 @@ translators:
   link: "https://github.com/anjia"
 
 
-ref: /standards-guidelines/   # Do not change this
+ref: /videos/standards-and-benefits/ # Do not change this
+changelog: /standards-guidelines/changelog/
 layout: default
 github:
   repository: w3c/wai-std-gl-overview
@@ -21,9 +22,9 @@ permalink: /standards-guidelines/zh-hans   # Add the language shortcode to the e
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>日期:</strong> 更新于2019年3月13日。</p>
+  <p><strong>日期:</strong> 更新于2021年4月30日. CHANGELOG.</p>
   <p><strong>编辑:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>。</p>
-  <p>由教育和外延工作组（<a href="https://www.w3.org/WAI/EO/">EOWG</a>）开发。</p>
+  <p>由教育和外联工作组（<a href="https://www.w3.org/WAI/EO/">EOWG</a>）开发。</p>
 
 # 请阅读翻译指南 https://www.w3.org/WAI/about/translating/#important
 # 请阅读此资源的翻译说明 https://github.com/w3c/wai-std-gl-overview/blob/master/README.md
