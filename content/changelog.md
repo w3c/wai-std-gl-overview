@@ -46,8 +46,8 @@ For others, **particularly significant or substantive changes are summarized aft
 * From the GitHub pull request, after a couple of minutes, you can get a preview of your rendered page by selecting the "Details" link after "netlify/wai-.../deploy-preview — Deploy preview ready!". Then select your language at the top.
 
 ## April 2021
-* In the frontmatter at the top, add `changelog: /videos/standards-and-benefits/changelog/` between ref and layout:<br>
-`ref: /videos/standards-and-benefits/   # Do not change this`<br>
+* In the frontmatter at the top, add `changelog: /standards-guidelines/changelog/` between ref and layout:<br>
+`ref: /standards-guidelines/   # Do not change this`<br>
 `changelog: /standards-guidelines/changelog/`<br>
 `layout: default`<br>
 * In the frontmatter, under `footer: >`:
