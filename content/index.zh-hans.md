@@ -67,7 +67,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 [[Web 可访问性的基本组件]](/fundamentals/components/)展示了 Web 无障碍如何依赖 Web 开发的几个组件以及如何与它们交互，也展示了如何应用 Web无障碍推进（WAI）的指南（WCAG、ATAG、UAAG）。
 
-### Web内容无障碍指南（WCAG） {#wcag}
+### Web内容无障碍指南（WCAG）2 {#wcag2}
 
 Web “内容”通常是指网页或 Web 应用程序里的信息，包括：
 
@@ -76,12 +76,15 @@ Web “内容”通常是指网页或 Web 应用程序里的信息，包括：
 
 WCAG 可应用在动态内容、多媒体、“移动端”等，也可以应用在非网络信息和通信技术（ICT），如 [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/) 中所述。
 
-WCAG 信息：
+WCAG 2 信息：
 - [WCAG 概述](/standards-guidelines/wcag/)
 - [[WCAG 2.1 概览]](/standards-guidelines/wcag/glance/)
 - [如何满足 WCAG 2（快速参考）](https://www.w3.org/WAI/WCAG21/quickref/)
+- [[WCAG 2 翻译]](/standards-guidelines/wcag/translations/)
 - [WCAG 2.0 标准](https://www.w3.org/TR/WCAG20/)
-- [WCAG 2.1 标准](https://www.w3.org/TR/WCAG21/)
+- [WCAG 2.1 标准](https://www.w3.org/TR/WCAG21/)，[[WCAG 2.1 中的更新内容]](/standards-guidelines/wcag/new-in-21/)
+- [[WCAG 2.2 工作组草案中的更新内容]](/standards-guidelines/wcag/new-in-22/)
+
 
 ### 创作工具无障碍指南（ATAG） {#atag}
 
@@ -101,6 +104,14 @@ ATAG 信息：
 UAAG 信息：
 - [UAAG 概述](/standards-guidelines/uaag/)
 - [UAAG 2.0 说明](https://www.w3.org/TR/UAAG20/)
+
+### W3C 无障碍指南 (WCAG) 3 工作组草案 {#wcag3}
+
+WCAG 3 目前是一份的早期草案，旨在成为 W3C 标准。 WCAG 3 适用于 Web 上的 Web 内容，应用程序，工具，出版以及一些新兴技术。
+
+
+WCAG 3 信息:
+* [[WCAG 3 介绍]](/standards-guidelines/wcag/wcag3-intro/)
 
 ## 技术规范
 
