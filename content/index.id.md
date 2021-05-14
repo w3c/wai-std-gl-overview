@@ -67,9 +67,9 @@ Halaman ini memperkenalkan panduan dan standar lainnya terkait aksesibilitas web
 
 Konsorsium World Wide Web (W3C) mengembangkan standar web internasional: <abbr title="Bahasa Penanda Hiperteks">HTML</abbr>, <abbr title="Lembar Gaya Berjenjang">CSS</abbr>, dan banyak lagi. Standar Web W3C dikenal dengan nama <dfn>Rekomendasi W3C</dfn>.
 
-Untuk mendukung aksesibilitas, semua standar W3C ditinjau oleh Kelompok Kerja Arsitektur Platform Aksesibel ([APA](/about/groups/apawg/)).
+Untuk mendukung aksesibilitas, semua standar W3C ditinjau oleh Kelompok Kerja Arsitektur Platform yang Aksesibel ([APA](/about/groups/apawg/)).
 
-Standar W3C dan Catatan Kelompok Kerja yang diperkenalkan di bawah ini sangat relevan dengan aksesibilitas.
+Standar W3C dan Catatan Kelompok Kerja yang diuraikan di bawah ini sangat relevan dengan aksesibilitas.
 
 ## Panduan Aksesibilitas {#guidelines}
 
@@ -79,8 +79,8 @@ Standar W3C dan Catatan Kelompok Kerja yang diperkenalkan di bawah ini sangat re
 
 "Konten" Web pada umumnya merujuk pada informasi dalam halaman atau aplikasi web, termasuk:
 
-* informasi umumnya seperti teks, gambar, dan suara
-* kode atau markup yang menentukan struktur, presentasi, dll.
+* informasi standar seperti teks, gambar, dan suara
+* kode atau penanda yang menentukan struktur, presentasi, dll.
 
 WCAG berlaku untuk konten dinamis, multimedia, "seluler", dll. WCAG juga dapat diterapkan ke teknologi informasi dan komunikasi (TIK) non-web, seperti yang dijelaskan dalam [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
 
@@ -95,7 +95,7 @@ Informasi seputar WCAG 2:
 
 ### Pedoman Aksesibilitas Sarana Penulisan (ATAG) {#atag}
 
-Sarana penulisan adalah perangkat lunak dan jasa yang digunakan oleh "para penulis" (pengembang web, desainer, penulis, dsb.) untuk membuat konten web. Sebagai contoh: editor HTML, sistem pengelola konten (CMS), dan situs yang memungkinakan pengguna untuk menambahkan konten, seperti blog dan situs jejaring sosial. Dokumen ATAG menjelaskan bagaimana cara untuk:
+Sarana penulisan adalah perangkat lunak dan jasa yang digunakan oleh "para penulis" (pengembang web, desainer, penulis konten, dsb.) untuk membuat konten web. Sebagai contoh: editor HTML, sistem pengelola konten (CMS), dan situs yang memungkinakan pengguna untuk menambahkan konten, seperti blog dan situs jejaring sosial. Dokumen ATAG menjelaskan bagaimana cara untuk:
 * membuat sarana penulisan tersebut aksesibel, sehingga para penyandang disabilitas dapat membuat konten web, dan
 * membantu para penulis membuat konten web yang aksesibel.
 
@@ -123,9 +123,9 @@ Informasi seputar WCAG 3:
 
 ### Aplikasi Internet Kaya yang Aksesibel (WAI-ARIA) {#aria}
 
-ARIA menyediakan semantik agar para penulis dapat menyampaikan perilaku antarmuka pengguna dan informasi struktural ke teknologi pendukung (seperti pembaca layar). Spesifikasi ARIA menyediakan ontologi peran, keadaan, dan properti yang mendefinisikan elemen antarmuka pengguna yang aksesibel.
+ARIA menyediakan semantik agar penulis web dapat menyampaikan perilaku antarmuka pengguna dan informasi struktural ke teknologi pendukung (seperti pembaca layar). Spesifikasi ARIA menyediakan hakikat peran (*roles*), keadaan (*states*), dan properti yang mendefinisikan elemen antarmuka pengguna yang aksesibel.
 
-Rangkaian ARIA mencakup spesifikasi pemetaan <abbr title="antarmuka pemrograman aplikasi">API</abbr> yang menyediakan panduan implementasi agen pengguna. Ini juga termasuk modul untuk Penerbitan Digital dan Grafis.
+Rangkaian ARIA mencakup spesifikasi pemetaan <abbr title="Antarmuka Pemrograman Aplikasi">API</abbr> yang menyediakan panduan implementasi agen pengguna. Termasuk juga modul untuk Publikasi Digital dan Grafis.
 
 Informasi seputar ARIA:
 - [Gambaran Umum WAI-ARIA](/standards-guidelines/aria/) – mencakup [daftar dan deskripsi pemetaan modul dan API](/standards-guidelines/aria/#versions)
@@ -136,7 +136,7 @@ Informasi seputar ARIA:
 
 - [WebVTT: Format Trek Teks Video Web](https://www.w3.org/TR/webvtt/) adalah format untuk teks, deskripsi video berbentuk teks, dan metadata lainnya yang waktunya diselaraskan dengan konten video atau audio.
 
-- [Bahasa Markup Teks Berjadwal (TTML)](https://www.w3.org/TR/ttml/) dimaksudkan untuk digunakan dalam konversi transcoding atau bertukar informasi teks berjadwal untuk pembuatan teks video antar format konten distribusi lama.
+- [Bahasa Penanda Teks Berjadwal (TTML)](https://www.w3.org/TR/ttml/) dimaksudkan untuk digunakan antar format konten distribusi lama terkait konversi transcoding atau bertukar informasi teks berjadwal untuk pembuatan teks video.
 
 ### Evaluasi {#eval}
 
@@ -152,11 +152,11 @@ Sumber informasi tambahan terkait evaluasi terdapat pada [[Gambaran Umum Mengeva
 
 ### Personalisasi
 
-[[Gambaran Umum Personalisasi]](/personalization/) &mdash; Personalisasi melibatkan penyesuaian pengalaman pengguna untuk memenuhi kebutuhan dan preferensi masing-masing pengguna. Penulis konten dapat menggunakan standar personalisasi untuk menyediakan nilai default pada desain dan memungkinkan personalisasi dengan usaha minimal.
+[[Gambaran Umum Personalisasi]](/personalization/) &mdash; Personalisasi melibatkan penyesuaian pengalaman pengguna untuk memenuhi kebutuhan dan preferensi masing-masing pengguna. Penulis konten dapat menggunakan standar personalisasi untuk menyediakan pengaturan awal pada desain dan memungkinkan personalisasi dengan usaha minimal.
 
 ### Pengucapan
 
-[[Gambaran Umum Pengucapan]](/pronunciation/) &mdash; Pengucapan adalah tentang pembaca layar dan penerjemah teks-ke-suara (TTS) agar mengucapkan konten dengan benar.
+[[Gambaran Umum Pengucapan]](/pronunciation/) &mdash; Pengucapan adalah mengenai pengucapan konten dengan benar oleh pembaca layar dan penerjemah teks-ke-suara (TTS).
 
 ## Area kerja W3C WAI lainnya
 
@@ -168,11 +168,11 @@ Sumber informasi tambahan terkait evaluasi terdapat pada [[Gambaran Umum Mengeva
 
 - [Daftar semua Standar W3C yang berhubungan dengan aksesibilitas ("Rekomendasi W3C") dan Catatan Kelompok Kerja](https://www.w3.org/TR/?tag=accessibility)
 
-- [[Hukum dan Kebijakan Aksesibilitas Web]](/policies/) daftar hukum dan kebijakan pemerintah terkait aksesibilitas pada negara-negara dan daerah-daerah di seluruh dunia. Banyak dari daftar tersebut yang merujuk pada standar aksesibilitas W3C.
+- [[Hukum dan Kebijakan Aksesibilitas Web]](/policies/) daftar hukum dan kebijakan pemerintah terkait aksesibilitas pada negara-negara dan daerah-daerah di seluruh dunia. Dari daftar tersebut, banyak yang merujuk pada standar aksesibilitas W3C.
 
 - [[Mengapa Penyelarasan Standar Penting untuk Aksesibilitas Web]](/standards-guidelines/harmonization/)
 
-- [[Merujuk dan Menautkan Panduan dan Dokumen Teknis WAI]](/standards-guidelines/linking/)
+- [[Menautkan dan Merujuk ke Panduan dan Dokumen Teknis WAI]](/standards-guidelines/linking/)
 
 - [Bagaimana WAI Mengembangkan Panduan Aksesibilitas melalui Proses W3C: Target dan **Kesempatan untuk Berkontribusi**](/standards-guidelines/w3c-process/)
 
