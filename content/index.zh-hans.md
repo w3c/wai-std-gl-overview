@@ -12,7 +12,7 @@ translators:
   link: "https://github.com/anjia"
 
 ref: /standards-guidelines/ # Do not change this
-changelog: /sstandards-guidelines/changelog/
+changelog: /standards-guidelines/changelog/
 layout: default
 github:
   repository: w3c/wai-std-gl-overview
