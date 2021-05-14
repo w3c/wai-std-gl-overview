@@ -65,7 +65,7 @@ Halaman ini memperkenalkan panduan dan standar lainnya terkait aksesibilitas web
 
 ## Pengantar {#intro}
 
-Konsorsium World Wide Web (W3C) mengembangkan standar web internasional: <abbr title="Hypertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr>, dan banyak lagi. Standar Web W3C dikenal dengan nama <dfn>Rekomendasi W3C</dfn>.
+Konsorsium World Wide Web (W3C) mengembangkan standar web internasional: <abbr title="Bahasa Penanda Hiperteks">HTML</abbr>, <abbr title="Lembar Gaya Berjenjang">CSS</abbr>, dan banyak lagi. Standar Web W3C dikenal dengan nama <dfn>Rekomendasi W3C</dfn>.
 
 Untuk mendukung aksesibilitas, semua standar W3C ditinjau oleh Kelompok Kerja Arsitektur Platform Aksesibel ([APA](/about/groups/apawg/)).
 
