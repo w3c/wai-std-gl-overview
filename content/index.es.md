@@ -87,7 +87,7 @@ Información sobre las pautas WCAG 2:
 - [[Traducciones WCAG 2]](/standards-guidelines/wcag/translations/)
 - [Estándar WCAG 2.0](https://www.w3.org/TR/WCAG20/)
 - [Estándar WCAG 2.1](https://www.w3.org/TR/WCAG21/), [[Novedades en WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
-- [[Novedades en WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/)
+- [[Novedades en el borrador de WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
 
 ### Pautas de accesibilidad para las herramientas de creación de contenido (ATAG) {#atag}
 
@@ -109,9 +109,9 @@ Información sobre las pautas UAAG:
 - [[Resumen de UAAG]](/standards-guidelines/uaag/)
 - [Nota sobre UAAG 2.0](https://www.w3.org/TR/UAAG20/)
 
-### Pautas de accesibilidad del W3C (WCAG) 3 Working Draft {#wcag3}
+### Pautas de accesibilidad del W3C (WCAG) 3 Borrador {#wcag3}
 
-Las pautas WCAG 3 se encuentran en un borrador temprano que se convertirá en un estándar W3C. WCAG 3 afecta al contenido web, aplicaciones, herramientas, publicaciones y tecnologías emergentes en la web.
+Las pautas WCAG 3 se encuentran en un borrador inicial que se convertirá en un estándar W3C. WCAG 3 afecta al contenido web, aplicaciones, herramientas, publicaciones y tecnologías emergentes en la web.
 
 Información sobre WCAG 3:
 
