@@ -6,13 +6,13 @@ nav_title: "Standards/Règles" # A short title that is used in the navigation
 
 lang: fr   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2021-05-14   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "@code-elegant"   # Replace @@ with translator name
 #  link: @@
 # - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
-# contributors:
-# - name: "@@"   # Replace @@ with contributor name, or delete this line if none
+contributors:
+- name: "Victoria Menezes Miller"   # Replace @@ with contributor name, or delete this line if none
 # - name: "@@"   # Replace @@ with name, or delete this line if not multiple contributors
 
 ref: /standards-guidelines/   # Do not change this
@@ -69,7 +69,7 @@ Les standards du W3C et les notes de groupe de travail ci-dessous sont particuli
 
 ## Règles d’accessibilité {#guidelines}
 
-Les [Éléments essentiels de l'accessibilité du Web](/fundamentals/components/fr) montrent comment l’accessibilité du web dépend de la combinaison harmonieuse des nombreuses composantes du développement web et de l’interaction utilisateur, et comment les règles WAI (WCAG, ATAG, UAAG) s’appliquent.
+Les [[Éléments essentiels de l'accessibilité du Web]](/fundamentals/components/fr) montrent comment l’accessibilité du web dépend de la combinaison harmonieuse des nombreuses composantes du développement web et de l’interaction utilisateur, et comment les règles WAI (WCAG, ATAG, UAAG) s’appliquent.
 
 ###  Règles pour l'accessibilité des contenus Web (WCAG) 2 {#wcag}
 
@@ -81,13 +81,13 @@ Le « contenu » web fait référence à l’information présente dans une page
 Les WCAG s’appliquent au contenu dynamique, multimédia, « mobile »… Les WCAG peuvent aussi être appliquées aux technologies de l’information et de la communication « non-web », ainsi que décrit dans [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/). 
 
 Informations autour des WCAG 2 :
-- [Vue d’ensemble des WCAG](/WAI/standards-guidelines/wcag/)
-- [Les WCAG 2.1 en un coup d’œil](/standards-guidelines/wcag/glance/)
-- [Comment satisfaire aux WCAG 2 (référence rapide) (en anglais)](https://www.w3.org/WAI/WCAG21/quickref/)
-- [Traductions WCAG 2](/standards-guidelines/wcag/translations/)
+- [Vue d’ensemble des WCAG](/standards-guidelines/wcag/)
+- [[Les WCAG 2.1 en un coup d’œil]](/standards-guidelines/wcag/glance/)
+- [Comment satisfaire aux WCAG 2 (référence rapide)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [[Traductions WCAG 2]](/standards-guidelines/wcag/translations/)
 - [Le standard WCAG 2.0](https://www.w3.org/Translations/WCAG20-fr/)
-- [Le standard WCAG 2.1 (en anglais)](https://www.w3.org/TR/WCAG21/), [Nouveautés de WCAG 2.1 (en anglais)](/standards-guidelines/wcag/new-in-21/)
-- [Nouveautés de la version préliminaire des WCAG 2.2 (en anglais)](/standards-guidelines/wcag/new-in-22/)
+- [Le standard WCAG 2.1 (en anglais)](https://www.w3.org/TR/WCAG21/), [[Nouveautés de WCAG 2.1](/standards-guidelines/wcag/new-in-21/)
+- [[Nouveautés de la version préliminaire des WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
 
 ### Règles d'accessibilité pour les outils d'édition (ATAG) {#atag}
 
@@ -97,7 +97,7 @@ Les outils d’édition sont des logiciels et des services que les « auteurs »
 
 Informations autour des ATAG :
 - [Vue d’ensemble des ATAG](/standards-guidelines/atag/)
-- [Les ATAG en un coup d’œil](/standards-guidelines/atag/glance/)
+- [[Les ATAG en un coup d’œil]](/standards-guidelines/atag/glance/)
 - [Le standard ATAG 2.0 (en anglais)](https://www.w3.org/TR/ATAG/)
 
 ### Règles pour l'accessibilité des agents utilisateurs (UAAG) {#uaag}
@@ -112,7 +112,7 @@ Informations autour des UAAG :
 WCAG 3 est un premier projet destiné à devenir une norme W3C. WCAG 3 s'applique au contenu Web, aux applications, aux outils, à la publication et aux technologies émergentes sur le Web.
 
 Informations autour des WCAG 3 :
-* [Introduction aux WCAG 3 (en anglais)](/standards-guidelines/wcag/wcag3-intro/)
+* [[Introduction aux WCAG 3]](/standards-guidelines/wcag/wcag3-intro/)
 
 ## Spécifications techniques
 
@@ -137,13 +137,13 @@ Informations autour d’ARIA :
 
 Les ressources suivantes favorisent le développement de méthodes et d’outils d’évaluation de l’accessibilité :
 
-- [Vue d’ensemble d’Évaluation de conformité à l’accessibilité (Accessibility Conformance Testing ACT)](/standards-guidelines/act/) &mdash; ACT définit et documente les règles pour tester la conformité du contenu web aux standards d’accessibilité.
+- [[Vue d’ensemble d’Évaluation de conformité à l’accessibilité (Accessibility Conformance Testing ACT)]](/standards-guidelines/act/) &mdash; ACT définit et documente les règles pour tester la conformité du contenu web aux standards d’accessibilité.
 
-- [Vue d’ensemble du language d’évaluation et de compte rendu (Evaluation and Report Language EARL)](/standards-guidelines/earl/) &mdash; EARL est un format interprétable par les machines pour transcrire des résultats de test.
+- [[Vue d’ensemble du language d’évaluation et de compte rendu (Evaluation and Report Language EARL)]](/standards-guidelines/earl/) &mdash; EARL est un format interprétable par les machines pour transcrire des résultats de test.
 
 Des ressources additionnelles relatives à l’évaluation sont disponibles dans la [vue d’ensemble « Évaluer l’accessibilité web »](/test-evaluate/), dont :
 
-- [Vue d’ensemble de WCAG-EM : méthodologie d’évaluation de la conformité à l’accessibilité web](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM est une approche pour déterminer dans quelle mesure un site web est conforme aux Règles pour l'accessibilité des contenus Web (WCAG).
+- [[Vue d’ensemble de WCAG-EM : méthodologie d’évaluation de la conformité à l’accessibilité web]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM est une approche pour déterminer dans quelle mesure un site web est conforme aux Règles pour l'accessibilité des contenus Web (WCAG).
 
 ### Personnalisation
 
@@ -160,14 +160,14 @@ Des ressources additionnelles relatives à l’évaluation sont disponibles dans
 
 ## Informations additionnelles {#moreinfo}
 
-- [Liste de tous les standards relatifs à l’accessibilité (« Recommandations W3C ») et notes de groupe de travail (en anglais)](https://www.w3.org/TR/?tag=accessibility)
+- [Liste de tous les standards relatifs à l’accessibilité (« Recommandations W3C ») et notes de groupe de travail](https://www.w3.org/TR/?tag=accessibility)
 
-- [Lois & politiques relatives à l’accessibilité web](/policies/) liste les lois et politiques gouvernementales relatives à l’accessibilité web dans les pays et les régions du monde entier. Beaucoup d’entre elles font référence aux standards d’accessibilité du W3C.
+- [[Lois & politiques relatives à l’accessibilité web]](/policies/) liste les lois et politiques gouvernementales relatives à l’accessibilité web dans les pays et les régions du monde entier. Beaucoup d’entre elles font référence aux standards d’accessibilité du W3C.
 
-- [Pourquoi l’harmonisation des standards est essentielle pour l’accessibilité web](/standards-guidelines/harmonization/)
+- [[Pourquoi l’harmonisation des standards est essentielle pour l’accessibilité web]](/standards-guidelines/harmonization/)
 
-- [Citer et fournir un lien vers des règles WAI et des documents techniques](/standards-guidelines/linking/)
+- [[Citer et fournir un lien vers des règles WAI et des documents techniques]](/standards-guidelines/linking/)
 
-- [Comment WAI développe les règles d’accessibilité au travers du processus du W3C : jalons et **occasions de contribuer**](/standards-guidelines/w3c-process/)
+- [[Comment WAI développe les règles d’accessibilité au travers du processus du W3C : jalons et **occasions de contribuer**]](/standards-guidelines/w3c-process/)
 
 ![illustration montrant les règles pour les différentes composantes, description détaillée disponible à https://www.w3.org/WAI/intro/components-desc.html#guide (en anglais)]({{ "/content-images/wai-std-gl-overview/specs.fr.png" | relative_url }})
