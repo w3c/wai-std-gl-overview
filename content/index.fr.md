@@ -69,7 +69,7 @@ Les standards du W3C et les notes de groupe de travail ci-dessous sont particuli
 
 ## Règles d’accessibilité {#guidelines}
 
-Les [[Éléments essentiels de l'accessibilité du Web]](/fundamentals/components/fr) montrent comment l’accessibilité du web dépend de la combinaison harmonieuse des nombreuses composantes du développement web et de l’interaction utilisateur, et comment les règles WAI (WCAG, ATAG, UAAG) s’appliquent.
+Les [[Éléments essentiels de l'accessibilité du Web]](/fundamentals/components/) montrent comment l’accessibilité du web dépend de la combinaison harmonieuse des nombreuses composantes du développement web et de l’interaction utilisateur, et comment les règles WAI (WCAG, ATAG, UAAG) s’appliquent.
 
 ###  Règles pour l'accessibilité des contenus Web (WCAG) 2 {#wcag}
 
@@ -86,7 +86,7 @@ Informations autour des WCAG 2 :
 - [Comment satisfaire aux WCAG 2 (référence rapide)](https://www.w3.org/WAI/WCAG21/quickref/)
 - [[Traductions WCAG 2]](/standards-guidelines/wcag/translations/)
 - [Le standard WCAG 2.0](https://www.w3.org/Translations/WCAG20-fr/)
-- [Le standard WCAG 2.1 (en anglais)](https://www.w3.org/TR/WCAG21/), [[Nouveautés de WCAG 2.1](/standards-guidelines/wcag/new-in-21/)
+- [Le standard WCAG 2.1 (en anglais)](https://www.w3.org/TR/WCAG21/), [[Nouveautés de WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
 - [[Nouveautés de la version préliminaire des WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
 
 ### Règles d'accessibilité pour les outils d'édition (ATAG) {#atag}
