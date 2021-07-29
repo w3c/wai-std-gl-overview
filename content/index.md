@@ -93,6 +93,13 @@ WCAG 2 info:
 - [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
 - [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/)
 
+### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}
+
+WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web.
+
+WCAG 3 info:
+- [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)
+
 ### Authoring Tool Accessibility Guidelines (ATAG) {#atag}
 
 Authoring tools are software and services that "authors" (web developers, designers, writers, etc.) use to produce web content. For example: HTML editors, content management systems (CMS), and websites that let users add content, such as blogs and social networking sites. ATAG documents explain how to:
@@ -111,13 +118,6 @@ User agents include browsers, browser extensions, media players, readers, and ot
 UAAG info:
 - [UAAG Overview](/standards-guidelines/uaag/)
 - [UAAG 2.0 Note](https://www.w3.org/TR/UAAG20/)
-
-### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}
-
-WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web.
-
-WCAG 3 info:
-- [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)
 
 ## Technical Specifications
 
@@ -138,7 +138,7 @@ ARIA info:
 
 - [Timed Text Markup Language (TTML)](https://www.w3.org/TR/ttml/) is intended to be used for transcoding or exchanging timed text information among legacy distribution content formats for subtitling and captioning.
 
-### Evaluation {#eval}
+### Evaluation &mdash; ACT and EARL  {#eval}
 
 The following resources support development of accessibility evaluation methods and tools:
 
@@ -158,22 +158,38 @@ Additional resources related to evaluation are listed in the [[Evaluating Web Ac
 
 [[Pronunciation Overview]](/pronunciation/) &mdash; Pronunciation is about screen readers and other text-to-speech (TTS) synthesis pronouncing content properly.
 
-## Other Areas of W3C WAI work
+## Mobile and Cognitive
 
 - [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/)
 
 - [[Cognitive Accessibility at W3C]](/cognitive/)
+
+## User Requirements
+
+The accessibility user requirements documents inform standards development. Some are in-progress Editors' Drafts and some are completed Working Group Notes.
+
+- [Framework for Accessible Specification of Technologies (FAST)](https://w3c.github.io/apa/fast/) advises creators of technical specifications how to ensure that their technology meets the needs of users with disabilities
+- [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/) (MAUR)
+- Media Synchronization Accessibility User Requirements
+- [RTC Accessibility User Requirements](https://www.w3.org/TR/raur/) (RAUR) for real-time communication (RTC)
+- [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) (XAUR) for virtual reality or immersive environments, augmented or mixed reality, and other related technologies (XR)
+- [Natural Language Accessibility User Requirements](http://raw.githack.com/w3c/apa/main/naur/index.html) for voice assistants, interactive voice response (IVR) systems, smart speakers, and other.
+- [Accessibility Requirements for People with Low Vision](https://www.w3.org/TR/low-vision-needs/)
+- @@ which for COGA ?
+
+## About the Standards
+
+- [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and **Opportunities to Contribute**](/standards-guidelines/w3c-process/)
+
+- [[Referencing and Linking to WAI Guidelines and Technical Documents]](/standards-guidelines/linking/)
+
+- [[Why Standards Harmonization is Essential to Web Accessibility]](/standards-guidelines/harmonization/)
+
 
 ## Additional Information {#moreinfo}
 
 - [List of all W3C accessibility-related Standards ("W3C Recommendations") and Working Group Notes](https://www.w3.org/TR/?tag=accessibility)
 
 - [[Web Accessibility Laws & Policies]](/policies/) lists governmental laws and policies relating to web accessibility in countries and regions around the world. Many of these reference W3C accessibility standards.
-
-- [[Why Standards Harmonization is Essential to Web Accessibility]](/standards-guidelines/harmonization/)
-
-- [[Referencing and Linking to WAI Guidelines and Technical Documents]](/standards-guidelines/linking/)
-
-- [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and **Opportunities to Contribute**](/standards-guidelines/w3c-process/)
 
 ![illustration showing the guidelines for the different components, detailed description at https://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
