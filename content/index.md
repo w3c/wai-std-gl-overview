@@ -175,7 +175,7 @@ The accessibility user requirements documents inform standards development. Some
 - [**XR** Accessibility User Requirements](https://www.w3.org/TR/xaur/) (XAUR) for virtual reality or immersive environments, augmented or mixed reality, and other related technologies (XR)
 - [**Natural Language** Accessibility User Requirements](http://raw.githack.com/w3c/apa/main/naur/index.html) for voice assistants, interactive voice response (IVR) systems, smart speakers, and others
 - [Accessibility Requirements for People with **Low Vision**](https://www.w3.org/TR/low-vision-needs/)
-- [Making Content Usable for People with **Cognitive** and Learning Disabilities, User Stories](https://www.w3.org/TR/coga-usable/#user_needs) ("Content Usable" or "COGA Usable") lists user needs
+- [Making Content Usable for People with **Cognitive** and Learning Disabilities, User Stories](https://www.w3.org/TR/coga-usable/#user_needs) lists user needs
 
 ## About the Standards
 
