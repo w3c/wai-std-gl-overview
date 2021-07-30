@@ -168,9 +168,9 @@ Additional resources related to evaluation are listed in the [[Evaluating Web Ac
 
 The accessibility user requirements documents inform standards development. Some are in-progress Editors' Drafts and some are completed Working Group Notes.
 
-- [Framework for Accessible Specification of Technologies (FAST)](https://w3c.github.io/apa/fast/) advises creators of technical specifications how to ensure that their technology meets the needs of users with disabilities
+- [Framework for Accessible Specification of Technologies (**FAST**)](https://w3c.github.io/apa/fast/) advises creators of technical specifications how to ensure that their technology meets the needs of users with disabilities
 - [**Media** Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/) (MAUR)
-  - Media Synchronization Accessibility User Requirements
+  - [Synchronization Accessibility User Requirements](https://raw.githack.com/w3c/apa/saur/saur/) (SAUR)
 - [**RTC** Accessibility User Requirements](https://www.w3.org/TR/raur/) (RAUR) for real-time communication (RTC)
 - [**XR** Accessibility User Requirements](https://www.w3.org/TR/xaur/) (XAUR) for virtual reality or immersive environments, augmented or mixed reality, and other related technologies (XR)
 - [**Natural Language** Accessibility User Requirements](http://raw.githack.com/w3c/apa/main/naur/index.html) for voice assistants, interactive voice response (IVR) systems, smart speakers, and others
