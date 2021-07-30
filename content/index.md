@@ -169,13 +169,13 @@ Additional resources related to evaluation are listed in the [[Evaluating Web Ac
 The accessibility user requirements documents inform standards development. Some are in-progress Editors' Drafts and some are completed Working Group Notes.
 
 - [Framework for Accessible Specification of Technologies (**FAST**)](https://w3c.github.io/apa/fast/) advises creators of technical specifications how to ensure that their technology meets the needs of users with disabilities
-- [**Media** Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/) (MAUR)
-  - [Synchronization Accessibility User Requirements](https://raw.githack.com/w3c/apa/saur/saur/) (SAUR)
+- [**Media** Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/) (MAUR) for audio and video
+- [**Synchronization** Accessibility User Requirements](https://raw.githack.com/w3c/apa/saur/saur/) (SAUR) applies to multimedia, including in real-time communication applications and in immersive environments
 - [**RTC** Accessibility User Requirements](https://www.w3.org/TR/raur/) (RAUR) for real-time communication (RTC)
 - [**XR** Accessibility User Requirements](https://www.w3.org/TR/xaur/) (XAUR) for virtual reality or immersive environments, augmented or mixed reality, and other related technologies (XR)
 - [**Natural Language** Accessibility User Requirements](http://raw.githack.com/w3c/apa/main/naur/index.html) for voice assistants, interactive voice response (IVR) systems, smart speakers, and others
 - [Accessibility Requirements for People with **Low Vision**](https://www.w3.org/TR/low-vision-needs/)
-- @@ which for **Cognitive and Learning** Disabilities ?
+- [Making Content Usable for People with **Cognitive** and Learning Disabilities, User Stories](https://www.w3.org/TR/coga-usable/#user_needs) ("Content Usable" or "COGA Usable") lists user needs
 
 ## About the Standards
 
