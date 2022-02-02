@@ -6,7 +6,7 @@ nav_title: "Standards/Guidelines" # A short title that is used in the navigation
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2021-04-30   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-02-02   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: 
 # - name: "@@"   # Replace @@ with translator name
 #  link: @@
@@ -30,7 +30,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Date:</strong> Updated 30 April 2021. CHANGELOG.</p>
+  <p><strong>Date:</strong> Updated 2 February 2022. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -142,7 +142,7 @@ ARIA info:
 
 The following resources support development of accessibility evaluation methods and tools:
 
-- [[Accessibility Conformance Testing (ACT) Overview]](/standards-guidelines/act/) &mdash; ACT establishes and documents rules for testing the conformance of web content to accessibility standards.
+- [[Accessibility Conformance Testing (ACT) Overview]](/standards-guidelines/act/) &mdash; ACT establishes and documents rules for testing the conformance of web content to accessibility standards. The [WCAG 2 Test Rules](/standards-guidelines/act/rules/about/) use the ACT rules format.
 
 - [[Evaluation and Report Language (EARL) Overview]](/standards-guidelines/earl/) &mdash; EARL is a machine-readable format for expressing test results.
 
