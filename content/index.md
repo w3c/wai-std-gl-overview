@@ -150,9 +150,9 @@ Additional resources related to evaluation are listed in the [[Evaluating Web Ac
 
 - [[WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM is an approach for determining how well a website conforms to Web Content Accessibility Guidelines (WCAG).
 
-### Personalization
+### WAI-Adapt
 
-[[Personalization Overview]](/personalization/) &mdash; Personalization involves tailoring the user experience to meet the needs and preferences of the individual user. Content authors can use personalization standards to provide a default design and enable user personalization with minimal work.
+[[WAI-Adapt Overview]](/adapt/) &mdash; WAI-Adapt involves tailoring the user experience to meet the needs and preferences of the individual user. Content authors can use WAI-Adapt standards to provide a default design and enable user adapt with minimal work.
 
 ### Pronunciation
 
