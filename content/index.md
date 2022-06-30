@@ -152,7 +152,7 @@ Additional resources related to evaluation are listed in the [[Evaluating Web Ac
 
 ### WAI-Adapt
 
-[[WAI-Adapt Overview]](/adapt/) &mdash; WAI-Adapt involves tailoring the user experience to meet the needs and preferences of the individual user. Content authors can use WAI-Adapt standards to provide a default design and enable user adapt with minimal work.
+[[WAI-Adapt Overview]](/adapt/) &mdash; WAI-Adapt enables users to adapt (or ‘personalize’) how content is presented to meet their needs and preferences. Content authors can use WAI-Adapt standards to provide a default design and enable user adaptation with minimal work.
 
 ### Pronunciation
 
