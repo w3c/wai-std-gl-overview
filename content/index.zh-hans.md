@@ -25,9 +25,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
   <p><strong>编辑:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>。</p>
   <p>由教育和外联工作组（<a href="https://www.w3.org/WAI/EO/">EOWG</a>）开发。</p>
 
-# 请阅读翻译指南 https://www.w3.org/WAI/about/translating/#important
-# 请阅读此资源的翻译说明 https://github.com/w3c/wai-std-gl-overview/blob/master/README.md
-# 翻译说明结束
+# Read Translations Notes for this resource at https://github.com/w3c/wai-std-gl-overview/blob/master/README.md
 ---
 
 
