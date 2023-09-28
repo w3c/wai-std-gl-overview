@@ -25,7 +25,7 @@ footer: >   # Do not change these dates. Do translate the "Date", "Editor" and t
   <p><strong>Под редакцией:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Разработано при содействии Рабочей Группы по Образованию и Просвещению (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
-# Read Translations Notes for this resource at https://github.com/w3c/wai-std-gl-overview/blob/master/README.md
+# Read Translations Notes for this resource at https://github.com/w3c/wai-std-gl-overview#readme
 ---
 
 
