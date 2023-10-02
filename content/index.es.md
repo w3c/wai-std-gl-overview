@@ -6,7 +6,7 @@ nav_title: "Estándares/Pautas" # A short title that is used in the navigation
 
 lang: es   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2019-05-29   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-14   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Carlos Muncharaz"   # Replace @@ with translator name
   link: "http://www.muncharaz.eu/"
@@ -15,15 +15,16 @@ contributors:
 - name: "Jorge Rumoroso"   # Replace @@ with name, or delete this line if not multiple contributors
 
 ref: /standards-guidelines/   # Do not change this
+changelog: /standards-guidelines/changelog/
 layout: default
 github:
   repository: w3c/wai-std-gl-overview
-  path: index.es.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  path: content/index.es.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
 permalink: /standards-guidelines/es   # Add the language shortcode to the end; for example /standards-guidelines/fr
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Fecha:</strong> Actualizado el 13 de marzo del 2019.</p>
+  <p><strong>Fecha:</strong> Actualizado el 30 de abril del 2021. CHANGELOG.</p>
   <p><strong>Editora:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -69,7 +70,7 @@ Los estándares W3C y las Notas de los Grupos de Trabajo que se mencionan abajo 
 
 En los [[componentes esenciales de la accesibilidad web]](/fundamentals/components/) se puede ver que la accesibilidad depende de varios componentes de desarrollo web que interactúan juntos y cómo se aplican las pautas de WAI (WCAG, ATAG, UAAG).
 
-### Pautas de accesibilidad para el contenido web (WCAG) {#wcag}
+### Pautas de accesibilidad para el contenido web (WCAG) 2 {#wcag2}
 
 Por “contenido” web se hace referencia, generalmente, a la información que se puede encontrar en una página o aplicación web, lo cual incluye:
  
@@ -78,13 +79,15 @@ Por “contenido” web se hace referencia, generalmente, a la información que 
  
 Las pautas WCAG se aplican al contenido dinámico, multimedia, “móvil”, etc. También se pueden aplicar a tecnologías de la información y la comunicación (TIC) no relacionadas con la web, como se explica en [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
 
-Información sobre las pautas WCAG:
+Información sobre las pautas WCAG 2:
 
 - [[Resumen de WCAG]](/standards-guidelines/wcag/)
 - [[WCAG 2.1 de un vistazo]](/standards-guidelines/wcag/glance/)
 - [Cómo seguir las pautas WCAG 2 (Guía rápida)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [[Traducciones WCAG 2]](/standards-guidelines/wcag/translations/)
 - [Estándar WCAG 2.0](https://www.w3.org/TR/WCAG20/)
-- [Estándar WCAG 2.1](https://www.w3.org/TR/WCAG21/)
+- [Estándar WCAG 2.1](https://www.w3.org/TR/WCAG21/), [[Novedades en WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
+- [[Novedades en el borrador de WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
 
 ### Pautas de accesibilidad para las herramientas de creación de contenido (ATAG) {#atag}
 
@@ -105,6 +108,14 @@ Los agentes de usuario son navegadores, extensiones de los navegadores, reproduc
 Información sobre las pautas UAAG:
 - [[Resumen de UAAG]](/standards-guidelines/uaag/)
 - [Nota sobre UAAG 2.0](https://www.w3.org/TR/UAAG20/)
+
+### Pautas de accesibilidad del W3C (WCAG) 3 Borrador {#wcag3}
+
+Las pautas WCAG 3 se encuentran en un borrador inicial que se convertirá en un estándar W3C. WCAG 3 afecta al contenido web, aplicaciones, herramientas, publicaciones y tecnologías emergentes en la web.
+
+Información sobre WCAG 3:
+
+* [[Introducción a WCAG 3]](/standards-guidelines/wcag/wcag3-intro/)
 
 ## Especificaciones técnicas
 
@@ -140,6 +151,10 @@ Recursos adicionales relacionados con la evaluación se pueden encontrar en el [
 ### Personalización
 
 [[Resumen sobre la personalización]](/personalization/) &mdash; La personalización consiste en ajustar la experiencia del usuario a fin de cubrir las necesidades y preferencias individuales. Los autores de contenido pueden usar estándares de personalización para proporcionar un diseño por defecto y permitir la personalización del usuario con un esfuerzo mínimo.
+
+### Pronunciación
+
+[[Resumen sobre la pronunciación]](/pronunciation/) &mdash; La pronunciación consiste en conseguir que los lectores de pantalla y otros sistemas de síntesis del habla pronuncien el contenido correctamente.
 
 ## Otras áreas del trabajo de W3C WAI
 
