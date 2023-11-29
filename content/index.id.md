@@ -63,7 +63,7 @@ Halaman ini memperkenalkan pedoman dan standar lain yang terkait dengan aksesibi
 
 ## Pengenalan {#intro}
 
-Konsorsium World Wide Web (W3C) mengembangkan standar web internasional: <abbr title="Hypertext Markup Language - Bahasa Markah Hiperteks">HTML</abbr>, <abbr title="Cascading Style Sheet - Lembar Gaya Kaskade">CSS</abbr>, dan banyak lagi. Standar Web W3C dikenal dengan nama <dfn>Rekomendasi W3C</dfn>.
+Konsorsium World Wide Web (W3C) mengembangkan standar web internasional: <abbr title="Hypertext Markup Language - Bahasa Penanda Hiperteks">HTML</abbr>, <abbr title="Cascading Style Sheet - Lembar Gaya Beriam">CSS</abbr>, dan banyak lagi. Standar Web W3C dikenal dengan nama <dfn>Rekomendasi W3C</dfn>.
 
 Semua standar W3C ditinjau untuk mendukung aksesibilitas oleh Kelompok Kerja Arsitektur Platform yang Aksesibel ([APA](/about/groups/apawg/)).
 
@@ -104,7 +104,7 @@ Informasi seputar ATAG:
 
 ### Pedoman Aksesibilitas Agen Pengguna (UAAG) {#uaag}
 
-Agen pengguna termasuk browser, ekstensi browser, pemutar media, perangkat pembaca, dan aplikasi lainnya yang menyediakan konten web.
+Agen pengguna termasuk browser, ekstensi browser, pemutar media, perangkat pembaca, dan aplikasi lainnya yang menyajikan konten web.
 
 Informasi seputar UUAG:
 - [Gambaran Umum UAAG](/standards-guidelines/uaag/)
@@ -134,7 +134,7 @@ Informasi seputar ARIA:
 
 - [WebVTT: Format Web Video Text Tracks - Trek Teks pada Video Web](https://www.w3.org/TR/webvtt/) adalah format untuk takarir, deskripsi video berbentuk teks, dan metadata lainnya yang waktunya diselaraskan dengan konten video atau audio.
 
-- [Timed Text Markup Language - Bahasa Markah Teks Terjadwal (TTML)](https://www.w3.org/TR/ttml/) dimaksudkan untuk digunakan terkait transkode atau pertukaran informasi teks terjadwal pada format konten distribusi lama untuk subtitel dan takarir.
+- [Timed Text Markup Language - Bahasa Penanda Teks Terjadwal (TTML)](https://www.w3.org/TR/ttml/) dimaksudkan untuk digunakan terkait transkode atau pertukaran informasi teks terjadwal pada format konten distribusi lama untuk subtitel dan takarir.
 
 ### Evaluasi {#eval}
 
