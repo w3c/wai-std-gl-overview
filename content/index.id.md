@@ -166,7 +166,7 @@ Sumber informasi tambahan terkait evaluasi terdapat pada [[Gambaran Umum dalam M
 
 - [Daftar semua Standar W3C terkait aksesibilitas ("Rekomendasi W3C") dan Catatan Kelompok Kerja](https://www.w3.org/TR/?tag=accessibility)
 
-- [[Hukum dan Kebijakan terkait Aksesibilitas Web]](/policies/) daftar hukum dan kebijakan pemerintah terkait aksesibilitas pada negara-negara dan daerah-daerah di seluruh dunia. Banyak dari daftar tersebut yang merujuk pada standar aksesibilitas W3C.
+- [[Hukum dan Kebijakan Terkait Aksesibilitas Web]](/policies/) daftar hukum dan kebijakan pemerintah terkait aksesibilitas pada negara-negara dan daerah-daerah di seluruh dunia. Banyak dari daftar tersebut yang merujuk pada standar aksesibilitas W3C.
 
 - [[Mengapa Penyelarasan Standar Penting untuk Aksesibilitas Web]](/standards-guidelines/harmonization/)
 
