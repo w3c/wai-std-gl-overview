@@ -1,33 +1,32 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
-title: Vue d’ensemble des standards d’accessibilité du W3C # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Standards/Règles" # A short title that is used in the navigation
+title: Standards d’accessibilité du W3C - Vue d'ensemble
+nav_title: "Standards/Règles"
+lang: fr
+last_updated: 2022-11-30   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
-lang: fr   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-
-last_updated: 2021-05-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
-- name: "@code-elegant"   # Replace @@ with translator name
-#  link: @@
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
+- name: "@code-elegant"
 contributors:
-- name: "Victoria Menezes Miller"   # Replace @@ with contributor name, or delete this line if none
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple contributors
+- name: "Victoria Menezes Miller"
+- name: "Rémi Bétin"
 
-ref: /standards-guidelines/   # Do not change this
-changelog: /standards-guidelines/changelog/
-layout: default
 github:
   repository: w3c/wai-std-gl-overview
-  path: content/index.fr.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
+  path: content/index.fr.md   # Add the language shortcode to the middle of the filename, for example content/index.fr.md
+
 permalink: /standards-guidelines/fr   # Add the language shortcode to the end; for example /standards-guidelines/fr
+ref: /standards-guidelines/   # Do not change this
+
+changelog: /standards-guidelines/changelog/ # Do not change this
+layout: default
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date :</strong> Mis à jour le 30 avril 2021. CHANGELOG.</p>
-  <p><strong>Éditrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Élaboré avec des contributions du groupe de travail « Éducation et Rayonnement » (Education and Outreach Working Group <a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Date :</strong> Mis à jour le 29 juin 2022. CHANGELOG.</p>
+  <p><strong>Rédaction :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Élaboré avec des contributions du groupe de travail « Éducation et Promotion » (Education and Outreach Working Group <a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 # Read Translations Notes for this resource at https://github.com/w3c/wai-std-gl-overview#readme
 ---
@@ -135,7 +134,7 @@ Informations autour d’ARIA :
 
 Les ressources suivantes favorisent le développement de méthodes et d’outils d’évaluation de l’accessibilité :
 
-- [[Vue d’ensemble d’Évaluation de conformité à l’accessibilité (Accessibility Conformance Testing ACT)]](/standards-guidelines/act/) &mdash; ACT définit et documente les règles pour tester la conformité du contenu web aux standards d’accessibilité.
+- [[Vue d’ensemble d’Évaluation de conformité à l’accessibilité (Accessibility Conformance Testing ACT)]](/standards-guidelines/act/) &mdash; ACT définit et documente les règles pour tester la conformité du contenu web aux standards d’accessibilité. Les [Règles de tests des WCAG 2](/standards-guidelines/act/rules/about/) utilisent le format de règles ACT.
 
 - [[Vue d’ensemble du language d’évaluation et de compte rendu (Evaluation and Report Language EARL)]](/standards-guidelines/earl/) &mdash; EARL est un format interprétable par les machines pour transcrire des résultats de test.
 
@@ -143,9 +142,9 @@ Des ressources additionnelles relatives à l’évaluation sont disponibles dans
 
 - [[Vue d’ensemble de WCAG-EM : méthodologie d’évaluation de la conformité à l’accessibilité web]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM est une approche pour déterminer dans quelle mesure un site web est conforme aux Règles pour l'accessibilité des contenus Web (WCAG).
 
-### Personnalisation
+### WAI-Adapt
 
-[[Vue d’ensemble sur la personnalisation]](/personalization/) &mdash; La personnalisation implique l’adaptation sur mesure de l’expérience utilisateur pour satisfaire les besoins et préférences de l’utilisateur individuel. Les créateurs de contenu peuvent utiliser les standards à propos de la personnalisation pour fournir une conception par défaut et permettre une personnalisation par l’utilisateur avec un effort minimisé.
+[[WAI-Adapt - Vue d’ensemble]](/adapt/) &mdash; <span lang="en">WAI-Adapt</span> permet aux utilisateurs d'adapter (ou « personnaliser ») la manière dont le contenu est présenté pour satisfaire leurs besoins et préférences. Les créateurs de contenu peuvent utiliser les standards <span lang="en">WAI-Adapt</span> pour fournir une conception par défaut et permettre une adaptation par l’utilisateur avec un effort minimisé.
 
 ### Pronunciation
 [[Aperçu de la prononciation]](/pronunciation/) &mdash; La prononciation concerne les lecteurs d'écran et autres synthèses de synthèse vocale (TTS) qui prononcent correctement le contenu.
