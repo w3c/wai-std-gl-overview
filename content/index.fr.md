@@ -146,7 +146,7 @@ Des ressources additionnelles relatives à l’évaluation sont disponibles dans
 
 [[WAI-Adapt - Vue d’ensemble]](/adapt/) &mdash; <span lang="en">WAI-Adapt</span> permet aux utilisateurs d’adapter (ou « personnaliser ») la manière dont le contenu est présenté pour satisfaire leurs besoins et préférences. Les créateurs de contenu peuvent utiliser les standards <span lang="en">WAI-Adapt</span> pour fournir une conception par défaut et permettre une adaptation par l’utilisateur avec un effort minimisé.
 
-### Pronunciation
+### Prononciation
 [[Aperçu de la prononciation]](/pronunciation/) &mdash; La prononciation concerne les lecteurs d’écran et autres synthèses de synthèse vocale (TTS) qui prononcent correctement le contenu.
 
 ## Autres champs de travail de l’Initiative pour l’accessibilité du web (WAI)
