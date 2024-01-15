@@ -89,7 +89,7 @@ Informasi seputar WCAG 2:
 - [[Terjemahan WCAG 2]](/standards-guidelines/wcag/translations/)
 - [Standar WCAG 2.0](https://www.w3.org/TR/WCAG20/)
 - [Standar WCAG 2.1](https://www.w3.org/TR/WCAG21/), [[Yang Baru di WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
-- [[Yang Baru di Draf Kerja WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
+- [[Yang Baru di Rancangan Kerja WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
 
 ### Pedoman Aksesibilitas Sarana Penulisan (ATAG) {#atag}
 
@@ -110,9 +110,9 @@ Informasi seputar UUAG:
 - [Gambaran Umum UAAG](/standards-guidelines/uaag/)
 - [Catatan UAAG 2.0](https://www.w3.org/TR/UAAG20/)
 
-### Draf Kerja Pedoman Aksesibilitas Konten Web (WCAG) 3 W3C {#wcag3}
+### Rancangan Pedoman Aksesibilitas Konten Web (WCAG) 3 W3C {#wcag3}
 
-WCAG 3 adalah draf awal yang ditujukan untuk menjadi Standar W3C. WCAG 3 berlaku untuk konten web, aplikasi, alat, penerbitan, dan teknologi baru dalam web.
+WCAG 3 adalah rancangan awal yang ditujukan untuk menjadi Standar W3C. WCAG 3 berlaku untuk konten web, aplikasi, alat, penerbitan, dan teknologi baru dalam web.
 
 Informasi seputar WCAG 3:
 - [[Pengenalan ke WCAG 3]](/standards-guidelines/wcag/wcag3-intro/)
