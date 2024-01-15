@@ -83,7 +83,7 @@ Informations autour des WCAG 2 :
 - [Comment satisfaire aux WCAG 2 (référence rapide)](https://www.w3.org/WAI/WCAG21/quickref/)
 - [[Traductions WCAG 2]](/standards-guidelines/wcag/translations/)
 - [Le standard WCAG 2.0](https://www.w3.org/Translations/WCAG20-fr/)
-- [Le standard WCAG 2.1 (en anglais)](https://www.w3.org/TR/WCAG21/), [[Nouveautés de WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
+- [Le standard WCAG 2.1](https://www.w3.org/Translations/WCAG21-fr/), [[Nouveautés de WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
 - [[Nouveautés de la version préliminaire des WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
 
 ### Règles d'accessibilité pour les outils d'édition (ATAG) {#atag}
