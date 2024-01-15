@@ -172,6 +172,6 @@ Sumber informasi tambahan terkait evaluasi terdapat pada [[Gambaran Umum dalam M
 
 - [[Merujuk dan Menautkan ke Pedoman dan Dokumen Teknis WAI]](/standards-guidelines/linking/)
 
-- [Bagaimana WAI Mengembangkan Pedoman Aksesibilitas melalui Proses W3C: Target dan **Kesempatan untuk Berkontribusi**](/standards-guidelines/w3c-process/)
+- [Bagaimana WAI Mengembangkan Pedoman Aksesibilitas melalui Proses W3C: Pencapaian dan **Peluang Berkontribusi**](/standards-guidelines/w3c-process/)
 
 ![ilustrasi yang menunjukkan pedoman untuk berbagai komponen, uraian terperinci ada pada https://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
