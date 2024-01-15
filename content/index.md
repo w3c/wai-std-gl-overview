@@ -6,7 +6,7 @@ nav_title: "Standards/Guidelines" # A short title that is used in the navigation
 
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2022-06-29   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-01-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: 
 # - name: "@@"   # Replace @@ with translator name
 #  link: @@
@@ -89,7 +89,7 @@ WCAG 2 info:
 - [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/)
 - [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)
 - [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
-- [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/)
+- [WCAG 2.2 Standard](https://www.w3.org/TR/WCAG22/), [[What's New in WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
 
 ### Authoring Tool Accessibility Guidelines (ATAG) {#atag}
 
