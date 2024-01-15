@@ -80,7 +80,7 @@ Standar W3C dan Catatan Kelompok Kerja yang diperkenalkan di bawah ini sangat re
 * informasi standar seperti teks, gambar, dan suara
 * kode atau markah yang menentukan struktur, presentasi, dll.
 
-WCAG berlaku untuk konten dinamis, multimedia, "perangkat seluler", dll. WCAG juga dapat diterapkan ke teknologi informasi dan komunikasi (TIK) non-web, seperti yang dijelaskan pada [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
+WCAG berlaku untuk konten dinamis, multimedia, "perangkat seluler", dll. WCAG juga dapat diterapkan ke teknologi informasi dan komunikasi (TIK) nonweb, seperti yang dijelaskan pada [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
 
 Informasi seputar WCAG 2:
 - [Gambaran Umum WCAG](/standards-guidelines/wcag/)
