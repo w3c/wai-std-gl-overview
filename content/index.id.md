@@ -85,7 +85,7 @@ WCAG berlaku untuk konten dinamis, multimedia, "perangkat seluler", dll. WCAG ju
 Informasi seputar WCAG 2:
 - [Gambaran Umum WCAG](/standards-guidelines/wcag/)
 - [[Sekilas Mengenai WCAG 2.1]](/standards-guidelines/wcag/glance/)
-- [Cara Memenuhi WCAG 2 (Referensi Singkat)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [Cara Memenuhi WCAG 2 (Referensi Cepat)](https://www.w3.org/WAI/WCAG21/quickref/)
 - [[Terjemahan WCAG 2]](/standards-guidelines/wcag/translations/)
 - [Standar WCAG 2.0](https://www.w3.org/TR/WCAG20/)
 - [Standar WCAG 2.1](https://www.w3.org/TR/WCAG21/), [[Yang Baru di WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
