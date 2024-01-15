@@ -1,7 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
-title: Standards d’accessibilité du W3C - Vue d'ensemble
+title: Standards d’accessibilité du W3C – Vue d’ensemble
 nav_title: "Standards/Règles"
 lang: fr
 last_updated: 2022-11-30   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -66,9 +66,9 @@ Les standards du W3C et les notes de groupe de travail ci-dessous sont particuli
 
 ## Règles d’accessibilité {#guidelines}
 
-Les [[Éléments essentiels de l'accessibilité du Web]](/fundamentals/components/) montrent comment l’accessibilité du web dépend de la combinaison harmonieuse des nombreuses composantes du développement web et de l’interaction utilisateur, et comment les règles WAI (WCAG, ATAG, UAAG) s’appliquent.
+Les [[Éléments essentiels de l’accessibilité du Web]](/fundamentals/components/) montrent comment l’accessibilité du web dépend de la combinaison harmonieuse des nombreuses composantes du développement web et de l’interaction utilisateur, et comment les règles WAI (WCAG, ATAG, UAAG) s’appliquent.
 
-###  Règles pour l'accessibilité des contenus Web (WCAG) 2 {#wcag}
+###  Règles pour l’accessibilité des contenus Web (WCAG) 2 {#wcag}
 
 Le « contenu » web fait référence à l’information présente dans une page ou application web, y compris :
 
@@ -86,7 +86,7 @@ Informations autour des WCAG 2 :
 - [Le standard WCAG 2.1](https://www.w3.org/Translations/WCAG21-fr/), [[Nouveautés de WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
 - [[Nouveautés de la version préliminaire des WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
 
-### Règles d'accessibilité pour les outils d'édition (ATAG) {#atag}
+### Règles d’accessibilité pour les outils d’édition (ATAG) {#atag}
 
 Les outils d’édition sont des logiciels et des services que les « auteurs » (développeurs web, concepteurs, rédacteurs…) utilisent pour produire du contenu web. Par exemple : des éditeurs HTML, des gestionnaires de contenu (CMS), et des sites web qui permettent aux utilisateurs d’ajouter du contenu, tels que des blogues et des sites de réseau social. Les documents ATAG expliquent comment :
 * rendre les outils d’édition eux-mêmes accessibles, afin que les personnes handicapées puissent créer du contenu, et
@@ -97,7 +97,7 @@ Informations autour des ATAG :
 - [[Les ATAG en un coup d’œil]](/standards-guidelines/atag/glance/)
 - [Le standard ATAG 2.0 (en anglais)](https://www.w3.org/TR/ATAG/)
 
-### Règles pour l'accessibilité des agents utilisateurs (UAAG) {#uaag}
+### Règles pour l’accessibilité des agents utilisateurs (UAAG) {#uaag}
 
 Les agents utilisateur incluent les navigateurs, leurs greffons, les lecteurs de média, les lecteurs et toutes les applications qui restituent du contenu web.
 
@@ -105,8 +105,8 @@ Informations autour des UAAG :
 - [Vue d’ensemble des UAAG](/standards-guidelines/uaag/)
 - [Note UAAG 2.0 (en anglais)](https://www.w3.org/TR/UAAG20/)
 
-### Règles pour l'accessibilité du W3C (WCAG) 3 Projet de travail {#wcag3}
-WCAG 3 est un premier projet destiné à devenir une norme W3C. WCAG 3 s'applique au contenu Web, aux applications, aux outils, à la publication et aux technologies émergentes sur le Web.
+### Règles pour l’accessibilité du W3C (WCAG) 3 Projet de travail {#wcag3}
+WCAG 3 est un premier projet destiné à devenir une norme W3C. WCAG 3 s’applique au contenu Web, aux applications, aux outils, à la publication et aux technologies émergentes sur le Web.
 
 Informations autour des WCAG 3 :
 * [[Introduction aux WCAG 3]](/standards-guidelines/wcag/wcag3-intro/)
@@ -140,14 +140,14 @@ Les ressources suivantes favorisent le développement de méthodes et d’outils
 
 Des ressources additionnelles relatives à l’évaluation sont disponibles dans la [vue d’ensemble « Évaluer l’accessibilité web »](/test-evaluate/), dont :
 
-- [[Vue d’ensemble de WCAG-EM : méthodologie d’évaluation de la conformité à l’accessibilité web]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM est une approche pour déterminer dans quelle mesure un site web est conforme aux Règles pour l'accessibilité des contenus Web (WCAG).
+- [[Vue d’ensemble de WCAG-EM : méthodologie d’évaluation de la conformité à l’accessibilité web]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM est une approche pour déterminer dans quelle mesure un site web est conforme aux Règles pour l’accessibilité des contenus Web (WCAG).
 
 ### WAI-Adapt
 
-[[WAI-Adapt - Vue d’ensemble]](/adapt/) &mdash; <span lang="en">WAI-Adapt</span> permet aux utilisateurs d'adapter (ou « personnaliser ») la manière dont le contenu est présenté pour satisfaire leurs besoins et préférences. Les créateurs de contenu peuvent utiliser les standards <span lang="en">WAI-Adapt</span> pour fournir une conception par défaut et permettre une adaptation par l’utilisateur avec un effort minimisé.
+[[WAI-Adapt - Vue d’ensemble]](/adapt/) &mdash; <span lang="en">WAI-Adapt</span> permet aux utilisateurs d’adapter (ou « personnaliser ») la manière dont le contenu est présenté pour satisfaire leurs besoins et préférences. Les créateurs de contenu peuvent utiliser les standards <span lang="en">WAI-Adapt</span> pour fournir une conception par défaut et permettre une adaptation par l’utilisateur avec un effort minimisé.
 
-### Pronunciation
-[[Aperçu de la prononciation]](/pronunciation/) &mdash; La prononciation concerne les lecteurs d'écran et autres synthèses de synthèse vocale (TTS) qui prononcent correctement le contenu.
+### Prononciation
+[[Aperçu de la prononciation]](/pronunciation/) &mdash; La prononciation concerne les lecteurs d’écran et autres synthèses de synthèse vocale (TTS) qui prononcent correctement le contenu.
 
 ## Autres champs de travail de l’Initiative pour l’accessibilité du web (WAI)
 
