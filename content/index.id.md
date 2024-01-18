@@ -80,7 +80,7 @@ Standar W3C dan Catatan Kelompok Kerja yang diperkenalkan di bawah ini sangat re
 * informasi standar seperti teks, gambar, dan suara
 * kode atau markah yang menentukan struktur, presentasi, dll.
 
-WCAG berlaku untuk konten dinamis, multimedia, "perangkat seluler", dll. WCAG juga dapat diterapkan ke teknologi informasi dan komunikasi (TIK) nonweb, seperti yang dijelaskan pada [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
+WCAG berlaku untuk konten dinamis, multimedia, "perangkat seluler", dll. WCAG juga bisa diterapkan ke teknologi informasi dan komunikasi (TIK) nonweb, seperti yang dijelaskan pada [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
 
 Informasi seputar WCAG 2:
 - [Gambaran Umum WCAG](/standards-guidelines/wcag/)
@@ -142,7 +142,7 @@ Sumber informasi berikut mendukung pengembangan metode dan sarana evaluasi akses
 
 - [[Gambaran Umum Uji Kesesuaian Aksesibilitas (ACT)]](/standards-guidelines/act/) &mdash; ACT menetapkan dan mendokumentasikan aturan untuk menguji kesesuaian konten web dengan standar aksesibilitas. [Aturan Pengujian WCAG 2](/standards-guidelines/act/rules/about/) menggunakan format aturan ACT.
 
-- [[Gambaran Umum Bahasa Evaluasi dan Laporan (EARL)]](/standards-guidelines/earl/) &mdash; EARL adalah format yang dapat dibaca oleh mesin dalam mengekspresikan hasil pengujian.
+- [[Gambaran Umum Bahasa Evaluasi dan Laporan (EARL)]](/standards-guidelines/earl/) &mdash; EARL adalah format yang bisa dibaca oleh mesin dalam mengekspresikan hasil pengujian.
 
 Sumber informasi tambahan terkait evaluasi terdapat pada [[Gambaran Umum dalam Mengevaluasi Aksesibilitas Web]](/test-evaluate/), termasuk:
 
