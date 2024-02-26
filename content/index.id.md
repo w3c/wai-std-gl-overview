@@ -89,7 +89,7 @@ Informasi seputar WCAG 2:
 - [[Terjemahan WCAG 2]](/standards-guidelines/wcag/translations/)
 - [Standar WCAG 2.0](https://www.w3.org/TR/WCAG20/)
 - [Standar WCAG 2.1](https://www.w3.org/TR/WCAG21/), [[Yang Baru di WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
-- [[Yang Baru di Rancangan Kerja WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
+- [[Yang Baru di WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
 
 ### Pedoman Aksesibilitas Sarana Penulisan (ATAG) {#atag}
 
@@ -128,7 +128,7 @@ Rangkaian ARIA mencakup spesifikasi pemetaan <abbr title="Antarmuka Pemrograman 
 Informasi seputar ARIA:
 - [Gambaran Umum WAI-ARIA](/standards-guidelines/aria/) – mencakup [daftar dan deskripsi dari modul dan pemetaan API](/standards-guidelines/aria/#versions)
 - [Praktik Penulisan WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/)
-- [Standar WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/)
+- [Standar WAI-ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/)
 
 ### Audio dan Video {#multimedia}
 
