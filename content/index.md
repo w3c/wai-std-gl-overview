@@ -1,36 +1,39 @@
 ---
-# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: W3C Accessibility Standards Overview  # Do not translate "title:". Do translate the text after "title:".
+title: W3C Accessibility Standards Overview
 nav_title: "Standards/Guidelines" # A short title that is used in the navigation
 
-lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+lang: en  # Change "en" to the translated-language shortcode
 
-last_updated: 2024-01-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: 
-# - name: "@@"   # Replace @@ with translator name
-#  link: @@
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
+last_updated: 2024-02-29   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
 # contributors:
-# - name: "@@"   # Replace @@ with contributor name, or delete this line if none
-# - name: "@@"   # Replace @@ with name, or delete this line if not multiple contributors
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
 
-ref: /standards-guidelines/   # Do not change this
-changelog: /standards-guidelines/changelog/
-layout: default
 github:
   repository: w3c/wai-std-gl-overview
   path: content/index.md   # Add the language shortcode to the middle of the filename, for example index.fr.md
-permalink: /standards-guidelines/   # Add the language shortcode to the end; for example /standards-guidelines/fr
+
+permalink: /standards-guidelines/   # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /standards-guidelines/   # Do not change this
+
+changelog: /standards-guidelines/changelog/ # Do not change this
+layout: default
 feedbackmail: wai@w3.org
 
 # In the footer below:
+# Do not change the dates
 # Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
 # Translate the other words below, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
-# Do not change the dates in the footer below.
 footer: >
-  <p><strong>Date:</strong> Updated 29 June 2022. CHANGELOG.</p>
+  <p><strong>Date:</strong> Updated 29 February 2024. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -85,11 +88,11 @@ WCAG applies to dynamic content, multimedia, "mobile", etc. WCAG can also be app
 WCAG 2 info:
 - [WCAG Overview](/standards-guidelines/wcag/)
 - [[WCAG 2.1 at a Glance]](/standards-guidelines/wcag/glance/)
-- [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
 - [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/)
-- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)
-- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
 - [WCAG 2.2 Standard](https://www.w3.org/TR/WCAG22/), [[What's New in WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
+- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
+- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)
 
 ### Authoring Tool Accessibility Guidelines (ATAG) {#atag}
 
@@ -128,7 +131,7 @@ The ARIA suite includes <abbr title="application programming interface">API</abb
 ARIA info:
 - [WAI-ARIA Overview](/standards-guidelines/aria/) – includes a [list and description of modules and API mappings](/standards-guidelines/aria/#versions)
 - [WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
-- [WAI-ARIA 1.1 Standard](https://www.w3.org/TR/wai-aria-1.1/)
+- [WAI-ARIA 1.2 Standard](https://www.w3.org/TR/wai-aria-1.2/)
 
 ### Audio and Video {#multimedia}
 
