@@ -87,7 +87,7 @@ WCAG applies to dynamic content, multimedia, "mobile", etc. WCAG can also be app
 
 WCAG 2 info:
 - [WCAG Overview](/standards-guidelines/wcag/)
-- [[WCAG 2.1 at a Glance]](/standards-guidelines/wcag/glance/)
+- [[WCAG 2 at a Glance]](/standards-guidelines/wcag/glance/)
 - [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
 - [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/)
 - [WCAG 2.2 Standard](https://www.w3.org/TR/WCAG22/), [[What's New in WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
