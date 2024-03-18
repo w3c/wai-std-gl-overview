@@ -132,9 +132,9 @@ Informasi seputar ARIA:
 
 ### Audio dan Video {#multimedia}
 
-- [WebVTT: Format Web Video Text Tracks - Trek Teks pada Video Web](https://www.w3.org/TR/webvtt/) adalah format untuk takarir, deskripsi video berbentuk teks, dan metadata lainnya yang waktunya diselaraskan dengan konten video atau audio.
+- [WebVTT: Format <span lang="en">Web Video Text Tracks</span> - Trek Teks pada Video Web](https://www.w3.org/TR/webvtt/) adalah format untuk takarir, deskripsi video berbentuk teks, dan metadata lainnya yang waktunya diselaraskan dengan konten video atau audio.
 
-- [Timed Text Markup Language - Bahasa Penanda Teks Terjadwal (TTML)](https://www.w3.org/TR/ttml/) dimaksudkan untuk digunakan terkait transkode atau pertukaran informasi teks terjadwal pada format konten distribusi lama untuk subtitel dan takarir.
+- [<span lang="en">Timed Text Markup Language</span> - Bahasa Penanda Teks Terjadwal (TTML)](https://www.w3.org/TR/ttml/) dimaksudkan untuk digunakan terkait transkode atau pertukaran informasi teks terjadwal pada format konten distribusi lama untuk subtitel dan takarir.
 
 ### Evaluasi {#eval}
 
