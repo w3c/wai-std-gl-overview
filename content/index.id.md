@@ -2,11 +2,11 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
 title: Gambaran Umum Standar Aksesibilitas W3C  # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Standar/Panduan" # A short title that is used in the navigation
+nav_title: "Standar/Pedoman" # A short title that is used in the navigation
 
 lang: id   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 
-last_updated: 2021-05-08   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-03-18 # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Fri Rasyidi"   # Replace @@ with translator name
 #  link: @@
@@ -30,7 +30,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Tanggal:</strong> Diperbarui 30 April 2021. CHANGELOG.</p>
+  <p><strong>Tanggal:</strong> Diperbarui 29 Juni 2022. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Dikembangkan dengan masukan dari Kelompok Kerja Edukasi dan Pendampingan (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -42,7 +42,7 @@ footer: >
 {% include box.html type="start" h="2" title="Ringkasan" class="full" %}
 {:/}
 
-Halaman ini memperkenalkan panduan dan standar lainnya terkait aksesibilitas web.
+Halaman ini memperkenalkan pedoman dan standar lain yang terkait dengan aksesibilitas web.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -61,35 +61,35 @@ Halaman ini memperkenalkan panduan dan standar lainnya terkait aksesibilitas web
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Pengantar {#intro}
+## Pengenalan {#intro}
 
-Konsorsium World Wide Web (W3C) mengembangkan standar web internasional: <abbr title="Bahasa Penanda Hiperteks">HTML</abbr>, <abbr title="Lembar Gaya Berjenjang">CSS</abbr>, dan banyak lagi. Standar Web W3C dikenal dengan nama <dfn>Rekomendasi W3C</dfn>.
+Konsorsium World Wide Web (W3C) mengembangkan standar web internasional: <abbr title="Hypertext Markup Language - Bahasa Penanda Hiperteks">HTML</abbr>, <abbr title="Cascading Style Sheet - Lembar Gaya Beriam">CSS</abbr>, dan banyak lagi. Standar Web W3C dikenal dengan nama <dfn>Rekomendasi W3C</dfn>.
 
-Untuk mendukung aksesibilitas, semua standar W3C ditinjau oleh Kelompok Kerja Arsitektur Platform yang Aksesibel ([APA](/about/groups/apawg/)).
+Semua standar W3C ditinjau untuk mendukung aksesibilitas oleh Kelompok Kerja Arsitektur Platform yang Aksesibel ([APA](/about/groups/apawg/)).
 
-Standar W3C dan Catatan Kelompok Kerja yang diuraikan di bawah ini sangat relevan dengan aksesibilitas.
+Standar W3C dan Catatan Kelompok Kerja yang diperkenalkan di bawah ini sangat relevan dengan aksesibilitas.
 
-## Panduan Aksesibilitas {#guidelines}
+## Pedoman Aksesibilitas {#guidelines}
 
 [[Komponen Esensial dari Aksesibilitas Web]](/fundamentals/components/) menunjukkan bagaimana aksesibilitas web bergantung pada kerja sama dari beberapa komponen pengembangan dan interaksi web, serta bagaimana pedoman WAI (WCAG, ATAG, UAAG) diterapkan.
 
-### Panduan Aksesibilitas Konten Web (WCAG) 2 {#wcag2}
+### Pedoman Aksesibilitas Konten Web (WCAG) 2 {#wcag2}
 
 "Konten" Web pada umumnya merujuk pada informasi dalam halaman atau aplikasi web, termasuk:
 
 * informasi standar seperti teks, gambar, dan suara
-* kode atau penanda yang menentukan struktur, presentasi, dll.
+* kode atau markah yang menentukan struktur, presentasi, dll.
 
-WCAG berlaku untuk konten dinamis, multimedia, "seluler", dll. WCAG juga dapat diterapkan ke teknologi informasi dan komunikasi (TIK) non-web, seperti yang dijelaskan dalam [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
+WCAG berlaku untuk konten dinamis, multimedia, "perangkat seluler", dll. WCAG juga bisa diterapkan ke teknologi informasi dan komunikasi (TIK) nonweb, seperti yang dijelaskan pada [WCAG2ICT](/standards-guidelines/wcag/non-web-ict/).
 
 Informasi seputar WCAG 2:
 - [Gambaran Umum WCAG](/standards-guidelines/wcag/)
-- [[Selayang Pandang WCAG 2.1]](/standards-guidelines/wcag/glance/)
-- [Cara memenuhi WCAG 2 (Referensi Singkat)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [[Sekilas Mengenai WCAG 2.1]](/standards-guidelines/wcag/glance/)
+- [Cara Memenuhi WCAG 2 (Referensi Cepat)](https://www.w3.org/WAI/WCAG21/quickref/)
 - [[Terjemahan WCAG 2]](/standards-guidelines/wcag/translations/)
 - [Standar WCAG 2.0](https://www.w3.org/TR/WCAG20/)
 - [Standar WCAG 2.1](https://www.w3.org/TR/WCAG21/), [[Yang Baru di WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
-- [[Yang Baru di Draf Kerja WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
+- [[Yang Baru di WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
 
 ### Pedoman Aksesibilitas Sarana Penulisan (ATAG) {#atag}
 
@@ -99,79 +99,79 @@ Sarana penulisan adalah perangkat lunak dan jasa yang digunakan oleh "para penul
 
 Informasi seputar ATAG:
 - [Gambaran Umum ATAG](/standards-guidelines/atag/)
-- [[Selayang Pandang ATAG]](/standards-guidelines/atag/glance/)
+- [[Sekilas Mengenai ATAG]](/standards-guidelines/atag/glance/)
 - [Standar ATAG 2.0](https://www.w3.org/TR/ATAG/)
 
 ### Pedoman Aksesibilitas Agen Pengguna (UAAG) {#uaag}
 
-Agen pengguna termasuk browser, ekstensi browser, pemutar media, perangkat pembaca, dan aplikasi lainnya yang menerjemahkan konten web.
+Agen pengguna termasuk browser, ekstensi browser, pemutar media, perangkat pembaca, dan aplikasi lainnya yang menyajikan konten web.
 
 Informasi seputar UUAG:
 - [Gambaran Umum UAAG](/standards-guidelines/uaag/)
 - [Catatan UAAG 2.0](https://www.w3.org/TR/UAAG20/)
 
-### Draf Kerja Pedoman Aksesibilitas Konten Web (WCAG) 3 W3C {#wcag3}
+### Rancangan Pedoman Aksesibilitas Konten Web (WCAG) 3 W3C {#wcag3}
 
-WCAG 3 adalah draf awal yang ditujukan untuk menjadi Standar W3C. WCAG 3 berlaku untuk konten web, aplikasi, alat, penerbitan, dan teknologi baru dalam web.
+WCAG 3 adalah rancangan awal yang ditujukan untuk menjadi Standar W3C. WCAG 3 berlaku untuk konten web, aplikasi, alat, penerbitan, dan teknologi baru dalam web.
 
 Informasi seputar WCAG 3:
-- [[Pengantar WCAG 3]](/standards-guidelines/wcag/wcag3-intro/)
+- [[Pengenalan ke WCAG 3]](/standards-guidelines/wcag/wcag3-intro/)
 
 ## Spesifikasi Teknis
 
-### Aplikasi Internet Kaya yang Aksesibel (WAI-ARIA) {#aria}
+### Aplikasi Internet yang Kaya dan Aksesibel (WAI-ARIA) {#aria}
 
 ARIA menyediakan semantik agar penulis web dapat menyampaikan perilaku antarmuka pengguna dan informasi struktural ke teknologi pendukung (seperti pembaca layar). Spesifikasi ARIA menyediakan hakikat peran (*roles*), keadaan (*states*), dan properti yang mendefinisikan elemen antarmuka pengguna yang aksesibel.
 
-Rangkaian ARIA mencakup spesifikasi pemetaan <abbr title="Antarmuka Pemrograman Aplikasi">API</abbr> yang menyediakan panduan implementasi agen pengguna. Termasuk juga modul untuk Publikasi Digital dan Grafis.
+Rangkaian ARIA mencakup spesifikasi pemetaan <abbr title="Antarmuka Pemrograman Aplikasi">API</abbr> yang menyediakan panduan implementasi pada agen pengguna. Termasuk juga modul untuk Publikasi Digital dan Grafis.
 
 Informasi seputar ARIA:
-- [Gambaran Umum WAI-ARIA](/standards-guidelines/aria/) – mencakup [daftar dan deskripsi pemetaan modul dan API](/standards-guidelines/aria/#versions)
-- [Praktek Penulisan WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/)
-- [Standar WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/)
+- [Gambaran Umum WAI-ARIA](/standards-guidelines/aria/) – mencakup [daftar dan deskripsi dari modul dan pemetaan API](/standards-guidelines/aria/#versions)
+- [Praktik Penulisan WAI-ARIA](https://www.w3.org/TR/wai-aria-practices/)
+- [Standar WAI-ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/)
 
 ### Audio dan Video {#multimedia}
 
-- [WebVTT: Format Trek Teks Video Web](https://www.w3.org/TR/webvtt/) adalah format untuk teks, deskripsi video berbentuk teks, dan metadata lainnya yang waktunya diselaraskan dengan konten video atau audio.
+- [WebVTT: Format <span lang="en">Web Video Text Tracks</span> - Trek Teks pada Video Web](https://www.w3.org/TR/webvtt/) adalah format untuk takarir, deskripsi video berbentuk teks, dan metadata lainnya yang waktunya diselaraskan dengan konten video atau audio.
 
-- [Bahasa Penanda Teks Berjadwal (TTML)](https://www.w3.org/TR/ttml/) dimaksudkan untuk digunakan antar format konten distribusi lama terkait konversi transcoding atau bertukar informasi teks berjadwal untuk pembuatan teks video.
+- [<span lang="en">Timed Text Markup Language</span> - Bahasa Penanda Teks Terjadwal (TTML)](https://www.w3.org/TR/ttml/) dimaksudkan untuk digunakan terkait transkode atau pertukaran informasi teks terjadwal pada format konten distribusi lama untuk subtitel dan takarir.
 
 ### Evaluasi {#eval}
 
 Sumber informasi berikut mendukung pengembangan metode dan sarana evaluasi aksesibilitas:
 
-- [[Gambaran Umum Uji Kesesuaian Aksesibilitas (ACT)]](/standards-guidelines/act/) &mdash; ACT menetapkan dan mendokumentasikan aturan untuk menguji kesesuaian konten web dengan standar aksesibilitas.
+- [[Gambaran Umum Uji Kesesuaian Aksesibilitas (ACT)]](/standards-guidelines/act/) &mdash; ACT menetapkan dan mendokumentasikan aturan untuk menguji kesesuaian konten web dengan standar aksesibilitas. [Aturan Pengujian WCAG 2](/standards-guidelines/act/rules/about/) menggunakan format aturan ACT.
 
-- [[Gambaran Umum Bahasa Evaluasi dan Laporan (EARL)]](/standards-guidelines/earl/) &mdash; EARL adalah format yang dapat dibaca oleh mesin dalam mengekspresikan hasil pengujian.
+- [[Gambaran Umum Bahasa Evaluasi dan Laporan (EARL)]](/standards-guidelines/earl/) &mdash; EARL adalah format yang bisa dibaca oleh mesin dalam mengekspresikan hasil pengujian.
 
-Sumber informasi tambahan terkait evaluasi terdapat pada [[Gambaran Umum Mengevaluasi Aksesibilitas Web]](/test-evaluate/), termasuk:
+Sumber informasi tambahan terkait evaluasi terdapat pada [[Gambaran Umum dalam Mengevaluasi Aksesibilitas Web]](/test-evaluate/), termasuk:
 
 - [[Gambaran Umum WCAG-EM: Metodologi Evaluasi Kesesuaian Aksesibilitas Situs Web]](/test-evaluate/conformance/wcag-em/) &mdash; WCAG-EM adalah sebuah pendekatan untuk menentukan seberapa baik kesesuaian sebuah situs terhadap Pedoman Aksesibilitas Konten Web (WCAG).
 
-### Personalisasi
+### WAI-Adapt
 
-[[Gambaran Umum Personalisasi]](/personalization/) &mdash; Personalisasi melibatkan penyesuaian pengalaman pengguna untuk memenuhi kebutuhan dan preferensi masing-masing pengguna. Penulis konten dapat menggunakan standar personalisasi untuk menyediakan pengaturan awal pada desain dan memungkinkan personalisasi dengan usaha minimal.
+[[Gambaran Umum WAI-Adapt]](/adapt/) &mdash; WAI-Adapt memungkinkan pengguna untuk menyesuaikan (atau 'mempersonalisasi') cara konten disajikan untuk memenuhi kebutuhan dan preferensi mereka. Penulis konten dapat menggunakan standar WAI-Adapt untuk menyediakan desain bawaan dan memungkinkan penyesuaian oleh pengguna dengan pekerjaan minimal.
 
 ### Pengucapan
 
-[[Gambaran Umum Pengucapan]](/pronunciation/) &mdash; Pengucapan adalah mengenai pengucapan konten dengan benar oleh pembaca layar dan penerjemah teks-ke-suara (TTS).
+[[Gambaran Umum Pengucapan]](/pronunciation/) &mdash; Pengucapan adalah mengenai perangkat pembaca layar dan penerjemah teks-ke-suara (TTS) lainnya agar mengucapkan konten dengan benar.
 
 ## Area kerja W3C WAI lainnya
 
-- [[Aksesibilitas Seluler pada W3C]](/standards-guidelines/mobile/)
+- [[Aksesibilitas Perangkat Seluler pada W3C]](/standards-guidelines/mobile/)
 
 - [[Aksesibilitas Kognitif pada W3C]](/cognitive/)
 
 ## Informasi Tambahan {#moreinfo}
 
-- [Daftar semua Standar W3C yang berhubungan dengan aksesibilitas ("Rekomendasi W3C") dan Catatan Kelompok Kerja](https://www.w3.org/TR/?tag=accessibility)
+- [Daftar semua Standar W3C terkait aksesibilitas ("Rekomendasi W3C") dan Catatan Kelompok Kerja](https://www.w3.org/TR/?tag=accessibility)
 
-- [[Hukum dan Kebijakan Aksesibilitas Web]](/policies/) daftar hukum dan kebijakan pemerintah terkait aksesibilitas pada negara-negara dan daerah-daerah di seluruh dunia. Dari daftar tersebut, banyak yang merujuk pada standar aksesibilitas W3C.
+- [[Hukum dan Kebijakan Terkait Aksesibilitas Web]](/policies/) daftar hukum dan kebijakan pemerintah terkait aksesibilitas pada negara-negara dan daerah-daerah di seluruh dunia. Banyak dari daftar tersebut yang merujuk pada standar aksesibilitas W3C.
 
 - [[Mengapa Penyelarasan Standar Penting untuk Aksesibilitas Web]](/standards-guidelines/harmonization/)
 
-- [[Menautkan dan Merujuk ke Panduan dan Dokumen Teknis WAI]](/standards-guidelines/linking/)
+- [[Merujuk dan Menautkan ke Pedoman dan Dokumen Teknis WAI]](/standards-guidelines/linking/)
 
-- [Bagaimana WAI Mengembangkan Panduan Aksesibilitas melalui Proses W3C: Target dan **Kesempatan untuk Berkontribusi**](/standards-guidelines/w3c-process/)
+- [Bagaimana WAI Mengembangkan Pedoman Aksesibilitas melalui Proses W3C: Pencapaian dan **Peluang Berkontribusi**](/standards-guidelines/w3c-process/)
 
-![ilustrasi yang menunjukkan pedoman untuk berbagai komponen, uraian terperinci pada https://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
+![ilustrasi yang menunjukkan pedoman untuk berbagai komponen, uraian terperinci ada pada https://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
