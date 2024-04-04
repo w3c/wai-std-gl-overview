@@ -4,9 +4,7 @@
 
 title: W3C Accessibility Standards Overview
 nav_title: "Standards/Guidelines" # A short title that is used in the navigation
-
 lang: en  # Change "en" to the translated-language shortcode
-
 last_updated: 2024-02-29   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
@@ -39,7 +37,6 @@ footer: >
 
 # Read Translations Notes for this resource at https://github.com/w3c/wai-std-gl-overview#readme
 ---
-
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
@@ -177,4 +174,5 @@ Additional resources related to evaluation are listed in the [[Evaluating Web Ac
 
 - [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and **Opportunities to Contribute**](/standards-guidelines/w3c-process/)
 
-![illustration showing the guidelines for the different components, detailed description at https://www.w3.org/WAI/intro/components-desc.html#guide]({{ "/content-images/wai-std-gl-overview/specs.png" | relative_url }})
+{% assign longdesc_url = "/fundamentals/components/examples/#guide" | relative_url %}
+{% include image.html src="specs.png" alt="Illustration showing the guidelines for the different components" longdesc=longdesc_url %}
