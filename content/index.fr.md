@@ -4,13 +4,13 @@
 title: Standards d’accessibilité du W3C – Vue d’ensemble
 nav_title: "Standards/Règles"
 lang: fr
-last_updated: 2024-01-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-04-04   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 translators: 
 - name: "@code-elegant"
+- name: "Rémi Bétin"
 contributors:
 - name: "Victoria Menezes Miller"
-- name: "Rémi Bétin"
 
 github:
   repository: w3c/wai-std-gl-overview
@@ -24,13 +24,12 @@ layout: default
 feedbackmail: wai@w3.org
 
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date :</strong> Mis à jour le 29 juin 2022. CHANGELOG.</p>
+  <p><strong>Date :</strong> Mis à jour le 29 février 2024. CHANGELOG.</p>
   <p><strong>Rédaction :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Élaboré avec des contributions du groupe de travail « Éducation et Promotion » (Education and Outreach Working Group <a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 # Read Translations Notes for this resource at https://github.com/w3c/wai-std-gl-overview#readme
 ---
-
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Résumé" class="full" %}
@@ -80,11 +79,11 @@ Les WCAG s’appliquent au contenu dynamique, multimédia, « mobile »… Les W
 Informations autour des WCAG 2 :
 - [Vue d’ensemble des WCAG](/standards-guidelines/wcag/)
 - [[Les WCAG 2.1 en un coup d’œil]](/standards-guidelines/wcag/glance/)
-- [Comment satisfaire aux WCAG 2 (référence rapide)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [Comment satisfaire aux WCAG 2 (référence rapide)](https://www.w3.org/WAI/WCAG22/quickref/)
 - [[Traductions WCAG 2]](/standards-guidelines/wcag/translations/)
-- [Le standard WCAG 2.0](https://www.w3.org/Translations/WCAG20-fr/)
+- [Le standard WCAG 2.2](https://www.w3.org/TR/WCAG22/), [[Nouveautés des WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
 - [Le standard WCAG 2.1](https://www.w3.org/Translations/WCAG21-fr/), [[Nouveautés des WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
-- [[Nouveautés des WCAG 2.2]](/standards-guidelines/wcag/new-in-22/)
+- [Le standard WCAG 2.0](https://www.w3.org/Translations/WCAG20-fr/)
 
 ### Règles d’accessibilité pour les outils d’édition (ATAG) {#atag}
 
@@ -122,7 +121,7 @@ La suite ARIA comprend des spécifications de correspondance d’interface de pr
 Informations autour d’ARIA :
 - [Vue d’ensemble de WAI-ARIA](/standards-guidelines/aria/) – comprend une [liste avec description de modules et de correspondances d’API](/standards-guidelines/aria/#versions)
 - [Pratiques de création WAI-ARIA (en anglais)](https://www.w3.org/TR/wai-aria-practices/)
-- [Standard WAI-ARIA 1.1 (en anglais)](https://www.w3.org/TR/wai-aria-1.1/)
+- [Standard WAI-ARIA 1.2 (en anglais)](https://www.w3.org/TR/wai-aria-1.2/)
 
 ### Audio et vidéo {#multimedia}
 
@@ -167,4 +166,5 @@ Des ressources additionnelles relatives à l’évaluation sont disponibles dans
 
 - [[Comment WAI développe les règles d’accessibilité au travers du processus du W3C : jalons et **occasions de contribuer**]](/standards-guidelines/w3c-process/)
 
-![illustration montrant les règles pour les différentes composantes, description détaillée disponible à https://www.w3.org/WAI/intro/components-desc.html#guide (en anglais)]({{ "/content-images/wai-std-gl-overview/specs.fr.png" | relative_url }})
+{% assign longdesc_url = "/fundamentals/components/examples/fr#guide" | relative_url %}
+{% include image.html src="specs.fr.png" alt="Illustration montrant les règles pour les différentes composantes" longdesc=longdesc_url %}
