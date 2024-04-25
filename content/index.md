@@ -127,7 +127,7 @@ The ARIA suite includes <abbr title="application programming interface">API</abb
 
 ARIA info:
 - [WAI-ARIA Overview](/standards-guidelines/aria/) – includes a [list and description of modules and API mappings](/standards-guidelines/aria/#versions)
-- [WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
+- [WAI-ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/)
 - [WAI-ARIA 1.2 Standard](https://www.w3.org/TR/wai-aria-1.2/)
 
 ### Audio and Video {#multimedia}
